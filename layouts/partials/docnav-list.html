@@ -22,15 +22,26 @@
     {{ $groups = uniq $groups }}
 
     {{ range $groups }}
+
+    {{ $active_within := false }}
+    {{ range where $docs ".Params.nav_section" . }}
+        {{ if eq .File.UniqueID $page.File.UniqueID }}
+            {{ $active_within = true }}
+        {{ end }}
+    {{ end }}
+
     <li>
-        <p class="docnav-title">{{ . }}</p>
-        <ol class="docnav-list">
-            {{ range where $docs ".Params.nav_section" . }}
-            <li class="{{ if eq .File.UniqueID $page.File.UniqueID }}active {{ end }}">
-                <a href="{{ .Permalink | relURL }}"> {{ .Params.nav_title }}</a>
-            </li>
-            {{ end }}
-        </ol>
+        <details class="docnav-details" {{ if $active_within }}open {{ end }}>
+            <summary class="docnav-title">{{ . }}</summary>
+
+            <ol class="docnav-list">
+                {{ range where $docs ".Params.nav_section" . }}
+                <li class="{{ if eq .File.UniqueID $page.File.UniqueID }}active {{ end }}">
+                    <a href="{{ .Permalink | relURL }}"> {{ .Params.nav_title }}</a>
+                </li>
+                {{ end }}
+            </ol>
+        </details>
     </li>
     {{ end }}
 </ol>

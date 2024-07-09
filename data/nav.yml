@@ -1,4 +1,4 @@
-side_nav_title: About
+side_nav_title: Diode Network
 nav_links:
   - link_label: About
     link_url: About
@@ -11,4 +11,4 @@ nav_links:
   - link_label: Vault
     link_url: Vault
 logo:
-  logo_heading: Diode Network
+  logo_heading: Diode Documentation

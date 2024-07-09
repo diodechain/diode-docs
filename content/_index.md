@@ -3,7 +3,7 @@ _schema: default
 title: Welcome 👋
 nav_title: Welcome 👋
 SEO_options:
-  title:
+  title: About Diode
   image:
   description:
 draft: false

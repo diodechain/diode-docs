@@ -1,7 +1,7 @@
 ---
 title: Configuring theme colors
 nav_title: Configuring theme colors
-nav_section: Customizing Alto
+nav_section: FAQ
 weight: 2
 _schema: docs
 ---

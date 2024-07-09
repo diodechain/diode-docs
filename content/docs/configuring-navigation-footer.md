@@ -2,7 +2,7 @@
 _schema: default
 title: Configuring the navigation and footer
 nav_title: Configuring the navigation and footer
-nav_section: Customizing Alto
+nav_section: FAQ
 weight: 1
 draft: false
 ---

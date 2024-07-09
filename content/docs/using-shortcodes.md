@@ -2,7 +2,7 @@
 _schema: default
 title: Using Shortcodes
 nav_title: Using Shortcodes
-nav_section: Root
+nav_section: FAQ
 weight: 2
 draft: false
 ---

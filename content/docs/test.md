@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: Test
-nav_title: test
+nav_title: Test
 nav_section: Root
-weight: 1
+weight: 2
 draft: false
 ---

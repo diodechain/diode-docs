@@ -1,3 +1,10 @@
+# diode-docs
+diode-docs is a forked repo from diodechain that is owned by diode-docs github user.  reason being is cloudcannon requires user-level access to repos, and can only use repos the user owns/is-canonical-member-of, so needed to create an isolated user who owns the repo.  
+
+repo has a branch for each area of content: about, network, app, cli, vault -> these branches are connected to respective cloud cannon sites, and then mounted via cloud cannon to the docs.diode.io domain
+
+sop is basically edit via cloudcannon's wysiwyg editor, cloud cannon auto-pushes to diode-docs/diode-docs.  from time to time, we may open pull request to diodechain/diode-docs to flow copy upstream.
+
 # Alto Hugo Template
 
 Alto is a minimal and modern Hugo template for static documentation sites, created by and optimized for [CloudCannon](https://cloudcannon.com). Browse through a [live demo](https://holy-ball.cloudvent.net/).

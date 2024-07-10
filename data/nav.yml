@@ -7,8 +7,8 @@ nav_links:
   - link_label: App
     link_url: https://blue-weasel.cloudvent.net/
   - link_label: CLI
-    link_url: /
-  - link_label: Vault
     link_url: https://spindrift-asparagus.cloudvent.net/
+  - link_label: Vault
+    link_url: https://punchy-range.cloudvent.net/
 logo:
   logo_heading: Diode Docs

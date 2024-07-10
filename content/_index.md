@@ -1,20 +1,11 @@
 ---
 _schema: default
-title: Welcome 👋
-nav_title: Welcome 👋
+title: Network Overview
+nav_title: Network Overview
 SEO_options:
-  title: About Diode
+  title: Diode Network
   image:
   description:
 draft: false
 ---
-Hi there - if you’re looking for the future of secure communications, you’ve come to the right place!
-
-Diode has four primary components - each of which have an additional documentation area you can dive into:
-
-1. **Network** - an open, permissionless secure communication network that uses blockchain technology for security and scalability.
-2. **App** - cross platform messaging app that is a secure replacement for Discord and Slack.
-3. **CLI** - a command-line interface tool that allows you to quickly build on top of the Diode Network and create capabilities that can interact with App users.
-4. **Vault** - a hardware device that runs both the App and the CLI and can perform duties like being a backup-device for your App zones or hosting a decentralized website
-
-**Diode’s vision is to transform the Internet into everyone’s private network, and we’re adding daily to those capabilities!**
+The underlying blockchain-anchored Zero Trust DePIN network is the only open, permissionless "ZTNA" available. It uses the $DIODE token to underwrite bandwidth supply on behalf of application providers. Anyone can create their own application on top of the Diode Network. As opposed to the rest of the ZTNA market, the Diode Network 1) has global routing and identities 2) is permissionless - anyone can contribute a routing / relay node 3) has no fees for using the network\* (using the network via third party relays requires a bandwidth sponsor).

@@ -1,14 +1,14 @@
 side_nav_title: CLI
 nav_links:
   - link_label: About
-    link_url: https://peachy-glasses.cloudvent.net/
+    link_url: https://docs.diode.io/
   - link_label: Network
-    link_url: https://tranquil-cereal.cloudvent.net/
+    link_url: https://docs.diode.io/network/
   - link_label: App
-    link_url: https://blue-weasel.cloudvent.net/
+    link_url: https://docs.diode.io/app/
   - link_label: CLI
-    link_url: https://spindrift-asparagus.cloudvent.net/
+    link_url: https://docs.diode.io/cli/
   - link_label: Vault
-    link_url: https://punchy-range.cloudvent.net/
+    link_url: https://docs.diode.io/vaults/
 logo:
   logo_heading: Diode Docs

@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: App Overview
-nav_title: App Overview
+title: Overview
+nav_title: Overview
 SEO_options:
   title: Diode App Secure Messenger
   image:

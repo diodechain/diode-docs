@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: Help on other products
-nav_title: Help on other products
-nav_section: Root
+title: Docs on other products
+nav_title: Docs on other products
+nav_section: Other topics
 weight: 20000
 draft: false
 ---

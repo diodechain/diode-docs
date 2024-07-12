@@ -1,9 +1,8 @@
 ---
 _schema: default
-title: Getting Started
-nav_title: Getting Started
-nav_section: FAQ
-weight: 2
+title: ABC123
+nav_title: ABC123
+SEO_options: {}
 draft: false
 ---
 Placeholder example

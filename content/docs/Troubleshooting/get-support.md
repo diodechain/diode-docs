@@ -15,4 +15,8 @@ Please get in touch:
 * [Join the Diode Community zone](https://diode.io/joinzone/#tB0kOiAdLwJs7CGXhZXtWy4VlVWhqb094hgKktTOCkJFF-8VMA91SoferyZv) and chat with an Admin
 * Open a support ticket by emailing: support@diode.io
 
-If you are helping an organization with their communications needs, you may be interested in a **support service level agreement** - please ask about this when you email support@diode.io!
+#### Support SLAs
+
+If you are helping an organization with their communications needs, you may be interested in a support service level agreement.
+
+Please ask about our support SLAs when you email support@diode.io!

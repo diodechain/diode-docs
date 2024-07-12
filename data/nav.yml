@@ -3,12 +3,12 @@ nav_links:
   - link_label: About
     link_url: https://docs.diode.io/
   - link_label: Network
-    link_url: https://docs.diode.io/network/
+    link_url: https://network.docs.diode.io/
   - link_label: App
-    link_url: https://docs.diode.io/app/
+    link_url: https://app.docs.diode.io/
   - link_label: CLI
-    link_url: https://docs.diode.io/cli/
+    link_url: https://cli.docs.diode.io/
   - link_label: Vault
-    link_url: https://docs.diode.io/vaults/
+    link_url: https://vaults.docs.diode.io/
 logo:
   logo_heading: Diode Docs

@@ -6,7 +6,7 @@ nav_section: Troubleshooting
 weight: 301
 draft: false
 ---
-We want to help you integrate secure communications into your life!
+We want to help you integrate secure communications into your work, community, and life!
 
 Please get in touch:
 

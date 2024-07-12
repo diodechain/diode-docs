@@ -3,7 +3,7 @@ _schema: default
 title: Overview
 nav_title: Overview
 nav_section: Explore the UI
-weight: 1
+weight: 5
 draft: false
 ---
 Explore

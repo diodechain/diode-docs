@@ -6,7 +6,9 @@ nav_section: Troubleshooting
 weight: 301
 draft: false
 ---
-We want to help you introduce secure communications into your life - please get in touch by:
+We want to help you integrate secure communications into your life!
+
+Please get in touch:
 
 * Join our Telegram community and ask your question there: https://t.me/diode\_chain
 * Browse the threads on the support forum: https://forum.diode.io/

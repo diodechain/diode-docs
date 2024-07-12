@@ -8,9 +8,9 @@ SEO_options:
   description:
 draft: false
 ---
-Hi there - if you’re looking for the future of secure communications, you’ve come to the right place!
+Hi there - if you’re looking for the future of secure communications, you’ve come to the right place!  Our next generation solutions and communications infrastructure eliminate third-parties at all levels of the communications stack... without requiring self-hosted servers.
 
-Diode has four primary components - each of which have an additional documentation area you can dive into:
+We make this available to the world in four primary components - each of which have an additional documentation area you can dive into:
 
 1. **Network** - an open, permissionless secure communication network that uses blockchain technology for security and scalability.
 2. **App** - cross platform messaging app that is a secure replacement for Discord and Slack.

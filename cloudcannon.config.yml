@@ -10,7 +10,7 @@ collections_config:
     parse_branch_index: true
     disable_add_folder: true
     path: content
-    base_url: https://blue-weasel.cloudvent.net/app/
+    base_url: https:/docs.diode.io/app/
     icon: feed
     schemas:
       default:

@@ -17,4 +17,4 @@ We make this available to the world in four primary components - each of which h
 3. <a href="https://cli.docs.diode.io" title="Diode CLI" target="_blank" rel="noopener"><strong>CLI</strong></a> - a command-line interface tool that allows you to quickly build on top of the Diode Network and create capabilities that can interact with App users.
 4. <a href="https://vaults.docs.diode.io" title="Diode Vault" target="_blank" rel="noopener"><strong>Vault</strong></a> - a hardware device that runs both the App and the CLI and can perform duties like being a backup-device for your App zones or hosting a decentralized website
 
-**Diode’s vision is to transform the Internet into everyone’s private network, and we’re adding daily to those capabilities!**
+### **Diode’s vision is to transform the Internet into everyone’s private network, and we’re adding daily to those capabilities!**

@@ -19,7 +19,3 @@ Select the installation guide for your Operating System:
 <a href="https://support.diode.io/article/j8e4a8a59a" target="_blank" rel="noopener"><strong>Linux</strong></a>
 
 iOS, Android, and <a href="https://support.diode.io/article/slqz8wzlos" target="_blank" rel="noopener"><strong>ChromeOS</strong></a> devices can just <a href="https://diode.io/download#app" target="_blank" rel="noopener"><strong>download the Diode App (aka Diode Drive</strong></a>) from the respective app store and follow on-screen instructions to <a href="https://support.diode.io/article/gmg93l7u6y" target="_blank" rel="noopener"><strong>create an Account</strong></a> or <a href="https://support.diode.io/article/g3d42k5onu" target="_blank" rel="noopener"><strong>Link their Device to an existing Account</strong></a>.
-
----
-
-To uninstall, see [**this article**](https://support.diode.io/article/ktqicydvdi).

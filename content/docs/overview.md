@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: Overview
-nav_title: Overview
-nav_section: Explore the UI
+title: UI Overview
+nav_title: UI Overview
+nav_section: Explore Features
 weight: 5
 draft: false
 ---

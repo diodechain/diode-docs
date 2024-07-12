@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Getting Started
-nav_title: Getting Started
+title: Install the App
+nav_title: Install the App
 nav_section: Installation
 weight: 2
 draft: false

@@ -6,4 +6,4 @@ nav_section: Troubleshooting
 weight: 300
 draft: false
 ---
-asdfasdf
+[Get support](/docs/troubleshooting/get-support/) or <a href="https://support.diode.io/" target="_blank" rel="noopener">search the older support site for now!</a>

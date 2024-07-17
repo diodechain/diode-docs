@@ -1,9 +1,9 @@
 ---
 _schema: default
-title: Getting Started
-nav_title: Getting Started
-nav_section: FAQ
+title: Installation
+nav_title: Installation
+nav_section: Installation
 weight: 2
 draft: false
 ---
-Placeholder example
+Download and install the CLI for <a href="https://diode.io/download/#cli" target="_blank" rel="noopener">most platforms here.</a>

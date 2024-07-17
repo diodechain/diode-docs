@@ -15,4 +15,4 @@ Structurally speaking, Diode is two entities:
 
 Diode was founded by Dominic Letz and Hans Rempel when Dominic started investigating how to fully secure the house-of-cards that is PKI.  <a href="https://eprint.iacr.org/2019/579.pdf" target="_blank" rel="noopener">Blockquick</a> was born, NTP was validated, an open/permissionless ZTNA was created, and the pioneer self-custody messaging and file transfer app was developed.  Both the company and the foundation were created in 2021.
 
-The teams operate out of five regions: North America, South America, Western Europe, Eastern Europe, and Asia.
+The teams operate out of five regions: North America, South America, Western Europe, Eastern Europe, and Asia.  <a href="https://t.me/diode_chain" title="Telegram channel" target="_blank" rel="noopener">Please get in touch!</a>

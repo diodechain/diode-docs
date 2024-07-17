@@ -6,4 +6,4 @@ nav_section: Using the App
 weight: 100
 draft: false
 ---
-asdfasdf
+Follow the <a href="https://support.diode.io/article/irhluyq82j-diode-drive-d-drive-introduction" target="_blank" rel="noopener">introduction and subsequent articles </a>on the older support site for now!

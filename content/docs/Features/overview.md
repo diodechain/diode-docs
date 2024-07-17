@@ -6,4 +6,4 @@ nav_section: Features
 weight: 200
 draft: false
 ---
-Explore
+<a href="https://support.diode.io/category/32jogoa9ws-diode-app-user-interface" target="_blank" rel="noopener">See here</a>

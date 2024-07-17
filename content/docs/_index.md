@@ -1,9 +1,9 @@
 ---
 _schema: default
-title: Getting Started
-nav_title: Getting Started
-nav_section: FAQ
+title: Host a Node
+nav_title: Host a Node
+nav_section: Host a Node
 weight: 2
 draft: false
 ---
-Bleh
+<a href="https://forum.diode.io/t/lite-node-installation/33" target="_blank" rel="noopener">See here for leading edge status.</a>

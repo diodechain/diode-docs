@@ -14,3 +14,5 @@ Structurally speaking, Diode is two entities:
 2. <a href="https://diode.foundation" target="_blank" rel="noopener">Diode</a>, the for-profit C Corp: Diode owns the intellectual property used by the Diode Network and provides the Diode app (messaging, files) to customers.
 
 Diode was founded by Dominic Letz and Hans Rempel when Dominic started investigating how to fully secure the house-of-cards that is PKI.  <a href="https://eprint.iacr.org/2019/579.pdf" target="_blank" rel="noopener">Blockquick</a> was born, NTP was validated, an open/permissionless ZTNA was created, and the pioneer self-custody messaging and file transfer app was developed.
+
+The team operates out of five regions: North America, South America, Western Europe, Eastern Europe, and Asia.

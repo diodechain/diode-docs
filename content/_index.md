@@ -8,7 +8,7 @@ SEO_options:
   description:
 draft: false
 ---
-![](/uploads/image.png)
+![](/uploads/image-1.png)
 
 The Diode Vault is a tool that extends the presence and reach of your team. It relays encrypted messages on behalf of offline team members, backs up files, and provides a private exit node to give your team ex-region Internet access.
 

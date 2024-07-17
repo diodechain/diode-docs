@@ -10,6 +10,8 @@ draft: false
 
 The 2312-NT model is the first Vault model produced starting in December of 2023.
 
+By configuring the Vault to auto-accept Zone invitations from authorized people, the Vault operates as a "Bot" in Diode App Zones.
+
 It contains a solid state drive and a system controller running at 1.8GHz with 8GB of RAM and Gigabit Ethernet.
 
 The "N" in the "2312-NT" can be any number and corresponds to the number of terabytes of storage that the vault has.

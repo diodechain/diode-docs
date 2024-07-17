@@ -10,7 +10,9 @@ draft: false
 ---
 Hi there - if you’re looking for the future of secure communications, you’ve come to the right place!
 
-Diode's next generation solutions eliminate third-parties at all levels of the communications stack... without requiring self-hosted servers.  We make this available to the world in four primary components - each of which have an additional documentation area you can dive into:
+Diode's next generation solutions eliminate third-parties at all levels of the communications stack... without requiring self-hosted servers.
+
+We make this available to the world in four primary components - each of which have an additional documentation area you can dive into:
 
 1. <a href="https://network.docs.diode.io" title="Diode Network" target="_blank" rel="noopener"><strong>Network</strong></a> - an open, permissionless secure communication network that uses blockchain technology for security and scalability.
 2. <a href="https://app.docs.diode.io" title="Diode App" target="_blank" rel="noopener"><strong>App</strong></a> - cross platform messaging app that is a secure replacement for Discord and Slack.

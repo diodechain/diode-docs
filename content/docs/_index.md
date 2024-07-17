@@ -15,3 +15,5 @@ It contains a solid state drive and a system controller running at 1.8GHz with 8
 The "N" in the "2312-NT" can be any number and corresponds to the number of terabytes of storage that the vault has.
 
 For example, a "2312-1T" system has 1 terabyte of storage.
+
+MSRP ranges from $400 USD to $600 USD depending on the SSD.

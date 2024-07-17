@@ -1,20 +1,11 @@
 ---
 _schema: default
-title: Welcome 👋
-nav_title: Welcome 👋
+title: Diode CLI Overview
+nav_title: Overview
 SEO_options:
   title: About Diode
   image:
   description:
 draft: false
 ---
-Hi there - if you’re looking for the future of secure communications, you’ve come to the right place!
-
-Diode has four primary components - each of which have an additional documentation area you can dive into:
-
-1. **Network** - an open, permissionless secure communication network that uses blockchain technology for security and scalability.
-2. **App** - cross platform messaging app that is a secure replacement for Discord and Slack.
-3. **CLI** - a command-line interface tool that allows you to quickly build on top of the Diode Network and create capabilities that can interact with App users.
-4. **Vault** - a hardware device that runs both the App and the CLI and can perform duties like being a backup-device for your App zones or hosting a decentralized website
-
-**Diode’s vision is to transform the Internet into everyone’s private network, and we’re adding daily to those capabilities!**
+The <a href="https://support.diode.io/article/caxyvmjbem" target="_blank" rel="noopener"><strong>Diode Client</strong></a> (CLI) enables you to quickly publish content to the Diode Network, or to directly access content already published. It is a fast way to start interacting directly with the Diode Network from your local device. The Diode CLI implements the [**Blockquick(TM) algorithm**](https://support.diode.io/article/osywoqibv1), which enables anything running it to interact directly with compatible decentralized networks, like the Diode Network.

@@ -2,7 +2,7 @@ side_nav_title: Vaults
 nav_links:
   - link_label: About
     link_url: https://docs.diode.io/
-  - link_label: <strong>Network</strong>
+  - link_label: Network
     link_url: https://network.docs.diode.io/
   - link_label: App
     link_url: https://app.docs.diode.io/

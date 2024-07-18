@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Overview
+title: Network Overview
 nav_title: Overview
 SEO_options:
   title: Diode Network

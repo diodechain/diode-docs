@@ -24,7 +24,7 @@
                     {{ else }}
                         <a {{if .link_icon_path }} target="_blank" {{else}} target="_self" {{end}} href="/{{ .link_url | urlize }}">
                     {{ end }}
-                        {{ if .link_label = site.Data.meta.product_name}}
+                        {{ if .link_label == site.Data.meta.product_name}}
                           <strong>
                         {{ end }}
                         {{ with .link_label }}
@@ -33,7 +33,7 @@
                         {{ if .link_icon_path}}
                             <img class="nav-links" src="{{ .link_icon_path }}" alt="{{ site.Data.meta.project_name }} on {{ .link_title }}" width="32" height="32" decoding="async">
                         {{ end }}
-                        {{ if .link_label = site.Data.meta.product_name}}
+                        {{ if .link_label == site.Data.meta.product_name}}
                           </strong>
                         {{ end }}
                     </a>

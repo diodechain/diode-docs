@@ -6,7 +6,7 @@ colors:
       text-main: '#363636'
       text-bright: '#000000'
       text-muted: '#70777f'
-      links: '#0076d1'
+      links: '#f15c2e'
       highlight: '#de935f'
       selection: '#9e9e9e'
       form-placeholder: '#949494'
@@ -23,7 +23,7 @@ colors:
       code-params: '#de935f'
       code-values: '#b5bd68'
       variable: '#39a33c'
-      code: '#000'
+      code: '#000000'
     button_colors:
       button-base: '#d0cfcf'
       button-hover: '#9b9b9b'
@@ -33,7 +33,7 @@ colors:
     border_colors:
       border: '#dbdbdb'
     focus_colors:
-      focus: '#0096bfab'
+      focus: rgba(150, 191, 171, 0)
     shortcode_colors:
       diffcode-added: '#ddffddcf'
       diffcode-removed: '#ffc8c8'

@@ -28,7 +28,7 @@
                           <strong>
                         {{ end }}
    
-                        {{ absURL }}
+                        {{ .Permalink | absURL }}
                         {{ with .link_label }}
                             {{ . }}
                         {{ end }}

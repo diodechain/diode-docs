@@ -33,7 +33,7 @@
                         {{ if .link_icon_path}}
                             <img class="nav-links" src="{{ .link_icon_path }}" alt="{{ site.Data.meta.project_name }} on {{ .link_title }}" width="32" height="32" decoding="async">
                         {{ end }}
-                        { if eq "https://mydocs.com" site.BaseURL }}
+                        {{ if eq "https://mydocs.com" site.BaseURL }}
                           </strong>
                         {{ end }}
                     </a>

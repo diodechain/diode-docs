@@ -19,12 +19,11 @@
             <ul>
                 {{ range site.Data.nav.nav_links }}
                 <li>
-                    {{ if eq .link_label site.Data.meta.product_name }}{{ $link_class = "focus" }}{{ else }}{{ $link_class = "" }}{{ end }}
-                    {{ $link_class }}
+                    {{ if eq .link_label site.Data.meta.product_name }}{{ $link_class := "focus" }}{{ end }}
                     {{ if hasPrefix .link_url "http" }}
-                        <a {{if .link_icon_path }} target="_blank" {{else}} target="_self" {{end}} class="{{ $link_class }}" href="{{ .link_url }}">
+                        <a {{if .link_icon_path }} target="_blank" {{else}} target="_self" {{end}} class="{{ with $link_class }}" href="{{ .link_url }}">
                     {{ else }}
-                        <a {{if .link_icon_path }} target="_blank" {{else}} target="_self" {{end}} class="{{ $link_class }}" href="/{{ .link_url | urlize }}">
+                        <a {{if .link_icon_path }} target="_blank" {{else}} target="_self" {{end}} class="{{ with $link_class }}" href="/{{ .link_url | urlize }}">
                     {{ end }}
                         {{ with .link_label }}
                             {{ . }}

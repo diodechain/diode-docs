@@ -51,7 +51,7 @@ colors:
       text-main: '#e6edf3'
       text-bright: '#ffffff'
       text-muted: '#c8c8c8'
-      links: '#58a4e0'
+      links: '#f15c2e'
       highlight: '#de935f'
       selection: '#616161'
       form-placeholder: '#e0e0e0'

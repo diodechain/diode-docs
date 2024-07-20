@@ -27,8 +27,8 @@
                         {{ if eq .link_url site.BaseURL }}
                           <strong>
                         {{ end }}
-                        {{ site.BaseURL }}
-                        {{ .Site.BaseURL }}
+                        {{ .link_url }}
+                        {{ .Permalink }}
                         {{ with .link_label }}
                             {{ . }}
                         {{ end }}

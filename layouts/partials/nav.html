@@ -17,7 +17,7 @@
           <span class="editor-link"><a href="cloudcannon:collections/data/nav.yml" data-cms-bind-style="sidebar" class="btn"><strong>&#9998;</strong>Edit Navigation</a></span>
       <div class="nav-content">
             <ul>
-                {{ .Params }}
+                {{ .Permalink }}
                 {{ range site.Data.nav.nav_links }}
                 <li>
                     {{ if hasPrefix .link_url "http" }}

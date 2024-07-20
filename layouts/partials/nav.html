@@ -3,7 +3,7 @@
          aria-label="Project Navigation">
         <a class="logo-link" href="/">
           
-            {{ $logo := site.Data.nav.logo }}
+            {{ $logo := site.Data.nav.logo }}$.
                 {{ if $logo.logo_image  }}
                     <img class="logo logo-light" src="{{ $logo.logo_image }}" alt="{{ site.Data.meta.project_name }} Logo" decoding="async">
                     {{ if $logo.logo_image_dark }}
@@ -17,7 +17,7 @@
           <span class="editor-link"><a href="cloudcannon:collections/data/nav.yml" data-cms-bind-style="sidebar" class="btn"><strong>&#9998;</strong>Edit Navigation</a></span>
       <div class="nav-content">
             <ul>
-                {{ $.Site.BaseURL }}
+                {{ cloudcannon:collections/data }}
                 {{ range site.Data.nav.nav_links }}
                 <li>
                     {{ if hasPrefix .link_url "http" }}
@@ -25,7 +25,7 @@
                     {{ else }}
                         <a {{if .link_icon_path }} target="_blank" {{else}} target="_self" {{end}} href="/{{ .link_url | urlize }}">
                     {{ end }}
-                        {{ if eq .link_url site.BaseURL }}
+                        {{ if eq .link_label site.BaseURL }}
                           <strong>
                         {{ end }}
    

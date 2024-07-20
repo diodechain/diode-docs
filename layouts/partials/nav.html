@@ -24,7 +24,7 @@
                     {{ else }}
                         <a {{if .link_icon_path }} target="_blank" {{else}} target="_self" {{end}} href="/{{ .link_url | urlize }}">
                     {{ end }}
-                        {{ if eq .link_label site.Data.meta.product_name }}
+                        {{ if eq .link_url absURL }}
                           <strong>
                         {{ end }}
                         {{ with .link_label }}

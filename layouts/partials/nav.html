@@ -28,7 +28,7 @@
                           <strong>
                         {{ end }}
    
-                        {{ .Permalink | absURL }}
+                        {{ .Site.BaseURL }}
                         {{ with .link_label }}
                             {{ . }}
                         {{ end }}

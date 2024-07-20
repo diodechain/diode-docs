@@ -19,24 +19,17 @@
             <ul>
                 {{ range site.Data.nav.nav_links }}
                 <li>
+                    {{ if eq .link_label site.Data.meta.product_name $link_class := "strong" end }}
                     {{ if hasPrefix .link_url "http" }}
-                        <a {{if .link_icon_path }} target="_blank" {{else}} target="_self" {{end}} href="{{ .link_url }}">
+                        <a {{if .link_icon_path }} target="_blank" {{else}} target="_self" {{end}} class={{$link_class}} href="{{ .link_url }}">
                     {{ else }}
-                        <a {{if .link_icon_path }} target="_blank" {{else}} target="_self" {{end}} href="/{{ .link_url | urlize }}">
+                        <a {{if .link_icon_path }} target="_blank" {{else}} target="_self" {{end}} class={{$link_class}} href="/{{ .link_url | urlize }}">
                     {{ end }}
-                        {{ if eq .link_label site.Data.meta.product_name }}
-                          <strong>
-                        {{ end }}
-   
-                        {{ .Params }}
                         {{ with .link_label }}
                             {{ . }}
                         {{ end }}
                         {{ if .link_icon_path}}
                             <img class="nav-links" src="{{ .link_icon_path }}" alt="{{ site.Data.meta.project_name }} on {{ .link_title }}" width="32" height="32" decoding="async">
-                        {{ end }}
-                        {{ if eq .link_label site.Data.meta.product_name }}
-                          </strong>
                         {{ end }}
                     </a>
                 </li>

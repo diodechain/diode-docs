@@ -4,7 +4,7 @@ title: Vault Getting Started Guide
 nav_title: Getting Started
 nav_section: Other topics
 weight: 20001
-draft: true
+draft: false
 ---
 Congratulations on your purchase of a <a href="https://diode.io/solutions/vault/" target="_blank" rel="noopener"><strong>Vault</strong></a>!
 

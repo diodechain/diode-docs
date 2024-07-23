@@ -2,7 +2,7 @@
 _schema: default
 title: Zone Selector Bar
 nav_title: The Zone Selector Bar
-nav_section: User Interface
+nav_section: Features
 weight: 202
 draft: false
 ---

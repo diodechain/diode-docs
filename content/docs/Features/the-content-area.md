@@ -2,7 +2,7 @@
 _schema: default
 title: The Content Area
 nav_title: The Content Area
-nav_section: User Interface
+nav_section: Features
 weight: 200
 draft: false
 ---

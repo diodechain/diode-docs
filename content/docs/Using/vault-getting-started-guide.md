@@ -3,7 +3,7 @@ _schema: default
 title: Vault Getting Started Guide
 nav_title: Getting Started
 nav_section: Using the Vault
-weight: 20001
+weight: 1
 draft: false
 ---
 Congratulations on your purchase of a <a href="https://diode.io/solutions/vault/" target="_blank" rel="noopener"><strong>Vault</strong></a>!

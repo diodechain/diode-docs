@@ -3,7 +3,7 @@ _schema: default
 title: Move Zone Folder
 nav_title: Move Zone Folder To a Different Disk
 nav_section: IT Admin
-weight: 287
+weight: 302
 draft: false
 ---
 While you can use the app's "Location on Disk" Zone setting to move a Zone folder to a new location on the same disk, it will not allow you to move the Zone folder to another disk or external drive.

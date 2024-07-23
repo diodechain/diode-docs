@@ -2,7 +2,7 @@
 _schema: default
 title: Quick Access Bar
 nav_title: The Quick Access Bar
-nav_section: User Interface
+nav_section: Features
 weight: 201
 draft: true
 ---

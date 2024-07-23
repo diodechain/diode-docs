@@ -2,7 +2,7 @@
 _schema: default
 title: Vault Getting Started Guide
 nav_title: Getting Started
-nav_section: Other topics
+nav_section: Using The Vault
 weight: 20001
 draft: false
 ---

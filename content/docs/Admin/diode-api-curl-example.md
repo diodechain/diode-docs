@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: 'Diode API Curl Example '
-nav_title: Diode API Curl Example (send_message)
+title: Diode API Curl Example  (send_message)
+nav_title: Diode API Curl Example
 nav_section: IT Admin
 weight: 305
 draft: false

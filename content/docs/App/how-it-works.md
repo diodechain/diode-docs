@@ -4,7 +4,7 @@ title: How it Works
 nav_title: How it Works
 nav_section: Navigating
 weight: 206
-draft: false
+draft: true
 ---
 The Diode App is an E2E encrypted application for file sharing, collaboration, and backup that works for MacOS, Linux (ARM and X86), Windows, iOS, and Android.
 

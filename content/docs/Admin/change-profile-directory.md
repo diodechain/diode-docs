@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Change Profile Directory
-nav_title: Change profile directory
+nav_title: Change Profile Directory
 nav_section: IT Admin
 weight: 304
 draft: false

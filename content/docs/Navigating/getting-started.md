@@ -56,13 +56,11 @@ This will show the Global Menu - click the "Settings" menu item. In the Settings
 
 ![](/uploads/image-38.png)
 
----
-
-### **NEXT STEP:** [**Create Your First Zone**](https://app.docs.diode.io/docs/navigating/create-a-zone/)
+**Next Step:** [**Create Your First Zone**](https://app.docs.diode.io/docs/navigating/create-a-zone/)
 
 <u>Getting-started articles:</u>
 
-* <a href="https://support.diode.io/article/d3eguu0pem" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
+* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
 * <a href="https://app.docs.diode.io/docs/navigating/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
 * <a href="https://app.docs.diode.io/docs/navigating/create-a-zone/" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
 * <a href="https://app.docs.diode.io/docs/navigating/linked-devices/" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>

@@ -1,76 +1,45 @@
 ---
 _schema: default
-title: Create an Account
-nav_title: Create an Account
+title: Manually update Diode App on Linux
+nav_title:
 nav_section: Navigating
 weight: 205
 draft: true
 ---
-You need to create an Account to start using Diode Drive so that you can collaborate with others securely.
-
-An Account is simply an alias to the public address of the Diode Drive installation you are running - it is a pseudo-anonymous name, like an email address, that the application only uses for authentication.
-
-Follow the three steps below to create your Account.
+Follow the three steps below to manually update the Diode App on Linux (Raspberry Pi/ARM shown below).
 
 ---
 
-##### **1\. Click Sign up**
+## **1\. Download**
 
-Locate the Diode Drive icon in your task bar. On MacOS it will look something like this:
+[**Download Diode**](https://diode.io/resources/download) for Linux - pay attention to the Linux variant (x86, ARM, 32/64 bit) to ensure you download the right one for your system.
 
-![](/uploads/image-8.png)
+## **2\. Install and run the App**
 
-Click the orange Diode Drive icon, and then click Sign up
+Set the File Permissions for the downloaded .run file to include "Execute".
 
-![](/uploads/image-33.png)
+![](https://files.helpdocs.io/qwk5dmv7m8/articles/d3eguu0pem/1615810674835/image.png)
 
----
+You can then either run the installer from a terminal window (enter the name of the downloaded installer prececed by `./` - e.g. `./dDrive-1.8.12-linux-arm32.run`) or double click the file from the UI and select "Execute".
 
-##### 2\. **Enter an Account Name**
+![](https://files.helpdocs.io/qwk5dmv7m8/articles/y4o1695k29/1699906605154/image.png)
 
-Names are unique and must be at least 8 characters long
-
-![](/uploads/image-34.png)
-
----
-
-##### **3\. Allow the name to register**
-
-You will need to wait for up to a minute for your new name to register, after which all of the features in the application will be available to you. As it is registering, you can take some time to read through the in-app tutorial.
-
-![](/uploads/image-35.png)
-
----
-
-##### **4\. Print-out your backup code**
-
-It is very important to create a copy of your <a href="https://support.diode.io/article/zjud05ha10" target="_blank" rel="noopener"><strong>backup code</strong></a> . If you lose access to your device for any reason, you can restore your Account on another device if you have your backup code.
-
-To print your backup code, click the Diode Drive icon in the upper left.
-
-![](/uploads/image-37.png)
-
-This will show the Global Menu - click the "Settings" menu item. In the Settings area, click the "Backup Code" setting, and then click the printer icon to print the backup code out.
-
-![](/uploads/image-38.png)
-
----
-
-### **NEXT STEP:** [**Create Your First Zone**](https://support.diode.io/article/k1diuzadd8)
+The script will execute and will install and auto-launch the app:
 
 &nbsp;
+
+![](https://files.helpdocs.io/qwk5dmv7m8/articles/y4o1695k29/1699906781708/image.png)
+
+## **3\. Verify the App is running**
+
+The app should have re-launched, showing the icon in the task bar like usual!
+
+![](https://files.helpdocs.io/qwk5dmv7m8/articles/y4o1695k29/1699906860549/image.png)
+
+---
+
+That's it! Diode is updated and active on your system.
 
 ---
 
 &nbsp;
-
-<u>Getting-started articles:</u>
-
-* <a href="https://support.diode.io/article/d3eguu0pem" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
-* <a href="https://support.diode.io/article/gmg93l7u6y" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
-* <a href="https://support.diode.io/article/k1diuzadd8" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
-* <a href="https://support.diode.io/article/g3d42k5onu" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>
-* <a href="https://support.diode.io/article/v428b36e31" target="_blank" rel="noopener"><strong>Share files or folders via web browser</strong></a>
-* <a href="https://support.diode.io/article/jkzakxo7a0" target="_blank" rel="noopener"><strong>Invite other team members to your Zone</strong></a>
-* <a href="https://support.diode.io/article/x859ax5avc" target="_blank" rel="noopener"><strong>Backup and persistently host your files</strong></a>
-* <a href="https://support.diode.io/article/uuj9ac8eqs" target="_blank" rel="noopener"><strong>Join a Zone via Invite Code</strong></a>

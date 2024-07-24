@@ -36,15 +36,15 @@ The reference implementation used in the prenet is the open source <a href="http
 
 ## **Data types**
 
-##### **Integer**
+#### **Integer**
 
 Integers are big-endian encoded.
 
-##### **Binary**
+#### **Binary**
 
 Binaries are stored natively in RLP.
 
-##### **Data Objects**
+#### **Data Objects**
 
 All data objects follow the general structure:
 
@@ -61,7 +61,7 @@ RPC: `["location", <s>, <peak_block>, <device_signature>, <server_signature>]`
 * **device\_signature**: binary - Bert encoded list: `[<server_id>, <peak_block>]`
 * **server\_signature**: binary - Bert encoded list: `[<server_id>, <peak_block>, <device_signature>]`
 
-##### **Server Object v1**
+#### **Server Object v1**
 
 RPC: `["server", <host>, <edge_port>, <server_port>, <signature>]`
 
@@ -70,7 +70,7 @@ RPC: `["server", <host>, <edge_port>, <server_port>, <signature>]`
 * **server\_port**: integer - port for other cloud software to connect
 * **signature**: binary - Signature of the bert encoded list: `[<host>, <edge_port>, <server_port>]`
 
-##### **Server Object v2**
+#### **Server Object v2**
 
 RPC: `["server", <host>, <edge_port>, <server_port>, <version>, <extra>, <signature>]`
 
@@ -81,9 +81,9 @@ RPC: `["server", <host>, <edge_port>, <server_port>, <version>, <extra>, <signat
 * **extra**: list - `[[<key>, <value>]]` key value list with key being a binary string and value being an integer
 * **signature**: binary - Signature of the bert encoded list: `[<host>, <edge_port>, <server_port>, <version>, <extra>]`
 
-### **Edge RPC API Reference**
+## **Edge RPC API Reference**
 
-#### **getblockpeak()**
+### **getblockpeak()**
 
 Returns the current block number.
 
@@ -106,7 +106,7 @@ Example:
 >> ["response", 100]
 ```
 
-#### **getblockheader(int)**
+### **getblockheader(int)**
 
 Returns block header information about a block by block index (block number).
 
@@ -144,7 +144,7 @@ Example:
   ["block_hash", 0x00003335f640c174ac2a04e0b8537e1adc3a9e035f5f8f4bbc6937578289c43e],]]
 ```
 
-#### **getblock(int)**
+### **getblock(int)**
 
 Returns block information about a block by block index (block number).
 
@@ -182,7 +182,7 @@ Example:
     ["block_hash", 0x00002ac3dc9997f624fa9b8c90e4375ca2be4ad8a558bc393ca9127a0915a8bd]]]]
 ```
 
-#### **getstateroots(int)**
+### **getstateroots(int)**
 
 Returns the 16 sub-merkle roots of the state (accounts) storage. The hash of all roots together should return then block\_header.state\_root hash value.
 
@@ -224,7 +224,7 @@ Example
   0xec1e267dd2579ada733e8732ff164e88b20a36d82c181b2551c28279783d37ef]]
 ```
 
-#### **getaccount(block\_index, account)**
+### **getaccount(block\_index, account)**
 
 Return account and the merkle proof of account in the given index.
 
@@ -275,7 +275,7 @@ Example:
   ]]]
 ```
 
-#### **getaccountroots(block\_nr, account)**
+### **getaccountroots(block\_nr, account)**
 
 Returns the 16 sub-merkle roots of the specified account storage. The hash of all roots together should return the account.storageRoot hash value.
 
@@ -318,7 +318,7 @@ Example:
   0xec1e267dd2579ada733e8732ff164e88b20a36d82c181b2551c28279783d37ef]]
 ```
 
-#### **getaccountvalue(block\_index, account, key)**
+### **getaccountvalue(block\_index, account, key)**
 
 Returns account (contract) storage data by account (contract) id and storage key and block index.
 
@@ -352,7 +352,7 @@ Example:
   "",0x05]]
 ```
 
-#### **getnode(key)**
+### **getnode(key)**
 
 Retrieves the object of the server from the kademlia network.
 
@@ -379,7 +379,7 @@ Example:
   0x013edfd174175cc1b127deedcf5837415a4a9a4cacae7642b8671ec1286b797391541d2a6721c64889d7b9c9e132ac59d3003abc940a03ecbe735a01862919843a]]
 ```
 
-#### **getobject(key)**
+### **getobject(key)**
 
 Retrieves an object of device from the kademlia network.
 
@@ -406,7 +406,7 @@ Example:
   0x0017f28e0e4a881fea9c29da99a62f5d29f8b0919dad75bf09a94b44cad4f27f74560a37a4ec3badb3c09efd7c508e2fdc430225c93cf6ab1c20447fb587e640f6]]
 ```
 
-#### **sendtransaction(tx)**
+### **sendtransaction(tx)**
 
 Submit a transaction to the network.
 
@@ -428,7 +428,7 @@ Example:
 >> ["response", "ok"]
 ```
 
-#### **portopen(device, port, flags = “rw”)**
+### **portopen(device, port, flags = “rw”)**
 
 Requests to open a port on the target device. Ports can only be opened on nodes holding the actual device connection.
 
@@ -461,7 +461,7 @@ Example:
 >> ["response", "ok", 0x86f0]
 ```
 
-#### **portsend(ref, data)**
+### **portsend(ref, data)**
 
 Sends a chunk of data to the destination.
 
@@ -490,7 +490,7 @@ Example:
 >> ["response", "ok"]
 ```
 
-#### **portclose(ref)**
+### **portclose(ref)**
 
 Closes an open port.
 
@@ -512,11 +512,11 @@ Example:
 >> ["response", "ok"]
 ```
 
-### **DEVICE RPC**
+## **DEVICE RPC**
 
 These are calls that can be made from the server down to the edge.
 
-#### **« portopen(port, ref, access\_id)**
+### **« portopen(port, ref, access\_id)**
 
 Requests to open a port on the given port number using the unique identifier
 
@@ -535,7 +535,7 @@ Response:
   * ref: binary - the same unique identifier of the port connection
   * reason: string - description of the error
 
-#### **« portsend(ref, data)**
+### **« portsend(ref, data)**
 
 Sends a chunk of data to the destination.
 
@@ -552,7 +552,7 @@ Response:
 * Error:`[“response”, “error”, reason]`
   * reason: string - Description of the error
 
-#### **« portclose(ref)**
+### **« portclose(ref)**
 
 Closes an open port.
 
@@ -564,7 +564,7 @@ Parameters:
 
 Response: `[“response”, “ok”]`
 
-#### **« goodbye(reason, …)**
+### **« goodbye(reason, …)**
 
 Server disconnect. This is the only command that does not expect a response, since the connection is closed immediately after it.
 

@@ -16,7 +16,7 @@ Follow the three steps below to create your Account.
 
 ---
 
-##### **1\. Click Sign up**
+##### 1\. Click Sign Up
 
 Locate the Diode Drive icon in your task bar. On MacOS it will look something like this:
 
@@ -28,7 +28,7 @@ Click the orange Diode Drive icon, and then click Sign up
 
 ---
 
-##### **2\. Enter an Account Name**
+##### **2\. Enter An Account Name**
 
 Names are unique and must be at least 8 characters long
 
@@ -36,7 +36,7 @@ Names are unique and must be at least 8 characters long
 
 ---
 
-##### **3\. Allow the name to register**
+##### **3\. Allow The Name To Register**
 
 You will need to wait for up to a minute for your new name to register, after which all of the features in the application will be available to you. As it is registering, you can take some time to read through the in-app tutorial.
 
@@ -44,7 +44,7 @@ You will need to wait for up to a minute for your new name to register, after wh
 
 ---
 
-##### **4\. Print-out your backup code**
+##### **4\. Print-Out Your Backup Code**
 
 It is very important to create a copy of your <a href="https://app.docs.diode.io/docs/navigating/diode-drive-backup-codes/" target="_blank" rel="noopener"><strong>backup code</strong></a> . If you lose access to your device for any reason, you can restore your Account on another device if you have your backup code.
 

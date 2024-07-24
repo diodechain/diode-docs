@@ -10,11 +10,11 @@ Follow the three steps below to get up and running on MacOS.
 
 ---
 
-##### **1\. Download**
+#### **1\. Download**
 
 [**Download Diode Drive**](https://diode.io/download#app) for MacOS
 
-##### **2\. Install and run Diode Drive**
+#### **2\. Install and run Diode Drive**
 
 Double click the .dmg file and drag the Diode Drive icon into the Applications folder.
 
@@ -40,7 +40,7 @@ You can watch this walk through video for more details:
 
 {{< vimeo id="https://vimeo.com/554772585" title="Diode Drive installation on Mac OS" >}}
 
-##### **3\. Verify Diode Drive is running**
+#### **3\. Verify Diode Drive is running**
 
 When Diode Drive starts up, it will load as a small orange icon in the task bar:
 
@@ -54,11 +54,11 @@ It should auto-open a sign up screen - if it does not, clicking the orange Diode
 
 That's it! Diode Drive is installed and active on your system.
 
-### **NEXT STEP:** [**Create an Account**](https://app.docs.diode.io/docs/navigating/getting-started/)
+## **NEXT STEP:** [**Create an Account**](https://app.docs.diode.io/docs/navigating/getting-started/)
 
 ---
 
-<u>Getting-started articles:</u>
+<u>Getting Started Articles:</u>
 
 * <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
 * <a href="https://app.docs.diode.io/docs/navigating/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>

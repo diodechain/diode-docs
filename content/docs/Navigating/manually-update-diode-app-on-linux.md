@@ -10,11 +10,11 @@ Follow the three steps below to manually update the Diode App on Linux (Raspberr
 
 ---
 
-##### **1\. Download**
+## **1\. Download**
 
 [**Download Diode**](https://diode.io/resources/download) for Linux - pay attention to the Linux variant (x86, ARM, 32/64 bit) to ensure you download the right one for your system.
 
-##### **2\. Install and run the App**
+## **2\. Install and run the App**
 
 Set the File Permissions for the downloaded .run file to include "Execute".
 
@@ -30,7 +30,7 @@ The script will execute and will install and auto-launch the app:
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/y4o1695k29/1699906781708/image.png)
 
-##### **3\. Verify the App is running**
+## **3\. Verify the App is running**
 
 The app should have re-launched, showing the icon in the task bar like usual!
 

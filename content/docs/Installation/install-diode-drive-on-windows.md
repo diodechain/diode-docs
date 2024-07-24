@@ -10,7 +10,7 @@ Follow the three steps below to get up and running on Windows.
 
 ---
 
-##### **1\. Download**
+**1\. Download**
 
 [**Download Diode Drive**](https://diode.io/resources/download) for Windows.
 
@@ -22,7 +22,7 @@ And then click the file again and then click the three dots and then click "Keep
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/fl06iuxxe4/1699907559138/image.png)
 
-##### **2\. Install and run Diode Drive**
+**2\. Install and run Diode Drive**
 
 If the installation hasn't been launched, locate the downloaded installer file in your Downloads directory and double click it to launch the instaler.
 
@@ -52,7 +52,7 @@ Some systems may show a firewall warning. If so, click "Allow access".
 
 **NOTE:** You must have Microsoft Edge installed because the Diode Drive application UI requires "Webview"
 
-##### **3\. Verify Diode Drive is running**
+**3\. Verify Diode Drive is running**
 
 When Diode Drive starts up, it will load as a small orange icon in the task bar:
 

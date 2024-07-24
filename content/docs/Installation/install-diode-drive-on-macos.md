@@ -38,6 +38,8 @@ Click "Open" when the warning box pops up (informs you that you've downloaded th
 
 You can watch this walk through video for more details:
 
+{{< vimeo id="https://vimeo.com/554772585" title="Diode Drive installation on Mac OS" >}}
+
 ##### **3\. Verify Diode Drive is running**
 
 When Diode Drive starts up, it will load as a small orange icon in the task bar:
@@ -52,22 +54,20 @@ It should auto-open a sign up screen - if it does not, clicking the orange Diode
 
 That's it! Diode Drive is installed and active on your system.
 
-### **NEXT STEP:** [**Create an Account**](https://support.diode.io/article/gmg93l7u6y)
+### **NEXT STEP:** [**Create an Account**](https://app.docs.diode.io/docs/navigating/getting-started/)
 
 ---
 
 <u>Getting-started articles:</u>
 
-* <a href="https://support.diode.io/article/d3eguu0pem" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
-* <a href="https://support.diode.io/article/gmg93l7u6y" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
-* <a href="https://support.diode.io/article/k1diuzadd8" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
-* <a href="https://support.diode.io/article/g3d42k5onu" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>
-* <a href="https://support.diode.io/article/v428b36e31" target="_blank" rel="noopener"><strong>Share files or folders via web browser</strong></a>
-* <a href="https://support.diode.io/article/jkzakxo7a0" target="_blank" rel="noopener"><strong>Invite other team members to your Zone</strong></a>
-* <a href="https://support.diode.io/article/x859ax5avc" target="_blank" rel="noopener"><strong>Backup and persistently host your files</strong></a>
-* <a href="https://support.diode.io/article/uuj9ac8eqs" target="_blank" rel="noopener"><strong>Join a Zone via Invite Code</strong></a>
-
-  &nbsp;
+* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
+* <a href="https://app.docs.diode.io/docs/navigating/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
+* <a href="https://app.docs.diode.io/docs/navigating/create-a-zone/" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
+* <a href="https://app.docs.diode.io/docs/navigating/linked-devices/" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>
+* <a href="https://app.docs.diode.io/docs/navigating/share-a-file-or-folder-via-web-browser/" target="_blank" rel="noopener"><strong>Share files or folders via web browser</strong></a>
+* <a href="https://app.docs.diode.io/docs/navigating/add-a-team-member-or-additional-device/" target="_blank" rel="noopener"><strong>Invite other team members to your Zone</strong></a>
+* <a href="https://app.docs.diode.io/docs/navigating/backup-your-confidential-files/" target="_blank" rel="noopener"><strong>Backup and persistently host your files</strong></a>
+* <a href="https://app.docs.diode.io/docs/navigating/join-a-zone-by-invite-code/" target="_blank" rel="noopener"><strong>Join a Zone via Invite Code</strong></a>
 
 ---
 

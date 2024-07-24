@@ -16,7 +16,7 @@ Check out the video below, or continue reading the article, to learn more about 
 
 [**How To Use Diode Drive's Chat Function (Ver. 1.2.1)**](https://vimeo.com/562684103) from [**Diode**](https://vimeo.com/diodechain) on [**Vimeo**](https://vimeo.com/).
 
-### **Chat message annotation**
+**Chat message annotation**
 
 When you send a message, your sent message will have either a grey check mark, an orange check mark, or a double orange check mark - these indicate the status of your sent message as follows:
 
@@ -34,7 +34,7 @@ When you send a message, your sent message will have either a grey check mark, a
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/plonz51666/1695321446045/image.png)
 
-### **How to start chatting**
+**How to start chatting**
 
 &nbsp;
 
@@ -44,11 +44,11 @@ If you have not already setup Diode Drive, follow the instructions in <a href="h
 
 After you've completed those steps, you will have Diode Drive installed on your computer with your first Zone.
 
-2\. [Invite another Team Member to a Zone](https://support.diode.io/article/jkzakxo7a0-add-a-team-member-or-additional-device)
+2\. [Invite another Team Member to a Zone](https://app.docs.diode.io/docs/navigating/add-a-team-member-or-additional-device/)
 
 Utilizing the chat function requires you to have invited another Team Member to your Zone.
 
-If you have not yet invited another Team Member, follow the instructions in [**this article**](https://support.diode.io/article/jkzakxo7a0-add-a-team-member-or-additional-device) on how to do so.
+If you have not yet invited another Team Member, follow the instructions in [**this article**](https://app.docs.diode.io/docs/navigating/add-a-team-member-or-additional-device/) on how to do so.
 
 3\. Open the shared Zone
 

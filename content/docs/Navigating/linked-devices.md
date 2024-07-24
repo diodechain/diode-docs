@@ -4,7 +4,7 @@ title: Linked Devices
 nav_title: Linked Devices
 nav_section: Navigating
 weight: 211
-draft: true
+draft: false
 ---
 When you sign up for Diode Drive, you create an Account Name. The Account Name is globally unique and can be used by others to invite you to collaborate in a Zone or to start a chat with you (if you have a shared Zone).
 

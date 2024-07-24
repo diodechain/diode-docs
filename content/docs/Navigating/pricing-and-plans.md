@@ -4,7 +4,7 @@ title: Pricing and Plans
 nav_title: Pricing and Plans
 nav_section: Navigating
 weight: 221
-draft: true
+draft: false
 ---
 The Diode App has three types of plans that each Zone can subscribe to:
 

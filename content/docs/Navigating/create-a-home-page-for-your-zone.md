@@ -4,7 +4,7 @@ title: Create a Home Page for Your Zone
 nav_title: Create a Home Page
 nav_section: Navigating
 weight: 207
-draft: true
+draft: false
 ---
 As of Diode Drive 1.4.0 (January 2022), you can create a custom home page for your Zone to give Team Members immediate access to key information about the Zone. The home page becomes the default landing page when the Zone icon is clicked and when the Zone is opened from the task bar menu.
 

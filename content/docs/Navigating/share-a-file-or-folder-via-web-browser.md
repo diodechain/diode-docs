@@ -4,7 +4,7 @@ title: Share a File or Folder via Web Browser
 nav_title: Share via Web Browser
 nav_section: Navigating
 weight: 204
-draft: true
+draft: false
 ---
 One of the key use-cases for Diode Drive is to share a file or folder without uploading the information to the cloud.
 

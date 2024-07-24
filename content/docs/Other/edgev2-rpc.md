@@ -2,7 +2,7 @@
 _schema: default
 title: EdgeV2 RPC
 nav_title: EdgeV2 RPC
-nav_section: Other topics
+nav_section: FAQ
 weight: 20001
 draft: true
 ---

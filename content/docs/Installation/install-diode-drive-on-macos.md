@@ -50,13 +50,11 @@ It should auto-open a sign up screen - if it does not, clicking the orange Diode
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/rywr2hzmjg/1650666373818/image.png)
 
----
-
 That's it! Diode Drive is installed and active on your system.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 **Next Step:** [**<u>Create an Account</u>**](https://app.docs.diode.io/docs/navigating/getting-started/)
+
+---
 
 <u>Getting Started Articles:</u>
 

@@ -2,7 +2,7 @@
 _schema: default
 title: Pricing and Plans
 nav_title: Pricing and Plans
-nav_section: Using the App
+nav_section: Navigating
 weight: 101
 draft: true
 ---

@@ -10,7 +10,7 @@ Diode Drive can be used to keep an offsite backup of your files up to date at al
 
 The way this works is by adding a second device to your Zone - the second device keeps a mirror of all the files stored in your Zone.
 
-These instructions assume that you've already <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>setup Diode Drive</strong></a> on your main system, and have already <a href="https://support.diode.io/article/k1diuzadd8" target="_blank" rel="noopener"><strong>created a Zone</strong></a> that you want to back up.
+These instructions assume that you've already <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>setup Diode Drive</strong></a> on your main system, and have already <a href="https://app.docs.diode.io/docs/navigating/create-a-zone/" target="_blank" rel="noopener"><strong>created a Zone</strong></a> that you want to back up.
 
 **1\. Setup Diode Drive on a backup device**
 
@@ -24,11 +24,11 @@ In the global settings area, set the "Default Location for New Zones" to be the 
 
 **2\. Add the backup device to your Zone**
 
-You can either set the backup device up as a separate Account, or you can <a href="https://support.diode.io/article/g3d42k5onu" target="_blank" rel="noopener"><strong>link it to your Account.</strong></a> Because a Linked Device has all the same permissions as other devices on your Account, we recommend setting the backup device up with its own Account - these instructions will assume it is using its own Account.
+You can either set the backup device up as a separate Account, or you can <a href="https://app.docs.diode.io/docs/navigating/linked-devices/" target="_blank" rel="noopener"><strong>link it to your Account.</strong></a> Because a Linked Device has all the same permissions as other devices on your Account, we recommend setting the backup device up with its own Account - these instructions will assume it is using its own Account.
 
-Give the device its own <a href="https://support.diode.io/article/gmg93l7u6y" target="_blank" rel="noopener"><strong>Account</strong></a>.
+Give the device its own <a href="https://app.docs.diode.io/docs/navigating/getting-started/" target="_blank" rel="noopener"><strong>Account</strong></a>.
 
-From your main system, use the invite mechanism to<a href="https://support.diode.io/article/jkzakxo7a0" target="_blank" rel="noopener"><strong> invite the backup device's account</strong></a> to your Zone.
+From your main system, use the invite mechanism to<a href="https://app.docs.diode.io/docs/navigating/add-a-team-member-or-additional-device/" target="_blank" rel="noopener"><strong> invite the backup device's account</strong></a> to your Zone.
 
 Accept the invitation on the backup device. Zone files will now be synchronized automatically to the back up device.
 

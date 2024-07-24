@@ -71,7 +71,7 @@ This will show the Global Menu - click the "Settings" menu item. In the Settings
 * <a href="https://app.docs.diode.io/docs/navigating/backup-your-confidential-files/" target="_blank" rel="noopener"><strong>Backup and persistently host your files</strong></a>
 * <a href="https://app.docs.diode.io/docs/navigating/join-a-zone-by-invite-code/" target="_blank" rel="noopener"><strong>Join a Zone via Invite Code</strong></a>
 
-&nbsp;
+  &nbsp;
 
 ---
 

@@ -4,11 +4,11 @@ title: Markdown Editing Basics
 nav_title: Markdown Editing
 nav_section: Navigating
 weight: 209
-draft: true
+draft: false
 ---
 The Diode App has a <a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noopener"><strong>markdown</strong></a> viewer that automatically renders markdown file formatting for the file [**set as the Home Page**](https://support.diode.io/article/3wu19hhldc) and for markdown files in the File Details and Web Link file previews.
 
-For a complete guide to markdown editing, see markdown.org's <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank" rel="noopener"><strong>cheat sheet</strong></a> and <a href="https://www.markdownguide.org/extended-syntax" target="_blank" rel="noopener"><strong>other resources</strong></a> there.
+For a complete guide to markdown editing, see [markdown.org](http://markdown.org)'s <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank" rel="noopener"><strong>cheat sheet</strong></a> and <a href="https://www.markdownguide.org/extended-syntax" target="_blank" rel="noopener"><strong>other resources</strong></a> there.
 
 Here are some Diode specific tips:
 

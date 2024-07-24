@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: File Editors
-nav_title: File Editors
+title: File Editing
+nav_title: File Editing
 nav_section: Navigating
 weight: 214
 draft: false

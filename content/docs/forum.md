@@ -2,7 +2,7 @@
 _schema: default
 title: Forum
 nav_title: Forum
-nav_section: Contribute/Test
+nav_section: Contribute
 weight: 2
 draft: false
 ---

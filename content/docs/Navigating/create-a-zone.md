@@ -4,7 +4,7 @@ title: Create a Zone
 nav_title: Create a Zone
 nav_section: Navigating
 weight: 203
-draft: true
+draft: false
 ---
 This article describes how to add a new Zone to your Diode Drive.
 

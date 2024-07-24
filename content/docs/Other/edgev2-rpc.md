@@ -30,7 +30,7 @@ iex(3)> message = <<size :: unsigned-size(16), rlp::binary>><<0, 19, 210, 1, 208
   100, 101, 114, 100>>
 ```
 
-### **Client Implementation**
+# **Client Implementation**
 
 The reference implementation used in the prenet is the open source <a href="https://github.com/diodechain/diode_go_client" target="_blank" rel="noopener"><strong>Diode GO Client</strong></a>.
 

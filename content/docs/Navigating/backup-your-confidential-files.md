@@ -4,7 +4,7 @@ title: Backup Your Confidential Files
 nav_title: Backup  Files
 nav_section: Navigating
 weight: 205
-draft: true
+draft: false
 ---
 Diode Drive can be used to keep an offsite backup of your files up to date at all times, no matter where you are in the world, without storing your files in the cloud. If anything should happen to your device, your files will be safe.
 

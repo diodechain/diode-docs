@@ -4,7 +4,7 @@ title: Chat With Other Team Members
 nav_title: Chatting
 nav_section: Navigating
 weight: 215
-draft: true
+draft: false
 ---
 Diode Drive is collaborative software, so communication with other Team Members is important. That's why Diode Drive comes with its own chat function where you can chat with other Team Members in your shared Zone.
 

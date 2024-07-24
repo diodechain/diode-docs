@@ -4,7 +4,7 @@ title: Quick Access Bar
 nav_title: The Quick Access Bar
 nav_section: Features
 weight: 201
-draft: true
+draft: false
 ---
 The Quick Access Bar is the dark bar to the right of the <a href="https://support.diode.io/article/uqvi7h7yye" target="_blank" rel="noopener"><strong>Zone Selector</strong></a>.
 

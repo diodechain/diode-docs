@@ -12,13 +12,13 @@ A Diode Drive Backup Code functions like a password, but it is an 80-digit long,
 
 All of this comes at a price, however: you are fully responsible for the security of your Account. Because Diode has no access to configurations or communications for your Account, if you lose access to your Account and do not have the Backup Code, the Account will be permanently lost.
 
-#### **Where to Store Your Backup Code**
+**Where to Store Your Backup Code**
 
 As soon as you create a Diode Drive Account, you should save your Backup Code in a safe location. Diode recommends storing the Backup Code in a separate location from the device that has access to your Account - that way, if you lose your device, you will still be able to restore your Account.
 
 The most secure way to save your Backup Code is to print it or write it down. However, because that can be cumbersome, and due to user demand, Diode Drive also allows you to copy the Backup Code to your clipboard so you can easily save it to a password safe. **It is very important to note, however, that your device's clipboard IS NOT SECURE** - other applications have access to your clipboard and your Backup Code could be compromised if your device has spyware installed.
 
-#### **How to Restore Your Account with the Backup Code**
+**How to Restore Your Account with the Backup Code**
 
 In order to use your Backup Code to restore your Account, install Diode Drive and, on the welcome screen, click "Log In":
 

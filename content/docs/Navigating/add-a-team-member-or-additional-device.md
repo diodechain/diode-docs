@@ -4,7 +4,7 @@ title: Add a Team Member or Additional Device
 nav_title: Add Team or Device
 nav_section: Navigating
 weight: 203
-draft: true
+draft: false
 ---
 This article describes how to invite a new Team Member to your Diode Drive Zone by explicitly inviting each Team Member by their Account Name (Username). If you'd rather just send an Invite Code out, allowing your team to join the Zone themselves, see the <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Invite Code article.</strong></a>
 

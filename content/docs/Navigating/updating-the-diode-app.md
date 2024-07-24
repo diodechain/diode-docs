@@ -4,7 +4,7 @@ title: Updating the Diode App
 nav_title: Updating
 nav_section: Navigating
 weight: 210
-draft: true
+draft: false
 ---
 See below for instructions on how to update the Diode App from a new website download. **You do not need to uninstall/remove Diode to apply an update.**
 

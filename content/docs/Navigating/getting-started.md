@@ -4,7 +4,7 @@ title: Create an Account
 nav_title: Create an Account
 nav_section: Navigating
 weight: 202
-draft: true
+draft: false
 ---
 You need to create an Account to start using Diode Drive so that you can collaborate with others securely.
 

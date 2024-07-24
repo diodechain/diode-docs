@@ -12,8 +12,6 @@ An Account is simply an alias to the public address of the Diode Drive installat
 
 Follow the three steps below to create your Account.
 
-&nbsp;
-
 ---
 
 ##### 1\. Click Sign Up

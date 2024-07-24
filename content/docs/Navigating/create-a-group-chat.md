@@ -4,7 +4,7 @@ title: Create a Group Chat
 nav_title: Group Chat
 nav_section: Navigating
 weight: 207
-draft: true
+draft: false
 ---
 Diode Drive supports fully decentralized, end to end encrypted <a href="https://support.diode.io/article/plonz51666" target="_blank" rel="noopener"><strong>direct messaging</strong></a> and group chat channels.
 

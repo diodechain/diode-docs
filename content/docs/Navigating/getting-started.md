@@ -46,7 +46,7 @@ You will need to wait for up to a minute for your new name to register, after wh
 
 ##### **4\. Print-out your backup code**
 
-It is very important to create a copy of your <a href="https://support.diode.io/article/zjud05ha10" target="_blank" rel="noopener"><strong>backup code</strong></a> . If you lose access to your device for any reason, you can restore your Account on another device if you have your backup code.
+It is very important to create a copy of your <a href="https://app.docs.diode.io/docs/navigating/diode-drive-backup-codes/" target="_blank" rel="noopener"><strong>backup code</strong></a> . If you lose access to your device for any reason, you can restore your Account on another device if you have your backup code.
 
 To print your backup code, click the Diode Drive icon in the upper left.
 

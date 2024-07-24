@@ -14,7 +14,7 @@ To add and manage Linked Devices for your Account, go to the Linked Devices sett
 
 #### **Backup Codes**
 
-The very first device you sign up with is your master device - the <a href="https://support.diode.io/article/zjud05ha10" target="_blank" rel="noopener"><strong>backup code</strong></a> from that device can be used to restore full access to your account should you lose access. Other Linked Devices will show "Please create a backup from your master device".
+The very first device you sign up with is your master device - the <a href="https://app.docs.diode.io/docs/navigating/diode-drive-backup-codes/" target="_blank" rel="noopener"><strong>backup code</strong></a> from that device can be used to restore full access to your account should you lose access. Other Linked Devices will show "Please create a backup from your master device".
 
 #### **Permissions**
 

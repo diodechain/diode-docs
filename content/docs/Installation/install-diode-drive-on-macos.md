@@ -50,13 +50,15 @@ It should auto-open a sign up screen - if it does not, clicking the orange Diode
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/rywr2hzmjg/1650666373818/image.png)
 
-That's it! Diode Drive is installed and active on your system.
+---
 
-**Next Step:** [**<u>Create an Account</u>**](https://app.docs.diode.io/docs/navigating/getting-started/)
+That’s it! Diode Drive is installed and active on your system.
+
+**NEXT STEP:** [**Create an Account**](https://app.docs.diode.io/docs/navigating/getting-started/)
 
 ---
 
-<u>Getting Started Articles:</u>
+<u>Getting-started articles:</u>
 
 * <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
 * <a href="https://app.docs.diode.io/docs/navigating/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
@@ -67,6 +69,4 @@ That's it! Diode Drive is installed and active on your system.
 * <a href="https://app.docs.diode.io/docs/navigating/backup-your-confidential-files/" target="_blank" rel="noopener"><strong>Backup and persistently host your files</strong></a>
 * <a href="https://app.docs.diode.io/docs/navigating/join-a-zone-by-invite-code/" target="_blank" rel="noopener"><strong>Join a Zone via Invite Code</strong></a>
 
----
-
-&nbsp;
+  &nbsp;

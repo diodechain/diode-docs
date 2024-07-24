@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Manually update Diode App on Linux
+title: Manually Update Diode App on Linux
 nav_title:
 nav_section: Navigating
 weight: 203

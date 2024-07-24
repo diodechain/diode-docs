@@ -2,7 +2,7 @@
 _schema: default
 title: Invisible
 nav_title:
-nav_section: Contribute
+nav_section:
 weight: 2
 draft: false
 ---

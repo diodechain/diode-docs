@@ -36,7 +36,7 @@ Accept the invitation on the backup device. Zone files will now be synchronized 
 
 Even if your Zone's subscription plan doesn't support the Deleted Files Backup feature, the backup device will still keep a copy of your files at all times in case your main device is lost.
 
-If the Zone has the right <a href="https://support.diode.io/article/pr3fytz8sq" target="_blank" rel="noopener"><strong>subscription plan</strong></a>, you can enable the "Deleted Files Backup" feature on the device. This will ensure that any accidental file deletions can be recovered. This is useful if your Zone has multiple Team Members - if one of them accidentally deletes a file, the Deleted Files Backup will archive the deleted file instead of permanently deleting it. This setting is under the Zone Setting page:
+If the Zone has the right <a href="https://app.docs.diode.io/docs/navigating/pricing-and-plans/" target="_blank" rel="noopener"><strong>subscription plan</strong></a>, you can enable the "Deleted Files Backup" feature on the device. This will ensure that any accidental file deletions can be recovered. This is useful if your Zone has multiple Team Members - if one of them accidentally deletes a file, the Deleted Files Backup will archive the deleted file instead of permanently deleting it. This setting is under the Zone Setting page:
 
 ![](/uploads/image-63.png)
 
@@ -54,11 +54,13 @@ When your main system is offline, the device will synchronize updates from other
 
 <u>Getting-started articles:</u>
 
-* <a href="https://support.diode.io/article/d3eguu0pem" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
-* <a href="https://support.diode.io/article/gmg93l7u6y" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
-* <a href="https://support.diode.io/article/k1diuzadd8" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
-* <a href="https://support.diode.io/article/g3d42k5onu" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>
-* <a href="https://support.diode.io/article/v428b36e31" target="_blank" rel="noopener"><strong>Share files or folders via web browser</strong></a>
-* <a href="https://support.diode.io/article/jkzakxo7a0" target="_blank" rel="noopener"><strong>Invite other team members to your Zone</strong></a>
-* <a href="https://support.diode.io/article/x859ax5avc" target="_blank" rel="noopener"><strong>Backup and persistently host your files</strong></a>
-* <a href="https://support.diode.io/article/uuj9ac8eqs" target="_blank" rel="noopener"><strong>Join a Zone via Invite Code</strong></a>
+* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
+* <a href="https://app.docs.diode.io/docs/navigating/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
+* <a href="https://app.docs.diode.io/docs/navigating/create-a-zone/" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
+* <a href="https://app.docs.diode.io/docs/navigating/linked-devices/" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>
+* <a href="https://app.docs.diode.io/docs/navigating/share-a-file-or-folder-via-web-browser/" target="_blank" rel="noopener"><strong>Share files or folders via web browser</strong></a>
+* <a href="https://app.docs.diode.io/docs/navigating/add-a-team-member-or-additional-device/" target="_blank" rel="noopener"><strong>Invite other team members to your Zone</strong></a>
+* <a href="https://app.docs.diode.io/docs/navigating/backup-your-confidential-files/" target="_blank" rel="noopener"><strong>Backup and persistently host your files</strong></a>
+* <a href="https://app.docs.diode.io/docs/navigating/join-a-zone-by-invite-code/" target="_blank" rel="noopener"><strong>Join a Zone via Invite Code</strong></a>
+
+  &nbsp;

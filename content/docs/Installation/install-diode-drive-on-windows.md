@@ -70,9 +70,7 @@ Clicking the orange Diode Drive icon will drop-down / pop-up menu options. Click
 
 That's it! Diode Drive is installed and active on your system.
 
-### **NEXT STEP:** [**Create an Account**](https://app.docs.diode.io/docs/navigating/getting-started/)
-
-&nbsp;
+**NEXT STEP:** [**Create an Account**](https://app.docs.diode.io/docs/navigating/getting-started/)
 
 ---
 

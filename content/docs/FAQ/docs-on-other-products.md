@@ -2,7 +2,7 @@
 _schema: default
 title: Docs on other products
 nav_title: Docs on other products
-nav_section: Other topics
+nav_section: FAQ
 weight: 20000
 draft: false
 ---

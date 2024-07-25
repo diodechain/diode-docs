@@ -1,13 +1,11 @@
 ---
 _schema: default
-title: Did You Experience Any “Inconsistency Issues” When Using OpenSSL?
-nav_title: Experienced Inconsistency Issues with OpenSSL?
+title: What is a Canonical Member of a Fleet Contract?
+nav_title: What is a Canonical Member of a Fleet Contract?
 nav_section: FAQ
-weight: 20034
+weight: 20035
 draft: false
 ---
-This question refers to the fact that the functions in OpenSSL could be different depending on different use cases (e.g. the function interface parameters could be different).
+A Canonical Member of a Fleet Contract is a Client Identity that has been added, via a transaction on the Diode Network, to the Fleet Contract.
 
-When choosing a secure communication channel, we looked at RLPx and TLS (OpenSSL). We decided to use OpenSSL, but forced it into using Secp256k1 to ensure both sides authenticate with their Eth wallet keys. But this means we are forcing OpenSSL to only accept Secp256k1 and self-signed certificates (self signed using the wallet key).
-
-OpenSSL does support Secp256k1. However, not all TLS libraries and clients support Secp256k1 at this time. So this can lead to connection issues when not using OpenSSL. We will be researching other libraries such as ARMmbed, wolfSSL, and SChannel for that matter.
+Since Fleet Contracts are by default private (you cannot get a public listing of members), the <a href="https://diode.io/prenet/#/fleets" target="_blank" rel="noopener"><strong>Diode Network Explorer</strong></a> will "stage" a Client Identity in the Device ID list when one is added in order to test if the Client is already a part of it. If it is not, it will be staged and a separate transaction is required to make the new ID a persistent, "Canonical", Member.

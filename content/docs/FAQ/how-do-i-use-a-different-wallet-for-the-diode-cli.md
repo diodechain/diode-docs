@@ -1,13 +1,17 @@
 ---
 _schema: default
-title: How Do I Use a Different Wallet for The Diode CLI?
-nav_title: How Do I Use a Different Wallet for The Diode CLI?
+title: How Do I Stake My Diode Tokens for Mining?
+nav_title: How Do I Stake My Diode Tokens?
 nav_section: FAQ
-weight: 20034
+weight: 20035
 draft: false
 ---
-Use the -dbpath option.
+You can use the console to add stake for your miner. The following example will stake 5 Diode, if available in your balance.
 
-For example:
+To test if the transaction will work:
 
-`diode -dbpath=/home/pi/.config/diode2/private.db publish -public 80:80`
+`Shell.call_from(Diode.miner, Diode.registry_address, "MinerStake", [], [], value: Shell.ether(5))`
+
+To submit the transaction:
+
+`Shell.submit_from(Diode.miner, Diode.registry_address, "MinerStake", [], [], value: Shell.ether(5))`

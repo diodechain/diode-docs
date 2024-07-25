@@ -1,9 +1,13 @@
 ---
 _schema: default
-title: What is Diode's Privacy Policy and The Terms of Service?
-nav_title: What is Diode's Privacy Policy and The Terms of Service?
+title: Can I Open My Zone's Files/Folders From Within The Diode Drive App?
+nav_title: Open Folders From In The Diode App?
 nav_section: FAQ
-weight: 20031
+weight: 20032
 draft: false
 ---
-These documents are posted online - they are linked in the footer of each https://diode.io website page: [**https://diode.io/privacy-policy/**](https://diode.io/privacy-policy/) & [**https://diode.io/msa/**](https://diode.io/msa/)**.**
+Yes, you can open your folder or Zone in your file explorer from Diode Drive directly.
+
+To do this, simply click on the orange box icon located on the far right of a Zone's File.
+
+![](https://files.helpdocs.io/qwk5dmv7m8/articles/rqob24m8ao/1623812848474/open-folder.gif)

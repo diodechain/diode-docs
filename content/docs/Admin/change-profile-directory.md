@@ -8,7 +8,7 @@ draft: false
 ---
 Diode Drive supports changing the <a href="https://support.diode.io/article/e7gtnjcp5o" target="_blank" rel="noopener"><strong>profile directory</strong></a> away from the default location by using one of the following methods:
 
-### **Use a file**
+**Use a file**
 
 1. Move your current ~/.config/ddrive directory to its new location (or create a blank folder in the location you want to house your profile). The folder name can be anything - it doesn't have to be called "ddrive".
 
@@ -24,6 +24,6 @@ On Mac or Linux, you can do this by opening a terminal window and typing `nano ~
 
 ![](/uploads/image-32.png)
 
-### **Set an environment variable**
+**Set an environment variable**
 
 Add `export CONFIG_DIR=/your/desired/path/to/config` to your `~/.profile` file, then log out & back in, to override your configuration directory.

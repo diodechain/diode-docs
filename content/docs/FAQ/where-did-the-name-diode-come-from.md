@@ -1,13 +1,15 @@
 ---
 _schema: default
-title: Where did the name “Diode” come from?
-nav_title: Why "Diode"?
+title: How is Diode different than other Web3 protocols?
+nav_title: 'How is Diode Different? '
 nav_section: FAQ
-weight: 20005
+weight: 20006
 draft: false
 ---
-Diode is an amalgamation of the terms “**D**istributed **I**nternet **O**f **DE**vices”
+We are seeing a number of players in the ecosystem doing some great work developing frameworks to build blockchains. But Diode has a different approach. Diode is a blockchain which empowers developers to build data applications on top and build a better Internet. If you want to compare Diode with other existing projects, the closest would be dat-protocol, Ethereum-Swarm, and IPFS.
 
-The <a href="https://network.docs.diode.io/" target="_blank" rel="noopener"><strong>Diode Network</strong></a> allows all sorts of apps/devices/systems - servers, routers, cell phones, laptops, Raspberry Pis, Arduinos, etc… - to communicate and interact in a fully decentralized manner. This is demonstrated by applications like <a href="https://diode.io/products/d-drive" target="_blank" rel="noopener"><strong>Diode Drive</strong></a> and the <a href="https://cli.docs.diode.io/" target="_blank" rel="noopener"><strong>Diode CLI</strong></a>, which incorporate the <a href="https://network.docs.diode.io/docs/faq/what-is-blockquick-tm/" target="_blank" rel="noopener"><strong>BlockQuick algorithm</strong></a>.
+However, even for these projects, there are major differences. For instance, IPFS only works with pre-hashed files, so live-streaming and web conferencing for example, would not work. Diode, on the other hand, is a general network layer. It is designed to work for all kind of network applications.
 
-Of course, a "diode" is also a <a href="https://en.wikipedia.org/wiki/Diode" target="_blank" rel="noopener"><strong>small electrical component</strong></a> that is fundamental to almost every electrical system. Activity on one side of a diode can pass to the other side (electrical current can go in that direction), but typically not vice versa. It is like a one way street for electrical systems, and is often used to safely partition one sub-circuit from another. Although it is reaching a bit, here are some fun parallels between a diode and Diode:
+---
+
+&nbsp;

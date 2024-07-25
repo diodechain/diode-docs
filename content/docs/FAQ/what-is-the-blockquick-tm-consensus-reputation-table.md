@@ -1,11 +1,15 @@
 ---
 _schema: default
-title: What is the BlockQuick(TM) Consensus Reputation Table?
-nav_title: What is the BlockQuick(TM) Consensus Reputation Table?
+title: What is BNS?
+nav_title: What is BNS?
 nav_section: FAQ
-weight: 20021
+weight: 20022
 draft: false
 ---
-<br>The [**BlockQuick**](https://network.docs.diode.io/docs/faq/what-is-blockquick-tm/) Consensus Reputation Table (CRT) is a key security policy which BlockQuick adopts when validating a block. The CRT is constructed on each client based on the last known block headers in a given time frame. For instance, in a Proof-of-Work (PoW) system the client will be able to construct the consensus reputation table by reading 100 previous block headers from the last known state of the blockchain. All past block headers of the blockchain can be validated on the client using the parent block checksum alone. Thus, clients are able to fetch these block headers from untrusted nodes as the data can be validated using the existing block header and its contained parent block hash.
+BNS stands for Blockchain Name System - the Diode Network implements a fully decentralized BNS using smart contracts to bind "friendly names" (BNS names) to network addresses (like Ethereum addresses). You can think of a BNS name the same way you think of a <a href="https://en.wikipedia.org/wiki/Domain_name" target="_blank" rel="noopener"><strong>root Domain Name</strong></a> for web2.0.
 
-To learn more, read our blog post about the <a href="https://diode.io/blockquick/blockquick-consensus-reputation-table-explained-19182/" target="_blank" rel="noopener"><strong>BlockQuick Consensus Reputation Table</strong></a>!
+Addresses on the Diode Network use the same format as <a href="https://ethereum.github.io/yellowpaper/paper.pdf" target="_blank" rel="noopener"><strong>Ethereum public addresses</strong></a> - while excellent for unique identification, they are not particularly memorable to humans. The Diode Network has a Blockchain Name System (BNS) - a decentralized smart-contract based Domain Name System - that allows the association of a human recognizable name with a Diode Network address. If a BNS name is configured for an address, it can be used in place of the address.
+
+For example, this can be used to shorten the address used to view the public video feed of Diode's Berlin office from: <a href="https://0xc206e1255cbace8ba904daa259d7a5b7f90e2d50.diode.link/" target="_blank" rel="noopener"><strong>https://0xc206E1255Cbace8ba904DaA259D7a5b7F90E2D50.diode.link</strong></a> to <a href="https://betahaus-berlin.diode.link/" target="_blank" rel="noopener"><strong>https://betahaus-berlin.diode.link</strong></a>.
+
+To create, search, and browse BNS names, check out the [**article**](https://support.diode.io/article/2bzhaehdp2) or go straight to the <a href="https://diode.io/prenet/#/dns" target="_blank" rel="noopener"><strong>Explorer BNS page</strong></a>.

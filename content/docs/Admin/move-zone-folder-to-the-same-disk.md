@@ -8,7 +8,7 @@ draft: false
 ---
 This article describes how to move a Zone folder to a new location on the same physical disk by using the Diode App "Location on Disk" setting.
 
-These instructions assume that you've already[**installed the Diode App**](https://support.diode.io/article/d3eguu0pem) and that you have multiple Zones with folders within the Zones. If you do not know how to create a Zone, follow this <a href="https://support.diode.io/article/k1diuzadd8-create-your-first-zone" target="_blank" rel="noopener"><strong>tutorial.</strong></a>
+These instructions assume that you've already [**installed the Diode App**](https://app.docs.diode.io/docs/) and that you have multiple Zones with folders within the Zones. If you do not know how to create a Zone, follow this <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>tutorial.</strong></a>
 
 Sometimes you will want to locate your folders elsewhere on the system. This is convenient when wanting to specifically collaborate on subfolders within an existing folder structure, when wanting to use a larger storage device, and/or when wanting to use removable storage.
 

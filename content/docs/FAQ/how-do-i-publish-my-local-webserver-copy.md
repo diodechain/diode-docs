@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: How Do I Publish My Local Webserver?
-nav_title: How Do I Publish My Local Webserver?
+title: Can I Publish a Podcast with Diode?
+nav_title: Can I Publish a Podcast with Diode?
 nav_section: FAQ
 weight: 20019
 draft: false

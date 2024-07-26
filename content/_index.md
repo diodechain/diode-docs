@@ -17,3 +17,5 @@ Anyone can create their own application on top of the Diode Network. As opposed 
 3. Has no fees for using the network\*
 
 \* Using the network via third party relays requires a bandwidth sponsor.  The Diode Network uses the $DIODE token to underwrite bandwidth supply on behalf of application providers.
+
+{{< youtube id="6_-r1ARlivs" autoplay="true" title="Diode Network Introduction" >}}

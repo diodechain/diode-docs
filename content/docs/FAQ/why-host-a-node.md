@@ -8,7 +8,7 @@ draft: false
 ---
 Here are the top reasons people want to run a Diode Network Lite Node:
 
-**1\. They want to help others connect E2EE in your region**
+**1\. They want to help others connect E2EE in their region**
 
 If even a single Diode Network node is running in a region, it can route the E2EE traffic to other end points in the region, or to end points in other regions. Adding a node in a new or congested region can make connecting using Diode more performant for endpoints in that area.
 

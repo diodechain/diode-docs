@@ -1,11 +1,13 @@
 ---
 _schema: default
-title: What Can I Do With The Free Version of Diode Drive?
-nav_title: What Can I Do With The Free Version of Diode Drive?
+title: What Can I Do With The Free Version?
+nav_title: What Can I Do With The Free Version?
 nav_section: FAQ
 weight: 20001
 draft: false
 ---
+Actually, the Diode App is free - you can add a theoretically unlimited number of collaboration Zones, and use them,  for no cost.  However, if you want to add more team members, or activate certain features in a given Zone, the Zone itself <a href="https://diode.io/pricing" target="_blank" rel="noopener">may have a fee</a>.
+
 Diode offers a free version of <a href="https://diode.io/products/d-drive/" target="_blank" rel="noopener"><strong>Diode Drive</strong></a> for individuals to use. Our goal with the free version is to make the system as functional as we would want to use for our own personal use (and we do use it all the time!).
 
 We don't have a cap on the number of drives you can deploy as a user. Nor do we have a limit on the number of collaborators you can invite as "peers" to each drive. Nor do we have a limit on the amount of data that is stored or shared.

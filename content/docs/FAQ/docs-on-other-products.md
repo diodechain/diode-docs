@@ -3,7 +3,7 @@ _schema: default
 title: Docs on other products
 nav_title: Docs on other products
 nav_section: FAQ
-weight: 29999
+weight: 20000
 draft: false
 ---
 Diode has four primary components - each of which have an additional documentation area you can dive into:

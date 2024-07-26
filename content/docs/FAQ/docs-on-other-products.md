@@ -1,15 +1,14 @@
 ---
 _schema: default
-title: What is The Diode Network?
-nav_title: What is The Diode Network?
+title: Docs on other products
+nav_title: Docs on other products
 nav_section: FAQ
-weight: 20001
+weight: 30000
 draft: false
 ---
-The Diode Network is a decentralized public communications network that enables edge devices and servers to publish and consume content without using centralized technology. It was designed to address the security and infrastructure needs of edge-based connected applications.
+Diode has four primary components - each of which have an additional documentation area you can dive into:
 
-At its core, the Diode Network is an integrated blockchain implementation of The Web3 (server-less internet and the decentralized web). It leverages the [**BlockQuick**](https://support.diode.io/article/osywoqibv1) algorithm to enable trustless communications with all types of devices and applications.
-
-Communications over the Diode Network are end to end encrypted (unless explicitly configured not to be) and require only a minimum of computing and storage resource - <a href="https://diode.io/burning-platform-pki/blockquick-super-light-blockchain-client-for-trustless-time-19144/" target="_blank" rel="noopener"><strong>as opposed to other decentralized trustless technologies.</strong></a>
-
-Check out the [**Diode Network Getting Started guide**](https://support.diode.io/article/lsr4tkzz8t) and [**other articles**](https://docs.diode.io/).
+1. <a href="https://network.docs.diode.io" title="Diode Network" target="_blank" rel="noopener"><strong>Network</strong></a> - an open, permissionless secure communication network that uses blockchain technology for security and scalability.
+2. <a href="https://app.docs.diode.io" title="Diode App" target="_blank" rel="noopener"><strong>App</strong></a> - cross platform messaging app that is a secure replacement for Discord and Slack.
+3. <a href="https://cli.docs.diode.io" title="Diode CLI" target="_blank" rel="noopener"><strong>CLI</strong></a> - a command-line interface tool that allows you to quickly build on top of the Diode Network and create capabilities that can interact with App users.
+4. <a href="https://vaults.docs.diode.io" title="Diode Vault" target="_blank" rel="noopener"><strong>Vault</strong></a> - a hardware device that runs both the App and the CLI and can perform duties like being a backup-device for your App zones or hosting a decentralized website

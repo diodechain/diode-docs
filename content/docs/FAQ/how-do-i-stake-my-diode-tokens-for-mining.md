@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: How Do I Stake My Diode Tokens for Mining?
-nav_title: How Do I Stake My Diode Tokens for Mining?
+title: How Do I Stake My DIODE Tokens for Mining?
+nav_title: How Do I Stake My DIODE Tokens for Mining?
 nav_section: FAQ
 weight: 20029
 draft: false

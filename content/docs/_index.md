@@ -14,4 +14,4 @@ It can take <a href="https://medium.com/@hansrempel_27543/first-deployment-of-a-
 
 **Not convinced?** <a href="https://support.diode.io/article/y9hxzsbhg8-run-a-diode-server-point-of-presence-node" target="_blank" rel="noopener">Read here</a> for some reasons why you might want to run a node.
 
-**Want to learn more?**  Read here for the differences between Lite Nodes and Full Nodes.
+**Want to learn more?** [Read here](/docs/faq/lite-nodes-vs-full-nodes/) for the differences between Lite Nodes and Full Nodes.

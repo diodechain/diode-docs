@@ -2,7 +2,7 @@
 _schema: default
 title: Run a Node
 nav_title: Run a Node
-nav_section: Run a Node
+nav_section: Installation
 weight: 2
 draft: false
 ---

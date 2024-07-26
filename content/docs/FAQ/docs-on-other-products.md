@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: What is the Diode Network?
-nav_title: What is the Diode Network?
+title: What is The Diode Network?
+nav_title: What is The Diode Network?
 nav_section: FAQ
 weight: 20001
 draft: false

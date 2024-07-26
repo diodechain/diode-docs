@@ -14,6 +14,8 @@ Anyone can run a Diode Network node (a Diode Point of Presence) and help expand 
 
 > **Disclaimer:** The Lite Node is in beta - it was released in July 2024. Please <a href="https://t.me/diode_chain" target="_blank" rel="noopener">join our Telegram group</a> for up to date discussions and collaboration.
 
+{{< youtube id="tVyptO7prf0" autoplay="true" title="Diode Network Nodes" >}}
+
 **Not convinced?** [Read here](/docs/faq/why-host-a-node/) for some reasons why you might want to run a node.
 
 **Want to learn more?** [Read here](/docs/faq/lite-nodes-vs-full-nodes/) for the differences between Lite Nodes and Full Nodes.

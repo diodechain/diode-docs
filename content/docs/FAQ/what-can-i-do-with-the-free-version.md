@@ -12,4 +12,6 @@ Free Zones are made possible by a collaboration with the <a href="https://diode.
 
 Watch this video for an example of a free Zone in action:
 
+{{< youtube id="https://youtu.be/uJi4fYOAti8" autoplay="true" title="Free encrypted messaging with Diode" >}}
+
 &nbsp;

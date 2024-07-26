@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: Host a Node
-nav_title: Host a Node
-nav_section: Host a Node
+title: Run a Node
+nav_title: Run a Node
+nav_section: Run a Node
 weight: 2
 draft: false
 ---

@@ -20,3 +20,5 @@ We make this available to the world in four primary components - each of which h
 4. <a href="https://vaults.docs.diode.io" title="Diode Vault" target="_blank" rel="noopener"><strong>Vault</strong></a> - a hardware device that runs both the App and the CLI and can perform duties like being a backup-device for your Zones or hosting a decentralized website
 
 ### **Diode’s vision is to transform the Internet into everyone’s private network, and we’re adding daily to those capabilities!**
+
+{{< youtube id="6_-r1ARlivs" autoplay="true" title="Welcome to Diode" >}}

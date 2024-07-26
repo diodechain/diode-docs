@@ -6,17 +6,10 @@ nav_section: FAQ
 weight: 20001
 draft: false
 ---
-Actually, the Diode App is free - you can add a theoretically unlimited number of collaboration Zones, and use them,  for no cost.  However, if you want to add more team members, or activate certain features in a given Zone, the Zone itself <a href="https://diode.io/pricing" target="_blank" rel="noopener">may have a fee</a>.
+The Diode App \_is\_ a free app - you can add a theoretically unlimited number of free collaboration Zones, and use them,  for no cost.  However, if you want to activate certain features in a given Zone, or are using Diode as part of an organization or for commercial purposes, that particular Zone <a href="https://diode.io/pricing" target="_blank" rel="noopener">may require a paid plan</a>.
 
-Diode offers a free version of <a href="https://diode.io/products/d-drive/" target="_blank" rel="noopener"><strong>Diode Drive</strong></a> for individuals to use. Our goal with the free version is to make the system as functional as we would want to use for our own personal use (and we do use it all the time!).
+Free Zones are made possible by a collaboration with the <a href="https://diode.foundation" target="_blank" rel="noopener">Diode Foundation</a> as part of its mission to deliver secure communications to everyone.  Generally speaking, our shared goal with free Zones is to equip individuals, families, and local communities with the means of secure and private communications.
 
-We don't have a cap on the number of drives you can deploy as a user. Nor do we have a limit on the number of collaborators you can invite as "peers" to each drive. Nor do we have a limit on the amount of data that is stored or shared.
+Watch this video for an example of a free Zone in action:
 
-With these capabilities, the free version of Diode Drive is a great fit for the following (and more) use cases:
-
-* Keeping a backup / mirror of confidential computer files
-* Sharing files amongst your family members
-* Collaborating with event planners
-* Sharing pictures with event attendees or followers
-
-When your use of a given drive grows beyond these use cases and requires more advanced features typically required in commercial settings, the drive can be upgraded to support those features.
+&nbsp;

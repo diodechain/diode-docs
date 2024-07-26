@@ -22,12 +22,12 @@ Some Diode Network nodes also run full Diode L1 blockchain nodes, in addition to
 
 If you have experience running an Ethereum or EVM compatible node, jump right in and download and run the node from our github:
 
-* <a href="https://github.com/diodechain/diode_server/blob/master/README.md" target="_blank" rel="noopener"><strong>Diode Server Github Repo</strong></a>
+* <a href="https://github.com/diodechain/diode_server/blob/master/README.md" target="_blank" rel="noopener">Diode Server Github Repo</a>
 
-If you want something more "contained", checkout the docker project our integration partner, <a href="https://derateknoloji.com/" target="_blank" rel="noopener"><strong>Dera Technologies</strong></a>, maintains for running a node on <a href="https://akash.network/" target="_blank" rel="noopener"><strong>Akash</strong></a> (and other environments!):
+If you want something more "contained", checkout the docker project our integration partner, <a href="https://derateknoloji.com/" target="_blank" rel="noopener">Dera Technologies</a>, maintains for running a node on <a href="https://akash.network/" target="_blank" rel="noopener">Akash</a> (and other environments!):
 
-* <a href="https://github.com/DeraTechDesign/Diode_Server_Docker" target="_blank" rel="noopener"><strong>Diode Server Docker</strong></a>
+* <a href="https://github.com/DeraTechDesign/Diode_Server_Docker" target="_blank" rel="noopener">Diode Server Docker</a>
 
-The project can use validator snapshots to accelerate the process of joining the network as a full node - join our [**Telegram channel**](https://t.me/diode_chain) to discuss
+The project can use validator snapshots to accelerate the process of joining the network as a full node - join our [Telegram channel](https://t.me/diode_chain) to discuss
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 title: Install Diode Drive on MacOS
 nav_title:
-nav_section:
-weight: 4
+SEO_options:
+  title: Diode App Secure Messenger
+  image:
+  description:
 draft: false
 ---
 Follow the three steps below to get up and running on MacOS.

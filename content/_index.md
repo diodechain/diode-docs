@@ -14,14 +14,8 @@ Diode's leading secure collaboration product is a cross-platform messaging appli
 
 The app doesn't store any data on a server and its three main capabilities are:
 
-1) Secure messaging
+1. **Secure messaging**: All DMs and group chats are 256-bit end-to-end encrypted.
+2. **Secure file sharing**: The end-to-end encrypted file sharing is like Google Drive meets a secure self-custody bit torrent.
+3. **Tunneled bookmarks**: Web bookmarks use regional-access tunnels or direct-access tunnels.
 
-All DMs and group chats are 256-bit end-to-end encrypted.
-
-2) Secure file sharing
-
-The end-to-end encrypted file sharing is like Google Drive meets a secure self-custody bit torrent.
-
-3) Tunneled bookmarks
-
-Web bookmarks use regional-access tunnels or direct-access tunnels.
+{{< youtube id="slPeBLKTTEU" autoplay="true" title="Introduction to the Diode App" >}}

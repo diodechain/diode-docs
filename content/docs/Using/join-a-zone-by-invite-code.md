@@ -2,7 +2,7 @@
 _schema: default
 title: Join a Zone by Invite Code
 nav_title: Join Zone by Invite Code
-nav_section: Navigating
+nav_section: Using
 weight: 220
 draft: false
 ---

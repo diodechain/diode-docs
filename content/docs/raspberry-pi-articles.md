@@ -1,12 +1,12 @@
 ---
 _schema: default
-title: Raspberry Pi Articles
+title: 'See Below For All Raspberry Pi Articles:'
 nav_title: Raspberry Pi
 nav_section: Raspberry Pi
 weight: 500
 draft: false
 ---
-### **See below for all Raspberry Pi articles:**
+###
 
 [**Supported Raspberry Pi Versions**](https://app.docs.diode.io/raspberry-pi/supported-raspberry-pi-versions/)
 

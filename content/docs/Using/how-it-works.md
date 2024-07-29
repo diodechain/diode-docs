@@ -2,7 +2,7 @@
 _schema: default
 title: How it Works
 nav_title: How it Works
-nav_section: Navigating
+nav_section: Using
 weight: 200
 draft: false
 ---

@@ -2,7 +2,7 @@
 _schema: default
 title: Create a Home Page for Your Zone
 nav_title: Create a Home Page
-nav_section: Navigating
+nav_section: Using
 weight: 207
 draft: false
 ---

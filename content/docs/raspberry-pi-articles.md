@@ -6,23 +6,23 @@ nav_section: Raspberry Pi
 weight: 500
 draft: true
 ---
-See below for all Raspberry Pi articles:
+### **See below for all Raspberry Pi articles:**
 
-**Supported Raspberry Pi Versions**
+[**Supported Raspberry Pi Versions**](https://app.docs.diode.io/raspberry-pi/supported-raspberry-pi-versions/)
 
-**Use Your Raspberry Pi as A Private Chat Server**
+[**Use Your Raspberry Pi as A Private Chat Server**](https://app.docs.diode.io/raspberry-pi/use-your-raspberry-pi-as-a-private-chat-server/)
 
-**Use your Raspberry Pi as a Remote File Server / Backup Device**
+[**Use your Raspberry Pi as a Remote File Server / Backup Device**](https://app.docs.diode.io/raspberry-pi/use-your-raspberry-pi-as-a-remote-file-server-backup-device/)
 
-**Start Diode on Boot**
+[**Start Diode on Boot**](https://app.docs.diode.io/raspberry-pi/start-diode-on-boot/)
 
-**Enable SSH**
+[**Enable SSH**](https://app.docs.diode.io/raspberry-pi/enable-ssh/)
 
-**Host a Website with Ghost**
+[**Host a Website with Ghost**](https://app.docs.diode.io/raspberry-pi/host-a-website-with-ghost/)
 
-**Host a Public Wordpress Website on Raspberry Pi**
+[**Host a Public Wordpress Website on Raspberry Pi**](https://app.docs.diode.io/raspberry-pi/host-a-public-wordpress-website-on-raspberry-pi/)
 
-**Using Diode CLI in Shell Scripts**
+[**Using Diode CLI in Shell Scripts**](https://app.docs.diode.io/raspberry-pi/using-diode-cli-in-shell-scripts/)
 
 [**How to Compile Binary Files on a Raspberry Pi in a More Efficient Way**](https://app.docs.diode.io/raspberry-pi/how-to-compile-binary-files/)
 

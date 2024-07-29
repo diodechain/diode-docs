@@ -8,7 +8,9 @@ draft: false
 ---
 We have hundreds of customers and many thousands of users taking advantage of Diode's uniquely secure, affordable, and extensible zero trust ecosystem.
 
-The [Diode Network](https://network.docs.diode.io), [Diode App](https://app.docs.diode.io), [Diode CLI](https://cli.docs.diode.io), and [Diode Vault(s)](https://vaults.docs.diode.io) are all ready to use now - dive in, the water's fine!  If you don't want to read any more, here are the download links:
+The [Diode Network](https://network.docs.diode.io), [Diode App](https://app.docs.diode.io), [Diode CLI](https://cli.docs.diode.io), and [Diode Vault(s)](https://vaults.docs.diode.io) are all ready to use now - dive in, the water's fine!
+
+If you don't want to read any more, here are the download links:
 
 * [Download the app](https://diode.io/download/#app) and start secure collaboration
 * [Download the CLI](https://diode.io/download/#cli) and publish assets off the public Internet

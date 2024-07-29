@@ -2,8 +2,8 @@
 _schema: default
 title: Is Diode Drive "Unlimited Storage"?
 nav_title: Unlimited Storage
-nav_section: FAQ
-weight: 20014
+nav_section: Features
+weight: 208
 draft: false
 ---
 [**Diode Drive**](https://diode.io/products/d-drive) is a peer to peer collaboration, file sharing, and backup system that relies on the computers, servers, and other storage devices that you, or a trusted collaborator, control (an information "self custody" solution).

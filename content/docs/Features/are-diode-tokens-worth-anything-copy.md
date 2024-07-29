@@ -1,15 +1,13 @@
 ---
 _schema: default
-title: Assign a New Client Address to an Existing BNS Name
-nav_title: Assign a New Client Address to an Existing BNS Name
+title: Can Anyone Join A Fleet?
+nav_title: Who Can Join A Fleet
 nav_section: Features
-weight: 3
+weight: 4
 draft: false
 ---
-Yes you can. If you use <a href="https://support.diode.io/article/2bzhaehdp2" target="_blank" rel="noopener"><strong>MetaMask to manage the BNS name</strong></a>, you can go to the <a href="https://diode.io/prenet/#/dns" target="_blank" rel="noopener"><strong>Diode Network Explorer's BNS page</strong></a> and simply enter a new Client Address / ID in the box provided under the BNS name. You must be <a href="https://support.diode.io/article/uec3mloh9z" target="_blank" rel="noopener"><strong>authenticated with MetaMask</strong></a> and connected to the account that owns the BNS name.
+No - only the Fleet creator can add/remove Clients from a Fleet.
 
-You can use the Diode Client to do this without MetaMask per:
+You can use the <a href="https://diode.io/prenet/#/fleets" target="_blank" rel="noopener"><strong>Diode Network Explorer's Fleet page</strong></a> to view and manage your Fleets. If you don't have MetaMask setup yet, [**do that first**](https://support.diode.io/article/uec3mloh9z)!
 
-`diode bns -register <name>=<new_address>`
-
-In order to run this command, the Diode Client running the command must be the original owner of the BNS name.
+If you've installed the Diode Client, it by default will use <a href="https://diode.io/prenet/#/address/0x6000000000000000000000000000000000000000" target="_blank" rel="noopener"><strong>Diode's Developer Fleet</strong></a> - if you want to use your own Fleet, you can add your Client to it after you've created it.

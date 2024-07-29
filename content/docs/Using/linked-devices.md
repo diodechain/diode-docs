@@ -2,7 +2,7 @@
 _schema: default
 title: Linked Devices
 nav_title: Linked Devices
-nav_section: Navigating
+nav_section: Using
 weight: 211
 draft: false
 ---

@@ -1,6 +1,8 @@
 ---
 _schema: default
-title: How Do I Get My Business Comfortable With Blockchain Technology?
+title: >-
+  How is Diode For Video Streaming Different From Raspberry Pi's “raspivid”
+  Command?
 nav_title:
 SEO_options:
   title: Diode App Secure Messenger
@@ -8,8 +10,8 @@ SEO_options:
   description:
 draft: false
 ---
-The persuasion of software engineers and business leaders will be a road we have to travel.
+Diode adds to the “raspivid” command three superpowers:
 
-The word “blockchain," frankly speaking, scares some people from industry. However, there are a growing number of developers who are not blockchain developers, but who are interested in blockchain. Because we can support the tech these people are used to working with blockchain, we believe these people will be early adopters and be one of the paths to mainstream adoption.
-
-We’re very excited about bringing the blockchain and non-blockchain development worlds together - we have a way to go in terms of UX, but the fundamentals are there and will get stronger over time.
+1. Global reachability under any http://.diode.link domain
+2. Broadcast to hundreds or thousands of video watchers
+3. Access control using Ethereum ids (public, protected or private stream)

@@ -1,22 +1,25 @@
 ---
 _schema: default
-title: Languages on The Diode App
-nav_title: Languages
+title: Deleted Files Backup
+nav_title: Deleted Files Backup
 nav_section: Features
-weight: 209
+weight: 210
 draft: false
 ---
-If you're wondering how to get different languages on your Diode app, you're in the right place.
+A popular use case for Diode Drive is to use it as an <a href="https://app.docs.diode.io/docs/navigating/backup-your-confidential-files/" target="_blank" rel="noopener"><strong>always-on remote backup system</strong></a>. An important part of this capability is protecting the Zone from accidental file deletions by Team Members - this can be done via the "Deleted Files Backup" option in a Zone's Options:
 
-### **The Initial Download**
+![](/uploads/image-10.png)
 
-When first downloaded, Diode will load in whatever language is the system language of your device. For example, if your laptop has the system language set to Spanish, it will load in Spanish. If there is no specified system language, it will default to English.
+Once Deleted Files Backup is enabled, you can configure the option to set a maximum file size limit, and can also open the system folder where the backup files are stored so-as to maintain/prune the backed up files:
 
-### **Missing a Language?**
+![](/uploads/image-11.png)
 
-If you notice a language missing in our translation, we would love for you, or someone you know, to contribute!
+Devices with the Deleted Files Backup option turned on will show a small backup icon in their Zone. Clicking the icon will open the Deleted Files Backup option:
 
-1. To contribute a current language, click our Crowd-in link: <a href="https://crowdin.com/project/diode-drive" target="_blank" rel="noopener"><strong>https://crowdin.com/project/diode-drive</strong></a>
-   1. As of this time we have Chinese (simplified and traditional), German, and Turkish in the works
-2. To add a new language that isn't already listed in Crowd-in, you will have to send a support message so we can get it started. Then, anyone can contribute to the newly added language.
-   1. You can contribute to a language that’s in process **at any time**
+![](/uploads/image-12.png)
+
+If the backup file size grows beyond the "Backup Size Limit", the backup function will be disabled and an alert will be shown on the icon until the backup size is pruned.
+
+---
+
+&nbsp;

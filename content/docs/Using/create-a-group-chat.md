@@ -2,7 +2,7 @@
 _schema: default
 title: Create a Group Chat
 nav_title: Group Chat
-nav_section: Navigating
+nav_section: Using
 weight: 207
 draft: false
 ---

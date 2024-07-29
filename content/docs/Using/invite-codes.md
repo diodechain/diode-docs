@@ -2,7 +2,7 @@
 _schema: default
 title: Invite Codes
 nav_title: Invite Codes
-nav_section: Navigating
+nav_section: Using
 weight: 213
 draft: false
 ---

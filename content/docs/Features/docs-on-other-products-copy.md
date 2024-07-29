@@ -4,7 +4,7 @@ title: Chat Commands
 nav_title: Chat Commands
 nav_section: Features
 weight: 204
-draft: true
+draft: false
 ---
 In a Diode Drive channel, messages that start with "/" are called chat commands. These chat commands can perform various functions and display helpful information.
 

@@ -2,7 +2,7 @@
 _schema: default
 title: Share a File or Folder via Web Browser
 nav_title: Share via Web Browser
-nav_section: Navigating
+nav_section: Using
 weight: 204
 draft: false
 ---

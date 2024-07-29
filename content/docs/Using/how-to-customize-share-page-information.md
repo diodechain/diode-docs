@@ -2,7 +2,7 @@
 _schema: default
 title: How to Customize Share Page Information
 nav_title: Customize Share Page
-nav_section: Navigating
+nav_section: Using
 weight: 219
 draft: false
 ---

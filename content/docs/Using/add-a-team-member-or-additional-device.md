@@ -2,7 +2,7 @@
 _schema: default
 title: Add a Team Member or Additional Device
 nav_title: Add Team or Device
-nav_section: Navigating
+nav_section: Using
 weight: 203
 draft: false
 ---

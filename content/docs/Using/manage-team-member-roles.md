@@ -2,7 +2,7 @@
 _schema: default
 title: Manage Team Member Roles
 nav_title: Manage Roles
-nav_section: Navigating
+nav_section: Using
 weight: 218
 draft: false
 ---

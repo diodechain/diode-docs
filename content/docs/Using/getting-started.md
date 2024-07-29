@@ -2,7 +2,7 @@
 _schema: default
 title: Create an Account
 nav_title: Create an Account
-nav_section: Navigating
+nav_section: Using
 weight: 202
 draft: false
 ---

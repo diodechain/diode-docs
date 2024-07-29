@@ -2,7 +2,7 @@
 _schema: default
 title: File Editing
 nav_title: File Editing
-nav_section: Navigating
+nav_section: Using
 weight: 214
 draft: false
 ---

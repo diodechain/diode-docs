@@ -12,7 +12,7 @@ Here are the top reasons people want to run a Diode Network Lite Node:
 
 If even a single Diode Network node is running in a region, it can route the E2EE traffic to other end points in the region, or to end points in other regions. Adding a node in a new or congested region can make connecting using Diode more performant for endpoints in that area.
 
-**2\. They wan to further isolate their own endpoint traffic**
+**2\. They want to further isolate their own endpoint traffic**
 
 Every Diode client can be configured to prefer/require certain server node routes. If you host your own node, you can also configure your clients to use your "in-house" node. This can give your application the same smart contract perimeter governance and global routing, but can also have better speed, routing privacy, economic benefits, and enterprise integrations.
 

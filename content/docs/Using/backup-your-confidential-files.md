@@ -2,7 +2,7 @@
 _schema: default
 title: Backup Your Confidential Files
 nav_title: Backup  Files
-nav_section: Navigating
+nav_section: Using
 weight: 205
 draft: false
 ---

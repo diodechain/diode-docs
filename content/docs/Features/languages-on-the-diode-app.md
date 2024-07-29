@@ -1,9 +1,9 @@
 ---
 _schema: default
 title: Languages on The Diode App
-nav_title: What Languages Are on The Diode App?
-nav_section: FAQ
-weight: 20017
+nav_title: Languages
+nav_section: Features
+weight: 209
 draft: false
 ---
 If you're wondering how to get different languages on your Diode app, you're in the right place.

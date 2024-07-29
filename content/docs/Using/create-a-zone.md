@@ -2,7 +2,7 @@
 _schema: default
 title: Create a Zone
 nav_title: Create a Zone
-nav_section: Navigating
+nav_section: Using
 weight: 203
 draft: false
 ---

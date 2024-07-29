@@ -2,7 +2,7 @@
 _schema: default
 title: Updating the Diode App
 nav_title: Updating
-nav_section: Navigating
+nav_section: Using
 weight: 210
 draft: false
 ---

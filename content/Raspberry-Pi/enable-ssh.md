@@ -23,7 +23,7 @@ This is the setup used in this article. Your setup may be different - if so, som
 
 The steps below are a concrete example of the [**official Raspberry Pi instructions.**](https://www.raspberrypi.org/documentation/remote-access/ssh/)
 
-1. Enable SSH
+1\. Enable SSH
 
 * On the Pi's keyboard/mouse/LCD setup, open a terminal window and type:
 
@@ -34,13 +34,13 @@ systemctl start ssh
 
 * It will pop up a box asking for your password - enter it, and SSH will be enabled
 
-1. Find your Pi's IP address
+2\. Find your Pi's IP address
 
 * Find your IP address by opening a terminal window on the Pi and typing "ifconfig" - if you're using WiFI, the inet address under the wlan0 interface will show your IP address - mine is 192.168.50.21
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/knnulxk898/1600955342024/image.png)
 
-1. SSH into your Pi
+3\. SSH into your Pi
 
 From your computer:
 

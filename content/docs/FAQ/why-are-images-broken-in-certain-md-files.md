@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Why Are Images Broken in Certain MD files?
-nav_title: Why Are Images Broken in Certain MD files?
+title: Why Are Images Broken in Certain MD Files?
+nav_title: Why Are Images Broken in Certain MD Files?
 nav_section: FAQ
 weight: 20024
 draft: false

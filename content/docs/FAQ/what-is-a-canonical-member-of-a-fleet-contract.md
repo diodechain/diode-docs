@@ -3,7 +3,7 @@ _schema: default
 title: What is a Canonical Member of a Fleet Contract?
 nav_title: What is a Canonical Member of a Fleet Contract?
 nav_section: FAQ
-weight: 5
+weight: 20001
 draft: false
 ---
 A Canonical Member of a Fleet Contract is a Client Identity that has been added, via a transaction on the Diode Network, to the Fleet Contract.

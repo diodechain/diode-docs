@@ -3,7 +3,7 @@ _schema: default
 title: What Are Some Applications That Can Be Created With The Diode Network?
 nav_title: What Apps Can Be Made With Diode?
 nav_section: FAQ
-weight: 20009
+weight: 20005
 draft: false
 ---
 You can build all kinds of Web3 applications on Diode. Take agriculture projects for example. There are lots of things you can do with agriculture. The most straightforward application would be monitoring connected devices over the Diode network. So, if you setup greenhouse monitoring on your Pi, then you can use the Diode network to monitor and control your device securely anywhere in the world. You can even use the Diode gateway at “yourname” .diode.link to showcase your solution to everybody, without needing a server.

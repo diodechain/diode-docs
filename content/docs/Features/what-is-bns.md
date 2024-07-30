@@ -3,7 +3,7 @@ _schema: default
 title: What is BNS?
 nav_title: BNS
 nav_section: Features
-weight: 20022
+weight: 102
 draft: false
 ---
 BNS stands for Blockchain Name System - the Diode Network implements a fully decentralized BNS using smart contracts to bind "friendly names" (BNS names) to network addresses (like Ethereum addresses). You can think of a BNS name the same way you think of a <a href="https://en.wikipedia.org/wiki/Domain_name" target="_blank" rel="noopener"><strong>root Domain Name</strong></a> for web2.0.

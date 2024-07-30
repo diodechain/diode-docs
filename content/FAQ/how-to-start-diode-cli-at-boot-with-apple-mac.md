@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: How To Start Diode CLI at Toot With Apple Mac
+title: How To Start Diode CLI at Boot With Apple Mac
 nav_title:
 SEO_options:
   title: About Diode

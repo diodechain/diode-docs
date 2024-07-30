@@ -3,7 +3,7 @@ _schema: default
 title: Create a Simple Decentralized Webpage
 nav_title: Create a Decentralized Webpage
 nav_section: Using
-weight: 213
+weight: 501
 draft: false
 ---
 A quick and simple way to create a decentralized webpage is to use Diode Drive to publish a simple page to the Internet. Read below for how to do that!
@@ -42,7 +42,7 @@ Click the "webpage" folder to go into it, and again use the "+" button to create
 
 5\. Add some text to your webpage
 
-Click the "home.md" file, and then click the "edit" (pencil) button to edit the page.
+Click the "[home.md](http://home.md)" file, and then click the "edit" (pencil) button to edit the page.
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662762313738/image.png)
 
@@ -52,7 +52,7 @@ Type some text and click Save.
 
 6\. View your webpage!
 
-Paste the URL you copied in step 3 into a web browser and then click the "home.md" file it shows there.
+Paste the URL you copied in step 3 into a web browser and then click the "[home.md](http://home.md)" file it shows there.
 
 &nbsp;
 
@@ -64,7 +64,7 @@ This will show your webpage - you can copy the link in the browser to give it to
 
 7\. Remove file information from the webpage
 
-Since we want people to view home.md as a webpage, the "breadcrumbs" and "Download" and "File Details" information is not desirable. In order to remove those, go to the web link settings by clicking the web link icon to the right of your "webpage" folder in Diode Drive.
+Since we want people to view [home.md](http://home.md) as a webpage, the "breadcrumbs" and "Download" and "File Details" information is not desirable. In order to remove those, go to the web link settings by clicking the web link icon to the right of your "webpage" folder in Diode Drive.
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662762791698/image.png)
 
@@ -78,7 +78,7 @@ Your webpage will now be displayed without the other elements.
 
 8\. Add images
 
-A webpage is pretty boring without pictures! To add a picture, go back to Diode Drive and edit "home.md" as you did in Step 5. Once editing, select the Insert Image control in the edit ribbon and choose an image to add to your page and then click "Save".
+A webpage is pretty boring without pictures! To add a picture, go back to Diode Drive and edit "[home.md](http://home.md)" as you did in Step 5. Once editing, select the Insert Image control in the edit ribbon and choose an image to add to your page and then click "Save".
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662763218246/image.png)
 
@@ -86,15 +86,15 @@ The image you added is automatically added to your webpage folder in a folder na
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662763340260/image.png)
 
-Now, both your home.md preview in Diode Drive as well as your webpage will show your new image:
+Now, both your [home.md](http://home.md) preview in Diode Drive as well as your webpage will show your new image:
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662763414257/image.png)
 
 9\. Add other pages
 
-You can quickly add other pages by using the "+" button while inside the "webpage" folder to add additional files - for example, "about.md".
+You can quickly add other pages by using the "+" button while inside the "webpage" folder to add additional files - for example, "[about.md](http://about.md)".
 
-After adding content to about.md (like Steps 5 and 8), create a link to it from your home page by editing the home.md file, adding some text that will link to your about page, and then clicking the "Link" icon, and typing "about.md" in the box provided.
+After adding content to [about.md](http://about.md) (like Steps 5 and 8), create a link to it from your home page by editing the [home.md](http://home.md) file, adding some text that will link to your about page, and then clicking the "Link" icon, and typing "[about.md](http://about.md)" in the box provided.
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662763719498/image.png)
 

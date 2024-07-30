@@ -3,7 +3,7 @@ _schema: default
 title: What Are The Hardware Requirements for Running a Diode Client?
 nav_title: What Are The Hardware Requirements for Running a Diode Client?
 nav_section: FAQ
-weight: 20038
+weight: 20021
 draft: false
 ---
 Diode uses the <a href="https://network.docs.diode.io/docs/faq/what-is-blockquick-tm/" target="_blank" rel="noopener"><strong>BlockQuick</strong></a> algorithm to uniquely enable communication with and via the <a href="https://network.docs.diode.io/" target="_blank" rel="noopener"><strong>Diode Network</strong></a>. BlockQuick has relatively small hardware resource requirements, allowing it to be ran on almost any communications processor:

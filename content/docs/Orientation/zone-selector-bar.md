@@ -3,7 +3,7 @@ _schema: default
 title: Zone Selector Bar
 nav_title: The Zone Selector Bar
 nav_section: Orientation
-weight: 202
+weight: 102
 draft: false
 ---
 The Zone Selector bar is at the far left of your screen. It has one icon for every Zone you are a part of - by clicking the Zone icon, you navigate to that Zone.

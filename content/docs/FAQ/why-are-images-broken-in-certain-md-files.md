@@ -3,7 +3,7 @@ _schema: default
 title: Why Are Images Broken in Certain MD files?
 nav_title: Why Are Images Broken in Certain MD files?
 nav_section: FAQ
-weight: 20042
+weight: 20024
 draft: false
 ---
 As of July 2023, there is a bug with the Diode App in which images cannot be added to markdown files if the file has a parentheses character, either `(` or `)` , in its file name or in its file path.

@@ -3,7 +3,7 @@ _schema: default
 title: Is Diode Similar to IOTA?
 nav_title: Is Diode Similar to IOTA?
 nav_section: FAQ
-weight: 20024
+weight: 20010
 draft: false
 ---
 IOTA is non-functional for IoT use cases apart from Demos and prototypes. It has at least two big problems:

@@ -2,7 +2,7 @@
 _schema: default
 title: Is There a Diode Token?
 nav_title: Diode Token
-nav_section: FAQ
+nav_section: Features
 weight: 20033
 draft: false
 ---

@@ -3,7 +3,7 @@ _schema: default
 title: Create a Simple Decentralized Webpage
 nav_title: Create a Decentralized Webpage
 nav_section: Using
-weight: 501
+weight: 221
 draft: false
 ---
 A quick and simple way to create a decentralized webpage is to use Diode Drive to publish a simple page to the Internet. Read below for how to do that!

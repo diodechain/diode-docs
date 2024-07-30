@@ -3,7 +3,7 @@ _schema: default
 title: How Do I Get DIODE Tokens?
 nav_title: How Do I Get DIODE Tokens?
 nav_section: FAQ
-weight: 20036
+weight: 20020
 draft: false
 ---
 <br>At the current time, the primary way to get DIODE is to participate in one of the [**Diode Token Bounty Programs**](https://support.diode.io/article/4cad53ipui).

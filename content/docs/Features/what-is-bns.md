@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: What is BNS?
-nav_title: What is BNS?
-nav_section: FAQ
+nav_title: BNS
+nav_section: Features
 weight: 20022
 draft: false
 ---

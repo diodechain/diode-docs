@@ -1,8 +1,8 @@
 ---
 _schema: default
 title: What is a Canonical Member of a Fleet Contract?
-nav_title: Canonical Member of a Fleet Contract
-nav_section: Features
+nav_title: What is a Canonical Member of a Fleet Contract?
+nav_section: FAQ
 weight: 5
 draft: false
 ---

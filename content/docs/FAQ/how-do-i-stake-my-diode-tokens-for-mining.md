@@ -3,7 +3,7 @@ _schema: default
 title: How Do I Stake DIODE Tokens for Mining?
 nav_title: How Do I Stake DIODE Tokens for Mining?
 nav_section: FAQ
-weight: 20029
+weight: 20012
 draft: false
 ---
 You can use the console to add stake for your miner. The following example will stake 5 Diode, if available in your balance.

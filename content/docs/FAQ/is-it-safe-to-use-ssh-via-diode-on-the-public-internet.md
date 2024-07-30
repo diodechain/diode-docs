@@ -3,7 +3,7 @@ _schema: default
 title: Is It Safe to Use SSH via Diode on The Public Internet?
 nav_title: Safety of SSH Via Diode?
 nav_section: FAQ
-weight: 20053
+weight: 20025
 draft: false
 ---
 Although it is the safest to not expose any surface at all to the Internet, SSH can be one of the safest interfaces to expose - it is made for that purpose. There are many articles on the Internet, such as<a href="https://www.redhat.com/sysadmin/eight-ways-secure-ssh" target="_blank" rel="noopener"><strong> this one</strong></a> from RedHat, that describe some things you can do to make your SSH setup as secure as possible.

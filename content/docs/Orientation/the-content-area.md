@@ -3,7 +3,7 @@ _schema: default
 title: The Content Area
 nav_title: The Content Area
 nav_section: Orientation
-weight: 200
+weight: 100
 draft: false
 ---
 The Diode Drive content area shows the content for the files, chat, settings, and other information you may be interacting with.

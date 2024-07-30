@@ -1,9 +1,9 @@
 ---
 _schema: default
 title: What is BlockQuick(TM)?
-nav_title: What is BlockQuick(TM)?
-nav_section: FAQ
-weight: 20006
+nav_title: BlockQuick(TM)?
+nav_section: Features
+weight: 50
 draft: false
 ---
 Developed by the Diode team, <a href="https://diode.io/burning-platform-pki/blockquick-super-light-blockchain-client-for-trustless-time-19144/" target="_blank" rel="noopener"><strong>BlockQuick</strong></a> is the first super light client protocol for Ethereum that <a href="https://diode.io/blockchain/how-blockquick-super-light-client-protocol-can-help-mitigate-eclipse-attacks-19161/" target="_blank" rel="noopener"><strong>addresses the issue of man-in-the-middle attacks and eclipse attacks</strong></a>. It is capable of preventing attacks because it doesn’t depend solely on choosing the longest chain with the highest difficulty on the Proof-of-Work (PoW) network when validating a block. Instead, it validates a block based on the "[**Consensus Reputation Table**](https://support.diode.io/article/79ly43fyn2)."

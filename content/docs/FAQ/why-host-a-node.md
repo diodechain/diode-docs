@@ -1,9 +1,9 @@
 ---
 _schema: default
-title: Why host a node?
-nav_title: Why host a node?
+title: Why Host A Node?
+nav_title: Why Host A Node?
 nav_section: FAQ
-weight: 20039
+weight: 20023
 draft: false
 ---
 Here are the top reasons people want to run a Diode Network Lite Node:

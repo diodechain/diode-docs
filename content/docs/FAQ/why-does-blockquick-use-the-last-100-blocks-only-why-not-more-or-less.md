@@ -3,7 +3,7 @@ _schema: default
 title: Why Does BlockQuick Use The Last 100 Blocks Only? Why Not More or Less?
 nav_title: 'Why Does BlockQuick Use The Last 100 Blocks Only? '
 nav_section: FAQ
-weight: 20030
+weight: 20014
 draft: false
 ---
 The current proof of concept clients are working with consensus table sizes of 100.

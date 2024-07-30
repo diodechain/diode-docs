@@ -3,7 +3,7 @@ _schema: default
 title: How Do I Change My Fleet/Perimeter?
 nav_title: How Do I Change My Fleet/Perimeter?
 nav_section: FAQ
-weight: 6
+weight: 20002
 draft: false
 ---
 The Fleet Contract (AKA Perimeter) can be changed using the `diode config` parameters.

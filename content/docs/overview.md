@@ -3,7 +3,7 @@ _schema: default
 title: Overview
 nav_title: Overview
 nav_section: Commands
-weight: 3
+weight: 200
 draft: false
 ---
 You can type "diode --help" to get a full list of CLI commands.

@@ -3,7 +3,7 @@ _schema: default
 title: Is Every DNS Change Stored Into The Blockchain Forever?
 nav_title: Is Every DNS Change Stored Into The Blockchain Forever?
 nav_section: FAQ
-weight: 20026
+weight: 20011
 draft: false
 ---
 This question came from some comments from [**Hacker News**](https://news.ycombinator.com/item?id=20764104#20764865): “So every DNS change is stored into the blockchain, forever? Will you have to download terabytes and terabytes of the blockchain in order to serve as a node? Why is that kind of audit history necessary?”

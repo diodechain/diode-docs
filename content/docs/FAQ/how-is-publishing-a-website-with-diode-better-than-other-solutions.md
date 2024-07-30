@@ -3,7 +3,7 @@ _schema: default
 title: How is Publishing a Website With Diode Better Than Other Solutions?
 nav_title: Why Publish a Website With Diode?
 nav_section: FAQ
-weight: 20008
+weight: 20004
 draft: false
 ---
 Three of the immediate feature adds vs. other solutions are:

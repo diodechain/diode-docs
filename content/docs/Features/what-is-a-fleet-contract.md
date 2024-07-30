@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: What is a Fleet Contract?
-nav_title: What is a Fleet Contract?
+nav_title: Fleet Contract
 nav_section: FAQ
 weight: 20003
 draft: false

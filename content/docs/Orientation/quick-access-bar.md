@@ -3,7 +3,7 @@ _schema: default
 title: Quick Access Bar
 nav_title: The Quick Access Bar
 nav_section: Orientation
-weight: 201
+weight: 101
 draft: false
 ---
 The Quick Access Bar is the dark bar to the right of the <a href="https://app.docs.diode.io/docs/features/zone-selector-bar/" target="_blank" rel="noopener"><strong>Zone Selector</strong></a>.

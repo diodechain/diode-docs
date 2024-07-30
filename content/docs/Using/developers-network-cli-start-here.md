@@ -3,7 +3,7 @@ _schema: default
 title: 'Developers (Network, CLI): Start Here!'
 nav_title: Start Here
 nav_section: Using
-weight: 6
+weight: 5
 draft: false
 ---
 Hi - we're glad you want to start using the [**Diode Network**](https://support.diode.io/article/wxckuppo9j) - you won't be disappointed!

@@ -3,7 +3,7 @@ _schema: default
 title: Can Anyone Join A Fleet?
 nav_title: Who Can Join A Fleet?
 nav_section: FAQ
-weight: 4
+weight: 20000
 draft: false
 ---
 No - only the Fleet creator can add/remove Clients from a Fleet.

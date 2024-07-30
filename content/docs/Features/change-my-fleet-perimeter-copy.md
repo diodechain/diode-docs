@@ -3,7 +3,7 @@ _schema: default
 title: How Do I Use DIODE Tokens?
 nav_title: Usage of Diode Tokens
 nav_section: Features
-weight: 7
+weight: 9
 draft: false
 ---
 You can use the DIODE token to Stake Fleet Contracts or Miners on the Diode Network.

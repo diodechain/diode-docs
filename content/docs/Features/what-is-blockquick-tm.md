@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: What is BlockQuick(TM)?
-nav_title: BlockQuick(TM)?
+nav_title: BlockQuick(TM)
 nav_section: Features
 weight: 50
 draft: false

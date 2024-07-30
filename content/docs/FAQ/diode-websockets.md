@@ -3,7 +3,7 @@ _schema: default
 title: How Is Diode Using Websockets?
 nav_title: How Is Diode Using Websockets?
 nav_section: FAQ
-weight: 20032
+weight: 20016
 draft: false
 ---
 The default Diode Go Client has a built-in capability to convert any binary TCP socket into a websocket.

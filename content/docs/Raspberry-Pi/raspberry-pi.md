@@ -3,7 +3,7 @@ _schema: default
 title: 'See Below For All Raspberry Pi Articles:'
 nav_title: Raspberry Pi
 nav_section: Raspberry Pi
-weight: 20007
+weight: 10000
 draft: false
 ---
 ###

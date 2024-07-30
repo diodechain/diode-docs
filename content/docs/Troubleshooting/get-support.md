@@ -3,7 +3,7 @@ _schema: default
 title: Get Support
 nav_title: Get Support
 nav_section: Troubleshooting
-weight: 30000
+weight: 10000
 draft: false
 ---
 We want to help you integrate secure communications into your work, community, and life!

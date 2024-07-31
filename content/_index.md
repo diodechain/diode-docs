@@ -20,8 +20,4 @@ Anyone can create their own application on top of the Diode Network. As opposed 
 
 {{< youtube id="6_-r1ARlivs" autoplay="true" title="Diode Network Introduction" >}}
 
-&nbsp;
-
-```markdown
 <iframe src="https://diode.io/network"></iframe>
-```

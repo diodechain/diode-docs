@@ -20,4 +20,5 @@ Anyone can create their own application on top of the Diode Network. As opposed 
 
 {{< youtube id="6_-r1ARlivs" autoplay="true" title="Diode Network Introduction" >}}
 
-<iframe src="https://diode.io/network"></iframe>
+Network Map:
+<iframe src="https://diode.io/network" style="width:100%;"></iframe>

@@ -28,6 +28,6 @@ draft: false
 
 [**If I Can Access My Raspberry Pi Through The Local Network via HTTP/SSH, Why Do I Need Diode?**](https://cli.docs.diode.io/raspberry-pi/if-i-can-access-my-raspberry-pi-through-the-local-network-via-http-ssh-why-do-i-need-diode/)
 
-**How is Diode For Video Streaming Different From Raspberry Pi's “raspivid” Command?**
+[**How is Diode For Video Streaming Different From Raspberry Pi's “raspivid” Command?**](https://cli.docs.diode.io/raspberry-pi/how-is-diode-for-video-streaming-different-from-raspberry-pi-s-raspivid-command/)
 
 &nbsp;

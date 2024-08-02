@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Configure Firefox Containers to Access the Diode Network
+title: Enable SSH
 nav_title:
 SEO_options:
   title: About Diode
@@ -8,74 +8,52 @@ SEO_options:
   description:
 draft: false
 ---
-There are many ways to <a href="https://support.diode.io/article/sbf1ihdfve-access-web-3-0-content" target="_blank" rel="noopener"><strong>access various resources published to the Diode Network</strong></a>. The method covered in this article uses the official Firefox Container add-on to create a specific container within Firefox that can serve Diode Network content via the local Diode Network Proxy provided by the <a href="https://diode.io/solutions/cli/" target="_blank" rel="noopener"><strong>Diode CLI</strong></a> or the <a href="https://diode.io/solutions/app/" target="_blank" rel="noopener"><strong>Diode App</strong></a>.
+It is a pain to switch back and forth between a computer UI setup and the Pi setup. We can enable SSH on the Pi it can be controlled remotely from the computer. However, SSH is not enabled on the Pi by default, so we have to do that first.
 
-#### **Part 1: Configure Firefox**
+### **Environment and Pre-requisites:**
 
-1\. Install the <a href="https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/" target="_blank" rel="noopener"><strong>Official Firefox Multi-Account Container Add-On</strong></a>
+This is the setup used in this article. Your setup may be different - if so, some steps may not be exactly the same.‌
 
-2\. Open the Container Add-On by clicking it's icon (shown below) in the top left of Firefox
+* Raspberry Pi 4 Model B with keyboard/mouse/LCD panel attached
+  * [**Clean install of Raspbian via NOOBs**](https://projects.raspberrypi.org/en/projects/noobs-install)
+  * Connected to WiFi, new password for Pi user
+* MacOS for main computer
 
-![](/uploads/image-7.png)
+### **Setup SSH**
 
-3\. At the bottom of the Container Add-On pop-up, click "Manage Containers"
+The steps below are a concrete example of the [**official Raspberry Pi instructions.**](https://www.raspberrypi.org/documentation/remote-access/ssh/)
 
-![](/uploads/image-8.png)
+1\. Enable SSH
 
-4\. Click "New Container" at the top, give it a Name, Color, and Icon, then click "OK".
+* On the Pi's keyboard/mouse/LCD setup, open a terminal window and type:
 
-![](/uploads/image-9.png)
+```
+sudo systemctl enable ssh
+systemctl start ssh
+```
 
-5\. Click the name of the container you just created (in my case it will be "Diode Web3").
+* It will pop up a box asking for your password - enter it, and SSH will be enabled
 
-![](/uploads/image-10.png)
+2\. Find your Pi's IP address
 
-6\. Click "Advanced proxy settings"
+* Find your IP address by opening a terminal window on the Pi and typing "ifconfig" - if you're using WiFI, the inet address under the wlan0 interface will show your IP address - mine is 192.168.50.21
 
-![](/uploads/image-11.png)
+![](https://files.helpdocs.io/qwk5dmv7m8/articles/knnulxk898/1600955342024/image.png)
 
-7\. Click the "Enable" button
+3\. SSH into your Pi
 
-![](/uploads/image-12.png)
+From your computer:
 
-8\. Click "Allow"
+* Open a terminal window and type (replace the IP address with your Pi's IP)
 
-![](/uploads/image-13.png)
+```
+ssh pi@192.168.50.21
+```
 
-9\. Insert `socks://localhost:57861` into the "Advanced proxy settings" field, then click "Apply to Container"
+* It may show you a warning (type yes) and will ask for your password. Once you've entered your password, you'll get a "pi@raspberry:~ $" prompt - you're in!
 
-![](/uploads/image-14.png)
+![](https://files.helpdocs.io/qwk5dmv7m8/articles/knnulxk898/1600955364662/image.png)
 
-10\. If you've done everything correctly, you should see `socks://localhost:57861` shown under the "Advanced proxy settings" section, as shown below.
+That's it - you can now access your rPi remotely (as long as you are on the same LAN).
 
-![](/uploads/image-15.png)
-
-#### **Part 2: Configure your local Diode Network Proxy**
-
-The easiest way to start your local Diode Network Proxy is to simply run the <a href="https://diode.io/solutions/app/" target="_blank" rel="noopener"><strong>Diode App</strong></a>. If you don't have the Diode App yet, you can install it [**here**](https://diode.io/solutions/app/). All you have to do is start the app and keep it running while you are accessing Web3 sites. Once you have installed and started the Diode App, you can proceed to Part 3 of this guide.
-
-<a href="https://diode.io/solutions/app/" target="_blank" rel="noopener"><strong>Download the Diode App</strong></a>
-
-Alternatively, the local Diode Network Proxy can be started using the <a href="https://diode.io/resources/download/" target="_blank" rel="noopener"><strong>Diode CLI</strong></a>. To do that, [**download the Diode CLI**](https://diode.io/resources/download/), open a terminal window, and run: <code>diode socksd -socksd_port 57861<br /></code><br>Keep this terminal window open while accessing Web3 sites.
-
-#### **Part 3: Using the Connection**
-
-1\. Open the Container Add-On by clicking it's icon (shown below) in the top left of Firefox
-
-![](/uploads/image-16.png)
-
-2\. From the container menu, select the container you created in Step 4 of Part 1. In my case, this is "Diode Web3" as shown below. After clicking on the container name, a new tab will open for the container you selected.
-
-![](/uploads/image-17.png)
-
-3\. Inside the new container tab, navigate to a .diode site using this format: `http://site-you-want-to-reach.diode`. Notice that `http` is used and NOT `https`.
-
-Even without https, your connection is still secure via the Diode Network
-
-4\. If the tab loads the desired diode site, then your connection is configured properly!
-
-If it's not working for you, make sure that you followed these steps carefully and that you have the right .diode site address. If you're still having trouble, feel free to reach out by clicking the "Contact" button at the top right of the page.
-
----
-
-&nbsp;
+**NOTE:** If you want to access your rPi over SSH even when you are not on the same LAN, see the article about [**enabling SSH over the Diode Network**](https://support.diode.io/article/ub9xrruimv)

@@ -4,7 +4,7 @@ title: How is Diode Different In Other Web3 Protocols?
 nav_title: 'How is Diode Different In Web3? '
 nav_section: FAQ
 weight: 20002
-draft: true
+draft: false
 ---
 There are many types of Web3 projects from blockchains to dApps, Diode is fundamentally a communications network
 

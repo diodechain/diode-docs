@@ -2,7 +2,7 @@
 _schema: default
 title: Ignored Files
 nav_title: Ignored Files
-nav_section: IT Admin
+nav_section: For Your IT Admin
 weight: 306
 draft: false
 ---

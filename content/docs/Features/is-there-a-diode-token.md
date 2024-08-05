@@ -3,7 +3,7 @@ _schema: default
 title: Is There a Diode Token?
 nav_title: Diode Token
 nav_section: Features
-weight: 103
+weight: 101
 draft: false
 ---
 Yes! The Diode Token, the "DIO", is a [**utility token**](https://legiscan.com/WY/text/HB0062/id/1834321) that is used by the Diode Network to enable communications and other network activity. You can view the state of the Diode Network in the <a href="https://diode.io/prenet/#/" target="_blank" rel="noopener"><strong>Diode Network Explorer</strong></a> and, for example, see the <a href="https://diode.io/prenet/#/address" target="_blank" rel="noopener"><strong>top accounts by DIO balance</strong></a>.

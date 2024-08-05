@@ -6,7 +6,7 @@ nav_section: Installation
 weight: 2
 draft: false
 ---
-> If you've already installed the app, you can just <a href="https://support.diode.io/article/9yzojmvfk3" target="_blank" rel="noopener">update it</a> without removing/uninstalling.
+> If you've already installed the app, you can just <a href="https://app.docs.diode.io/docs/using/updating-the-diode-app/" target="_blank" rel="noopener">update it</a> without removing/uninstalling.
 
 The main Diode application runs on all major platforms (MacOS, Linux-x86&ARM, Windows, iOS, Android).  It provides messaging, file-sync, and tunneled web access to Team Members who have been invited to collaborate in a Zone. All communication between peers is end to end encrypted, so the Diode Network and other Internet infrastructure never has access to any activity details or content.
 
@@ -14,7 +14,7 @@ Select the installation guide for your Operating System:
 
 [**MacOS**](https://support.diode.io/article/rywr2hzmjg)
 
-[**Windows**](https://support.diode.io/article/pdmdxj1qd6)
+[**Windows**](https://app.docs.diode.io/installation/install-diode-drive-on-windows/)
 
 <a href="https://support.diode.io/article/j8e4a8a59a" target="_blank" rel="noopener"><strong>Linux</strong></a>
 

@@ -8,6 +8,8 @@ SEO_options:
   description:
 draft: false
 ---
+To get started, see the [Orientation documents](https://app.docs.diode.io/docs/orientation/the-content-area/).
+
 Diode's leading secure collaboration product is a cross-platform messaging application that feels like Slack but has a higher level of security posture than Signal.  It is made for team collaboration and communication in sensitive regions and in regulated data environments.
 
 ![](/uploads/image-2.png)

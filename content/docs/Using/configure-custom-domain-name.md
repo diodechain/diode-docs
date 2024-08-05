@@ -38,12 +38,6 @@ https://&lt;clientaddress&gt;.diode.link
 
 [http://yourname.com](http://yourname.com)
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ---
 
 &nbsp;

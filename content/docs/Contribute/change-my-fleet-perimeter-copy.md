@@ -1,13 +1,11 @@
 ---
 _schema: default
-title: Diode App
-nav_title: Diode App
-nav_section: Projects
-weight: 100
+title: Forum
+nav_title: Forum
+nav_section: Contribute
+weight: 200
 draft: false
 ---
-The [Diode App](https://diode.io/solutions/app) is the pioneer application on the Diode Network. It is a secure team based collaboration application (messaging, files, remote access) that commonly replaces Slack and Discord for team collaboration use cases.
+**You can open up a topic on the** <a href="https://forum.diode.io/t/getting-started-with-diode-client/12/1" target="_blank" rel="noopener"><strong>Diode Forum</strong></a> **and browse community topics as well.**
 
-See here for [documentation](https://app.docs.diode.io/).
-
-**Developer:** [Diode](https://diode.io/)
+&nbsp;

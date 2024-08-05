@@ -1,13 +1,13 @@
 ---
 _schema: default
-title: Diode CLI
-nav_title: Diode CLI
-nav_section: Projects
-weight: 101
+title: Github
+nav_title: Github
+nav_section: Contribute
+weight: 202
 draft: false
 ---
-The [Diode CLI](https://diode.io/solutions/cli) is a command line IT tool that makes it easy to connect data and systems through the Diode Network.
+**Many of our technologies are OpenSource, you can check out our Github** [**here**](https://github.com/diodechain/diode_client)**.**
 
-See here for [documentation](https://cli.docs.diode.io/).
+&nbsp;
 
-**Developer:** [Diode](https://diode.io/)
+&nbsp;

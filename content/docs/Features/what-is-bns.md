@@ -12,4 +12,4 @@ Addresses on the Diode Network use the same format as <a href="https://ethereum.
 
 For example, this can be used to shorten the address used to view the public video feed of Diode's Berlin office from: <a href="https://0xc206e1255cbace8ba904daa259d7a5b7f90e2d50.diode.link/" target="_blank" rel="noopener"><strong>https://0xc206E1255Cbace8ba904DaA259D7a5b7F90E2D50.diode.link</strong></a> to <a href="https://betahaus-berlin.diode.link/" target="_blank" rel="noopener"><strong>https://betahaus-berlin.diode.link</strong></a>.
 
-To create, search, and browse BNS names, check out the [**article**](https://support.diode.io/article/2bzhaehdp2) or go straight to the <a href="https://diode.io/prenet/#/dns" target="_blank" rel="noopener"><strong>Explorer BNS page</strong></a>.
+To create, search, and browse BNS names, check out the [**article**](https://network.docs.diode.io/docs/using/reserve-a-domain-name/) or go straight to the <a href="https://diode.io/prenet/#/dns" target="_blank" rel="noopener"><strong>Explorer BNS page</strong></a>.

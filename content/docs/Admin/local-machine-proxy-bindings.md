@@ -2,7 +2,7 @@
 _schema: default
 title: Local Machine Proxy Bindings
 nav_title: Local Machine Proxy Bindings
-nav_section: IT Admin
+nav_section: For Your IT Admin
 weight: 303
 draft: false
 ---

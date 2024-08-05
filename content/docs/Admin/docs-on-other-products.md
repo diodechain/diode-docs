@@ -2,7 +2,7 @@
 _schema: default
 title: Move Zone Folder To a Different Disk
 nav_title: Move Zone Folder To a Different Disk
-nav_section: IT Admin
+nav_section: For Your IT Admin
 weight: 302
 draft: false
 ---

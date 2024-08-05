@@ -6,7 +6,7 @@ nav_section: Using
 weight: 3
 draft: false
 ---
-Hi - we're glad you want to start using the [**Diode Network**](https://support.diode.io/article/wxckuppo9j) - you won't be disappointed!
+Hi - we're glad you want to start using the [**Diode Network**](https://diode.io/solutions/network/) - you won't be disappointed!
 
 To start consuming content from the Diode Network, or to publish content via the Diode Network, see the sections below.
 

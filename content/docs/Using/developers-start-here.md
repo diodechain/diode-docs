@@ -22,17 +22,7 @@ If you want to access Private or Protected content, or just want to access the D
 
 ### **Publish Content or Consume Private/Protected Content**
 
-The <a href="https://cli.docs.diode.io/" target="_blank" rel="noopener"><strong>Diode Client</strong></a> (CLI) enables you to quickly publish content to the Diode Network, or to directly access content already published. It is a fast way to start interacting directly with the Diode Network from your local device. The Diode CLI implements the [**Blockquick(TM) algorithm**](https://cli.docs.diode.io/docs/features/what-is-blockquick-tm/), which enables anything running it to interact directly with compatible decentralized networks, like the Diode Network.
-
-#### **Install the Diode Client (Diode CLI)**
-
-The Diode Client runs on Linux (x86 and ARM), Mac, and Windows. To install, visit our <a href="https://diode.io/download" target="_blank" rel="noopener"><strong>Downloads page</strong></a> or run this command in a terminal window:
-
-```
-curl -Ssf https://diode.io/install.sh | sh
-```
-
-Once installed, type `diode` in a terminal window to get a list of commands and additional information. The [**Go Client Commands**](https://cli.docs.diode.io/faq/cli-commands/) article also describes the client capabilities.
+[**See CLI docs.**](https://cli.docs.diode.io/)
 
 ### **Manage Your Identities**
 

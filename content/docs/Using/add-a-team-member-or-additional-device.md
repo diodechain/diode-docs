@@ -6,7 +6,7 @@ nav_section: Using
 weight: 203
 draft: false
 ---
-This article describes how to invite a new Team Member to your Diode Drive Zone by explicitly inviting each Team Member by their Account Name (Username). If you'd rather just send an Invite Code out, allowing your team to join the Zone themselves, see the <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Invite Code article.</strong></a>
+This article describes how to invite a new Team Member to your Diode Drive Zone by explicitly inviting each Team Member by their Account Name (Username). If you'd rather just send an Invite Code out, allowing your team to join the Zone themselves, see the <a href="https://app.docs.diode.io/docs/using/invite-codes/" target="_blank" rel="noopener"><strong>Invite Code article.</strong></a>
 
 **1\.** <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Setup Diode Drive</strong></a>
 
@@ -20,7 +20,7 @@ They should follow the same steps in <a href="https://app.docs.diode.io/docs/" t
 
 Once they have setup their account, have them send you their Account Name.
 
-{{< vimeo id="https://vimeo.com/563505525" class="How To Invite A Team Member In Diode Drive (Ver. 1.2.1)" >}}
+{{< vimeo id="563505525" class="How To Invite A Team Member In Diode Drive (Ver. 1.2.1)" >}}
 
 For steps 3-5, you can either watch this video or follow the steps below:
 
@@ -52,7 +52,7 @@ Now, the files in your Zone will be synchronized to your other Team Member, and 
 
 This video shows how files are shared between Team Members with Diode Drive:
 
-{{< vimeo id="https://vimeo.com/563979899" title="How To Sync Files With Diode Drive (Ver. 1.2.1)" >}}
+{{< vimeo id="563979899" title="How To Sync Files With Diode Drive (Ver. 1.2.1)" >}}
 
 [**How To Sync Files With Diode Drive (Ver. 1.2.1)**](https://vimeo.com/562684103) from [**Diode**](https://vimeo.com/diodechain) on [**Vimeo**](https://vimeo.com/).
 

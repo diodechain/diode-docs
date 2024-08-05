@@ -2,7 +2,7 @@
 _schema: default
 title: How Do I Use DIODE Tokens?
 nav_title: Usage of Diode Tokens
-nav_section: Features
+nav_section: Using
 weight: 104
 draft: false
 ---

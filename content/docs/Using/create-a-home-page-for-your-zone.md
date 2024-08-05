@@ -40,4 +40,4 @@ and select the checkbox and click Save.
 
 That's it! Now when you, or any of your Team Members clicks your Zone's icon or otherwise opens the Zone, the first thing they'll see is your home page.
 
-For tips on how to add graphics, links, and other formatting to your home page, see [**Diode Drive Markdown Editing Basics**](https://app.docs.diode.io/docs/navigating/markdown-editing-basics/).
+For tips on how to add graphics, links, and other formatting to your home page, see [**Diode Drive Markdown Editing Basics**](https://app.docs.diode.io/docs/features/markdown-editing-basics/).

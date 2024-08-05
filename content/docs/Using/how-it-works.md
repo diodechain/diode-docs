@@ -14,4 +14,4 @@ Team Members all operate in a Sovereignty Zone where file synchronization and ot
 
 Here is a video that expands on these topics:
 
-{{< youtube id="?v=xt4iyqTJVx8&t=1s" title="How it Works - Diode Drive" >}}
+{{< youtube id="v=xt4iyqTJVx8&t=1s" title="How it Works - Diode Drive" >}}

@@ -3,7 +3,7 @@ _schema: default
 title: What is a Fleet Contract?
 nav_title: Fleet Contract
 nav_section: Features
-weight: 101
+weight: 107
 draft: false
 ---
 All Clients using the Diode Network must be listed in a Fleet Contract in order to be able to communicate. Sometimes a Fleet Contract is also referred to as a Perimeter.

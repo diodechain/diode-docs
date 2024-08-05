@@ -10,8 +10,6 @@ draft: false
 ---
 # **Useful Links and Articles**
 
-**![](https://files.helpdocs.io/qwk5dmv7m8/other/1597308106829/hans-headshot-feb-2020-cropped.png) UPDATED 2 YEARS AGO BY HANS**
-
 See below for resources we think you'll find useful.
 
 Let us know if you have any questions or suggestions for this content via [**Telegram**](https://t.me/diode_chain)!

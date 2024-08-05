@@ -6,7 +6,7 @@ nav_section: Orientation
 weight: 101
 draft: false
 ---
-The Quick Access Bar is the dark bar to the right of the <a href="https://app.docs.diode.io/docs/features/zone-selector-bar/" target="_blank" rel="noopener"><strong>Zone Selector</strong></a>.
+The Quick Access Bar is the dark bar to the right of the <a href="https://app.docs.diode.io/docs/orientation/zone-selector-bar/" target="_blank" rel="noopener"><strong>Zone Selector</strong></a>.
 
 ![](/uploads/image-10.png)
 
@@ -22,15 +22,15 @@ Depending on the Zone's Options and status, other icons will be displayed just u
 
 These icons, in order, are:
 
-<a href="https://app.docs.diode.io/docs/navigating/create-a-home-page-for-your-zone/" target="_blank" rel="noopener"><strong>About / Information</strong></a> - if an About page is configured for your Zone, it can be accessed by clicking the information icon.
+<a href="https://app.docs.diode.io/docs/using/create-a-home-page-for-your-zone/" target="_blank" rel="noopener"><strong>About / Information</strong></a> - if an About page is configured for your Zone, it can be accessed by clicking the information icon.
 
-<a href="https://app.docs.diode.io/docs/navigating/file-editors/" target="_blank" rel="noopener"><strong>Files</strong></a> - you can get to your files and folders for your Zone by clicking the folder icon.
+**Files** - you can get to your files and folders for your Zone by clicking the folder icon.
 
 **Options** - you can access your Zone's Options (configuration/settings) by clicking the gear icon.
 
-<a href="https://app.docs.diode.io/docs/navigating/backup-your-confidential-files/" target="_blank" rel="noopener"><strong>Backup</strong></a> - if your device is configured as a backup device for your Zone, the backup icon will be shown.
+<a href="https://app.docs.diode.io/docs/using/backup-your-confidential-files/" target="_blank" rel="noopener"><strong>Backup</strong></a> - if your device is configured as a backup device for your Zone, the backup icon will be shown.
 
-<a href="https://support.diode.io/article/e90ihyvxq6" target="_blank" rel="noopener"><strong>Non Sync</strong></a> - if your device is configured to not sync files, the non-sync icon will be shown.
+<a href="https://app.docs.diode.io/docs/features/what-is-a-diode-drive-light-zone/" target="_blank" rel="noopener"><strong>Non Sync</strong></a> - if your device is configured to not sync files, the non-sync icon will be shown.
 
 On mobile, the Quick Access bar is frustratingly only accessible by clicking four times:
 

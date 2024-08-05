@@ -15,4 +15,4 @@ If you don't want to read any more, here are the download links:
 * [Download the app](https://diode.io/download/#app) and start secure collaboration
 * [Download the CLI](https://diode.io/download/#cli) and publish assets off the public Internet
 * [Download the Network Node](https://diode.io/download/#network) and isolate your traffic or earn points
-* The Vault is hardware - you have to <a href="https://vaults.docs.diode.io" target="_blank" rel="noopener">buy</a> or <a href="https://app.docs.diode.io/raspberry-pi/use-your-raspberry-pi-as-a-remote-file-server-backup-device/" target="_blank" rel="noopener">make a Vault</a>
+* The Vault is hardware - you have to <a href="https://mk4kxqqc.paperform.co/" target="_blank" rel="noopener">buy</a> or <a href="https://vaults.docs.diode.io/docs/using/vault-getting-started-guide/" target="_blank" rel="noopener">make a Vault</a>

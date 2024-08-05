@@ -24,7 +24,7 @@ If you're interested in seeing which files are being sync'd, you can click the s
 
 ![](/uploads/image-17.png)
 
-The "+" button at the bottom of the Zone Selector allows you to <a href="https://app.docs.diode.io/docs/navigating/create-a-zone/" target="_blank" rel="noopener"><strong>add a new Zone</strong></a>.
+The "+" button at the bottom of the Zone Selector allows you to <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>add a new Zone</strong></a>.
 
 ![](/uploads/image-18.png)
 

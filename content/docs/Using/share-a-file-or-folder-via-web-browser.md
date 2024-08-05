@@ -42,7 +42,7 @@ In this example, we will copy an image into the folder that we will share - you 
 
 For steps 3-5, you can either watch this video, or follow the steps below:
 
-{{< vimeo id="https://vimeo.com/562684103" title="How To Share A File Using Diode Drive (Ver. 1.2.1)" >}}
+{{< vimeo id="562684103" title="How To Share A File Using Diode Drive (Ver. 1.2.1)" >}}
 
 [**How To Share A File Using Diode Drive (Ver. 1.2.1)**](https://vimeo.com/562684103) from [**Diode**](https://vimeo.com/diodechain) on [**Vimeo**](https://vimeo.com/).
 
@@ -76,7 +76,7 @@ Send the web link's URL to others to give them access to the file! For our examp
 
 **5\. Customize your Share Portal**
 
-You can customize the branding for your Share Portal so that all of your web links have your Zone's custom/white-labeled brand. See <a href="https://app.docs.diode.io/docs/navigating/how-to-customize-share-page-information/" target="_blank" rel="noopener"><strong>this article for more information</strong></a>.
+You can customize the branding for your Share Portal so that all of your web links have your Zone's custom/white-labeled brand. See <a href="https://app.docs.diode.io/docs/using/how-to-customize-share-page-information/" target="_blank" rel="noopener"><strong>this article for more information</strong></a>.
 
 #### **Troubleshooting:**
 
@@ -91,12 +91,12 @@ If you are getting an "Unauthorized" response when going to the share link, it t
 <u>Getting-started articles:</u>
 
 * <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
-* <a href="https://app.docs.diode.io/docs/navigating/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
-* <a href="https://app.docs.diode.io/docs/navigating/create-a-zone/" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
-* <a href="https://app.docs.diode.io/docs/navigating/linked-devices/" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>
-* <a href="https://app.docs.diode.io/docs/navigating/share-a-file-or-folder-via-web-browser/" target="_blank" rel="noopener"><strong>Share files or folders via web browser</strong></a>
-* <a href="https://app.docs.diode.io/docs/navigating/add-a-team-member-or-additional-device/" target="_blank" rel="noopener"><strong>Invite other team members to your Zone</strong></a>
-* <a href="https://app.docs.diode.io/docs/navigating/backup-your-confidential-files/" target="_blank" rel="noopener"><strong>Backup and persistently host your files</strong></a>
-* <a href="https://app.docs.diode.io/docs/navigating/join-a-zone-by-invite-code/" target="_blank" rel="noopener"><strong>Join a Zone via Invite Code</strong></a>
+* <a href="https://app.docs.diode.io/docs/using/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
+* <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
+* <a href="https://app.docs.diode.io/docs/using/linked-devices/" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>
+* <a href="https://app.docs.diode.io/docs/using/share-a-file-or-folder-via-web-browser/" target="_blank" rel="noopener"><strong>Share files or folders via web browser</strong></a>
+* <a href="https://app.docs.diode.io/docs/using/add-a-team-member-or-additional-device/" target="_blank" rel="noopener"><strong>Invite other team members to your Zone</strong></a>
+* <a href="https://app.docs.diode.io/docs/using/backup-your-confidential-files/" target="_blank" rel="noopener"><strong>Backup and persistently host your files</strong></a>
+* <a href="https://app.docs.diode.io/docs/using/join-a-zone-by-invite-code/" target="_blank" rel="noopener"><strong>Join a Zone via Invite Code</strong></a>
 
   &nbsp;

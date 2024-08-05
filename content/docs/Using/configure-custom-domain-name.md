@@ -8,7 +8,7 @@ draft: false
 ---
 Diode can be used to host content on a custom web2 <a href="https://en.wikipedia.org/wiki/Top-level_domain" target="_blank" rel="noopener"><strong>Top Level Domain</strong></a> (TLD) - similar to <a href="https://pages.github.com/" target="_blank" rel="noopener"><strong>github pages</strong></a>. This enables exciting possibilities of edge hosting for websites and other TLD-centric content.
 
-For example, if you've registered a domain "**yourname.com",** you can host a website on "yourname.com" that is served from your diode client (e.g. from a Raspberry Pi, your laptop, or a server).
+For example, if you've registered a domain "[**yourname.com**](http://yourname.com)**",** you can host a website on "[yourname.com](http://yourname.com)" that is served from your diode client (e.g. from a Raspberry Pi, your laptop, or a server).
 
 No static IP address or paid web host is required!
 
@@ -17,7 +17,7 @@ No static IP address or paid web host is required!
 ### **Preparation**
 
 1. Verify the TLD for your customer domain is a two, three, or four letter TLD (e.g. `.com` is a three letter TLD).
-2. Register the domain name as a BNS name with Diode and set the "Destination" of your BNS name to the address of the diode client hosting the content. For example, if your web2 domain is **yourname.com** then <a href="https://support.diode.io/article/2bzhaehdp2" target="_blank" rel="noopener"><strong>register "yourname" on the diode chain</strong></a>.<br>Or just on the command line:
+2. Register the domain name as a BNS name with Diode and set the "Destination" of your BNS name to the address of the diode client hosting the content. For example, if your web2 domain is [**yourname.com**](http://yourname.com) then <a href="https://network.docs.diode.io/docs/using/reserve-a-domain-name/" target="_blank" rel="noopener"><strong>register "yourname" on the diode chain</strong></a>.<br>Or just on the command line:
 
    ```
    diode bns -register yourname
@@ -28,15 +28,15 @@ No static IP address or paid web host is required!
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/6pctb40wj8/1605501604227/image.png)
 
-That's it! It will take up to an hour for your DNS changes to apply. So, don't forget to [**bring up your website**](https://support.diode.io/article/mdelbna1u7) and start serving your decentralized web!
+That's it! It will take up to an hour for your DNS changes to apply. So, don't forget to [**bring up your website**](https://cli.docs.diode.io/raspberry-pi/host-a-website-with-ghost/) and start serving your decentralized web!
 
 In the example of `yourname.com`, you should be able to see your content at the URLS:
 
 https://&lt;clientaddress&gt;.diode.link
 
-http://yourname.diode.link
+[http://yourname.diode.link](http://yourname.diode.link)
 
-http://yourname.com
+[http://yourname.com](http://yourname.com)
 
 &nbsp;
 

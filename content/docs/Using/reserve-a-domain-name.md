@@ -12,13 +12,13 @@ For example, this can be used to shorten the address used to view the public vid
 
 To view BNS names that have been registered on the Diode Network, visit the <a href="https://diode.io/prenet/#/dns" target="_blank" rel="noopener"><strong>BNS page of the Diode Network Explorer</strong></a>.
 
-Have fun with this, and let use know in our [**telegram**](https://t.me/diode_chain) channel if you have any feature requests!
+Have fun with this, and let use know in our [**Telegram**](https://t.me/diode_chain) channel if you have any feature requests!
 
 ### **Reserve a BNS Name via the Diode Network Explorer**
 
 Often, configuring a BNS Name is a significant event - you may want to manage the names, and where they point to, over time like you would a ICANN domain name.
 
-To do this, we recommend using the <a href="https://diode.io/prenet/#/dns" target="_blank" rel="noopener"><strong>Diode Network Explorer</strong></a> via a web browser with [**MetaMask installed**](https://support.diode.io/article/uec3mloh9z).
+To do this, we recommend using the <a href="https://diode.io/prenet/#/dns" target="_blank" rel="noopener"><strong>Diode Network Explorer</strong></a> via a web browser with [**MetaMask installed**](https://cli.docs.diode.io/docs/faq/configure-metamask/).
 
 1\. Go to the <a href="https://diode.io/prenet/#/dns" target="_blank" rel="noopener"><strong>BNS page</strong></a> on the Diode Network Explorer (DNE)
 
@@ -70,7 +70,7 @@ You can also assign a name to an address via:
 diode bns -register my-example-name=<client_address>
 ```
 
-**IMPORTANT NOTE:** Using the Diode Client to register the BNS name binds the the name to your Client's local wallet. Ensure you keep a backup of your [**wallet file**](https://support.diode.io/article/wt75bpfx3h) so you won’t lose access to the name!
+**IMPORTANT NOTE:** Using the Diode Client to register the BNS name binds the the name to your Client's local wallet. Ensure you keep a backup of your [**wallet file**](https://cli.docs.diode.io/docs/faq/where-is-my-local-wallet-stored/) so you won’t lose access to the name!
 
 If you want one location to manage all your BNS names, use the Diode Network Explorer method above (you can use a MetaMask wallet, or hardware wallet, to manage all your BNS names).
 

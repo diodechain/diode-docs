@@ -8,6 +8,8 @@ draft: false
 ---
 Addresses on the Diode Network use the same format as <a href="https://ethereum.github.io/yellowpaper/paper.pdf" target="_blank" rel="noopener"><strong>Ethereum public addresses</strong></a> - while excellent for unique identification, they are not particularly memorable to humans. The Diode Network has a Blockchain Name System (BNS) - a decentralized smart-contract based Domain Name System - that allows the association of a human recognizable name with a Diode Network address. If a BNS name is configured for an address, it can be used in place of the address.
 
+&nbsp;
+
 For example, this can be used to shorten the address used to view the public video feed of Diode's Berlin office from: <a href="https://0xc206e1255cbace8ba904daa259d7a5b7f90e2d50.diode.link/" target="_blank" rel="noopener"><strong>https://0xc206E1255Cbace8ba904DaA259D7a5b7F90E2D50.diode.link</strong></a> to <a href="https://betahaus-berlin.diode.link/" target="_blank" rel="noopener"><strong>https://betahaus-berlin.diode.link</strong></a>.
 
 To view BNS names that have been registered on the Diode Network, visit the <a href="https://diode.io/prenet/#/dns" target="_blank" rel="noopener"><strong>BNS page of the Diode Network Explorer</strong></a>.

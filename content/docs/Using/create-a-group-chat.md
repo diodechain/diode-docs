@@ -6,7 +6,7 @@ nav_section: Using
 weight: 207
 draft: false
 ---
-Diode Drive supports fully decentralized, end to end encrypted <a href="https://app.docs.diode.io/docs/navigating/chat-with-other-team-members/" target="_blank" rel="noopener"><strong>direct messaging</strong></a> and group chat channels.
+Diode Drive supports fully decentralized, end to end encrypted <a href="https://app.docs.diode.io/docs/features/chat-with-other-team-members/" target="_blank" rel="noopener"><strong>direct messaging</strong></a> and group chat channels.
 
 ### **Group Chat Overview**
 

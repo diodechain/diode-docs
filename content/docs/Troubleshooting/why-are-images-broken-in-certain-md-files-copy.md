@@ -8,7 +8,7 @@ nav_section: Troubleshooting
 weight: 502
 draft: false
 ---
-After running the <a href="https://support.diode.io/article/i44aeyjrzs" target="_blank" rel="noopener"><strong>console commands</strong></a> to stake Diode to my miner, my DIOs are gone but my staked DIOs are still 0 (checked with `Shell.get_miner_stake(me) `) - what is going on?
+After running the <a href="https://network.docs.diode.io/docs/faq/how-do-i-stake-my-diode-tokens-for-mining/" target="_blank" rel="noopener"><strong>console commands</strong></a> to stake Diode to my miner, my DIOs are gone but my staked DIOs are still 0 (checked with `Shell.get_miner_stake(me) `) - what is going on?
 
 The Diode Network enforces a waiting time of 175200 blocks (roughly one month) as a safeguard against "hit and run" attacks on the network.
 

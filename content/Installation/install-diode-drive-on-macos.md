@@ -8,7 +8,7 @@ SEO_options:
   description:
 draft: false
 ---
-Follow the three steps below to get up and running on MacOS.
+**Follow the three steps below to get up and running on MacOS.**
 
 ---
 

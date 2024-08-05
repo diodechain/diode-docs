@@ -12,8 +12,8 @@ Usually, the Diode App will auto-update (an orange banner will show at the botto
 
 iOS and Android devices can just <a href="https://diode.io/download#app" target="_blank" rel="noopener"><strong>update Diode Drive</strong></a> from the respective store app by clicking "Update" (Android) or "Get" (iOS).
 
-<a href="https://support.diode.io/article/tdjgrfa7j8" target="_blank" rel="noopener"><strong>MacOS</strong></a>
+[**MacOS**](https://app.docs.diode.io/installation/install-diode-drive-on-macos/)
 
-<a href="https://support.diode.io/article/fl06iuxxe4" target="_blank" rel="noopener"><strong>Windows</strong></a>
+[**Windows**](https://app.docs.diode.io/installation/install-diode-drive-on-windows/)
 
-<a href="https://support.diode.io/article/y4o1695k29" target="_blank" rel="noopener"><strong>Linux</strong></a>
+<a href="https://app.docs.diode.io/installation/install-diode-drive-on-linux/" target="_blank" rel="noopener"><strong>Linux</strong></a>

@@ -16,7 +16,7 @@ The API is device-wide. To enable the API on your device:
 2. Navigate to any Zone and any Channel, it doesn't matter which Channel
 3. Send the following chat command to the Channel: `/sysconfig remote-api enable`.
 
-Messages that start with "/" are [**chat commands**](https://app.docs.diode.io/docs/navigating/diode-drive-chat-commands/). Chat commands and the automated responses to them don't send any data to the channel members, only the sender can see them, and they disappear after leaving the page.
+Messages that start with "/" are [**chat commands**](https://app.docs.diode.io/docs/features/chat-commands/). Chat commands and the automated responses to them don't send any data to the channel members, only the sender can see them, and they disappear after leaving the page.
 
 1. Next, a token will need generated. To generate a token, send this chat command: `/sysconfig remote-api generate-token`
 2. To view the newly generated token, use this command: `/sysconfig remote-api view-token`

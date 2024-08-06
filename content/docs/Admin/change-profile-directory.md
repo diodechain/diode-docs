@@ -6,7 +6,7 @@ nav_section: For Your IT Admin
 weight: 304
 draft: false
 ---
-Diode Drive supports changing the <a href="https://support.diode.io/article/e7gtnjcp5o" target="_blank" rel="noopener"><strong>profile directory</strong></a> away from the default location by using one of the following methods:
+Diode Drive supports changing the <a href="https://app.docs.diode.io/docs/faq/how-do-i-change-my-diode-drive-account-profile/" target="_blank" rel="noopener"><strong>profile directory</strong></a> away from the default location by using one of the following methods:
 
 **Use a file**
 

@@ -56,4 +56,4 @@ That's it! You have successfully relocated your folder to a different zone. The 
 
 ![](/uploads/image-46.png)
 
-If you want to move a file to a different disk, please see <a href="https://app.docs.diode.io/docs/admin/docs-on-other-products/" target="_blank" rel="noopener"><strong>this IT admin article</strong></a>.
+If you want to move a file to a different disk, please see <a href="https://app.docs.diode.io/docs/admin/move-zone-folder-to-a-different-disk/" target="_blank" rel="noopener"><strong>this IT admin article</strong></a>.

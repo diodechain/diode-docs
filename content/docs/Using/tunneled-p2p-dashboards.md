@@ -19,7 +19,7 @@ This guide walks through an example of setting up Bookmark to launch a secure re
 
 NOTE: If you have equipment that already has a dashboard available on its Local Area Network, you can use the $99 <a href="https://diode.io/solutions/vault" target="_blank" rel="noopener"><strong>Vault Mini</strong></a> as a gateway to establish a P2P/E2EE link to the dashboard (instead running the Diode CLI on the equipment itself).
 
-If you just need to remotely SSH into a device, <a href="https://support.diode.io/article/ub9xrruimv" target="_blank" rel="noopener"><strong>see here</strong></a>.
+If you just need to remotely SSH into a device, <a href="https://cli.docs.diode.io/docs/using/remote-ssh/" target="_blank" rel="noopener"><strong>see here</strong></a>.
 
 ### **Device Setup**
 
@@ -27,7 +27,7 @@ Let's assume you've been able to get your Raspberry Pi up and running and connec
 
 **1\.** <a href="https://cockpit-project.org/running.html" target="_blank" rel="noopener"><strong>Install Cockpit</strong></a>
 
-* Verify it is working by opening a browser on your Pi and going to http://localhost:9090
+* Verify it is working by opening a browser on your Pi and going to [http://localhost:9090](http://localhost:9090)
   * You should see a login screen - you can type your Pi's username / password there to load Cockpit
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/h0nqbyzwa2/1707336576588/image.png)
@@ -44,7 +44,7 @@ Let's assume you've been able to get your Raspberry Pi up and running and connec
 
 **3\.** <a href="https://support.diode.io/article/gmo8f1f4ys" target="_blank" rel="noopener"><strong>Configure the Diode CLI to run at startup</strong></a>
 
-* After you've followed the instructions in that <a href="https://support.diode.io/article/gmo8f1f4ys" target="_blank" rel="noopener"><strong>guide</strong></a>, you'll want to further modify the diode.service file to publish the Cockpit port
+* After you've followed the instructions in that <a href="https://cli.docs.diode.io/raspberry-pi/start-diode-on-boot/" target="_blank" rel="noopener"><strong>guide</strong></a>, you'll want to further modify the diode.service file to publish the Cockpit port
 * Change this line: `ExecStart=/home/pi/opt/diode/diode publish -public 22:22,80:80,3030:3030`
   * To: `ExecStart=/home/pi/opt/diode/diode publish -public 22:22,9090:80`
     * That publishes your localhost port 9090 to your Web3 Client address' port 80
@@ -53,9 +53,9 @@ Let's assume you've been able to get your Raspberry Pi up and running and connec
 
 ### **App Setup**
 
-Let's assume you are already running the <a href="https://diode.io/download#app" target="_blank" rel="noopener"><strong>Diode App</strong></a> and <a href="https://support.diode.io/article/k1diuzadd8" target="_blank" rel="noopener"><strong>have a Zone</strong></a> that you own and can configure. Additionally, we will use the Brave Browser to load the tunneled dashboard - you'll need to be on a desktop/laptop system and <a href="https://brave.com/" target="_blank" rel="noopener"><strong>install Brave</strong></a> (see <a href="https://support.diode.io/article/4nmfgmu7ug" target="_blank" rel="noopener"><strong>here for an FAQ</strong></a> on why we are using Brave).
+Let's assume you are already running the <a href="https://diode.io/download#app" target="_blank" rel="noopener"><strong>Diode App</strong></a> and <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>have a Zone</strong></a> that you own and can configure. Additionally, we will use the Brave Browser to load the tunneled dashboard - you'll need to be on a desktop/laptop system and <a href="https://brave.com/" target="_blank" rel="noopener"><strong>install Brave</strong></a> (see <a href="https://app.docs.diode.io/docs/faq/why-does-the-diode-app-use-the-brave-browser-for-some-bookmarks/" target="_blank" rel="noopener"><strong>here for an FAQ</strong></a> on why we are using Brave).
 
-**1\.** <a href="https://support.diode.io/article/7jw2s7twmj" target="_blank" rel="noopener"><strong>Make a Web3 Link Bookmark to your Client Address</strong></a>
+**1\.** <a href="https://app.docs.diode.io/docs/features/diode-bookmarks/" target="_blank" rel="noopener"><strong>Make a Web3 Link Bookmark to your Client Address</strong></a>
 
 * Type: Web3 Link
 * Browser: Brave (Beta) (for now: 2024-02)
@@ -106,7 +106,7 @@ For this step, you'll need to modify the Device settings to restrict access to o
 
 4\. Explore more!
 
-* If you'd like your whole Zone to have access to the dashboard, or a sub-group from within the Zone, you can use private publishing via domain. Instead of specifying a Device ID / Client address in the private list, you instead specify a group that has been <a href="https://support.diode.io/article/5nsoxvhug1" target="_blank" rel="noopener"><strong>registered as a BNS name</strong></a>.
+* If you'd like your whole Zone to have access to the dashboard, or a sub-group from within the Zone, you can use private publishing via domain. Instead of specifying a Device ID / Client address in the private list, you instead specify a group that has been <a href="https://network.docs.diode.io/docs/features/what-is-bns/" target="_blank" rel="noopener"><strong>registered as a BNS name</strong></a>.
 * A BNS name (aka "Domain") can be associated with as many Device IDs as you like. The Diode App's Network area provides an easy way to create and configure a Domain.
 * The diode.service line could be modified to be, for example:
   * `ExecStart=/home/pi/opt/diode/diode publish -public 22:22 -private 9090:80,pi-authorization-01`

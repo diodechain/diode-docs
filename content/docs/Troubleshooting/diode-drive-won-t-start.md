@@ -3,7 +3,7 @@ _schema: default
 title: Diode Drive Won't Start
 nav_title: Why Won't Diode Drive Start?
 nav_section: Troubleshooting
-weight: 20010
+weight: 10002
 draft: false
 ---
 If Diode Drive won't start on your system, it could be that the auto-update process failed. Despite the auto-update process using a checksum to validate the update was successful, there have been reports circa Q1 2023 that leads us to believe the process can still sometimes fail, resulting in Diode Drive not being able to load the correct system packages at startup.

@@ -6,9 +6,9 @@ nav_section: Using
 weight: 8
 draft: false
 ---
-Diode hosts a public gateway to the Diode Network at &lt;address&gt;.diode.link. All the public Web3.0 content published on the Diode Network can be accessed using this gateway. However, some of the Web3.0 content is published in Private mode (only accessible to specific identities) or in Protected mode (only accessible to identities registered in the same [**Fleet Contract**](https://support.diode.io/article/7vyr5mslsy) as the publisher) - this content cannot be accessed via the public gateway.
+Diode hosts a public gateway to the Diode Network at &lt;address&gt;.diode.link. All the public Web3.0 content published on the Diode Network can be accessed using this gateway. However, some of the Web3.0 content is published in Private mode (only accessible to specific identities) or in Protected mode (only accessible to identities registered in the same [**Fleet Contract**](https://network.docs.diode.io/docs/features/what-is-a-fleet-contract/) as the publisher) - this content cannot be accessed via the public gateway.
 
-In order to access Private or Protected content, you can [**run the Diode Client locally**](https://support.diode.io/article/lsr4tkzz8t) as a local gateway / proxy server into the Diode Network. Once it is running, you can use a browser or other applications directly access Web3.0 content you are authorized for.
+In order to access Private or Protected content, you can [**run the Diode Client locally**](https://network.docs.diode.io/docs/using/developers-start-here/) as a local gateway / proxy server into the Diode Network. Once it is running, you can use a browser or other applications directly access Web3.0 content you are authorized for.
 
 Have fun with this, and let use know in our [**telegram**](https://t.me/diode_chain) channel if you have any feature requests!
 
@@ -16,7 +16,7 @@ Have fun with this, and let use know in our [**telegram**](https://t.me/diode_ch
 
 Many applications have builtin support for socks proxy servers - we'll start the Diode Client as a socks proxy server so those applications can access Web3.0 content published on the Diode Network. See the sections below for some examples.
 
-1\. [**Install the most recent Diode Client**](https://support.diode.io/article/lsr4tkzz8t)
+1\. [**Install the most recent Diode Client**](https://network.docs.diode.io/docs/using/developers-start-here/)
 
 2\. Open a terminal window and run the command
 
@@ -53,7 +53,7 @@ Where:
 * &lt;user&gt; is your username (e.g. on a Raspberry Pi it will usually be `pi`\- e.g. `pi@<client_address>.diode`)
 * &lt;client\_address&gt; is the Client address or BNS name for the SSH server
 
-For more information, see the [**Remote SSH article**](https://support.diode.io/article/ub9xrruimv).
+For more information, see the [**Remote SSH article**](https://cli.docs.diode.io/docs/using/remote-ssh/).
 
 ### **Curl**
 

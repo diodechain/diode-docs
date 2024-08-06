@@ -228,7 +228,7 @@ First, let's access the stream locally by typing in your Pi's IP address in a br
 
 Once you know that the stream works locally, now it’s time to let Diode work its magic so you can access the stream remotely.
 
-1. If you followed the [**instructions for how to start the Diode CLI on boot**](https://support.diode.io/article/gmo8f1f4ys-start-on-bootup), you will have a file called diode.service in /etc/systemd/system
+1. If you followed the [**instructions for how to start the Diode CLI on boot**](https://cli.docs.diode.io/raspberry-pi/start-diode-on-boot/), you will have a file called diode.service in /etc/systemd/system
 2. In the terminal, go to /etc/systemd/system
 3. `sudo nano diode.service`
 4. For our video app we only need port 80, but if you want to activate more / other, modify the ports to suit your environment:
@@ -247,7 +247,7 @@ ExecStart=/home/pi/opt/diode/diode publish -public 22:22,80:80,3030:3030
 
 You will notice that diode prints a unique address (i.e. https://&lt;yourclientaddress&gt;.diode.link), copy and paste that into a browser window and you will then see your live stream with a letsencrypt certificate securing your video stream from your local pi out to the blockchain!
 
-To learn more about Diode, <a href="https://support.diode.io/" target="_blank" rel="noopener"><strong>read other articles here</strong></a> or to the [**telegram group**](https://t.me/diode_chain) and ask away - we’re a friendly bunch of folks!
+To learn more about Diode, <a href="https://cli.docs.diode.io/docs/faq/docs-on-other-products/" target="_blank" rel="noopener"><strong>read other articles here</strong></a> or to the [**telegram group**](https://t.me/diode_chain) and ask away - we’re a friendly bunch of folks!
 
 ---
 

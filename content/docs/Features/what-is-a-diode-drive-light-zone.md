@@ -18,7 +18,7 @@ In the header bar, Light Zones are depicted with a non-sync icon (where usually 
 
 ![](/uploads/image-17.png)
 
-By default, when a new Zone is accepted by an Account, it will be accepted with File Syncing Enabled on your current device, but will be automatically added to any of the Account's other <a href="https://support.diode.io/article/g3d42k5onu" target="_blank" rel="noopener"><strong>Linked Devices</strong></a> in Light Zone mode.
+By default, when a new Zone is accepted by an Account, it will be accepted with File Syncing Enabled on your current device, but will be automatically added to any of the Account's other <a href="https://app.docs.diode.io/docs/using/linked-devices/" target="_blank" rel="noopener"><strong>Linked Devices</strong></a> in Light Zone mode.
 
 Other functions in the Zone (e.g. chat, settings, file view) are the same regardless of the Zone sync mode.
 

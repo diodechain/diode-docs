@@ -12,7 +12,7 @@ Diode Drive's chat is fully end-to-end encrypted and no messages or content is s
 
 Check out the video below, or continue reading the article, to learn more about Diode Drive's chat functionality:
 
-{{< vimeo id="https://vimeo.com/563981211" title="How To Use Diode Drive’s Chat Function" >}}
+{{< vimeo id="563981211" title="How To Use Diode Drive’s Chat Function" >}}
 
 [**How To Use Diode Drive's Chat Function (Ver. 1.2.1)**](https://vimeo.com/562684103) from [**Diode**](https://vimeo.com/diodechain) on [**Vimeo**](https://vimeo.com/).
 
@@ -36,19 +36,17 @@ When you send a message, your sent message will have either a grey check mark, a
 
 **How to start chatting**
 
-&nbsp;
-
 1\. <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener">Setup Diode Drive on your main computer</a>
 
 If you have not already setup Diode Drive, follow the instructions in <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>this article</strong></a>.
 
 After you've completed those steps, you will have Diode Drive installed on your computer with your first Zone.
 
-2\. [Invite another Team Member to a Zone](https://app.docs.diode.io/docs/navigating/add-a-team-member-or-additional-device/)
+2\. [Invite another Team Member to a Zone](https://app.docs.diode.io/docs/using/add-a-team-member-or-additional-device/)
 
 Utilizing the chat function requires you to have invited another Team Member to your Zone.
 
-If you have not yet invited another Team Member, follow the instructions in [**this article**](https://app.docs.diode.io/docs/navigating/add-a-team-member-or-additional-device/) on how to do so.
+If you have not yet invited another Team Member, follow the instructions in [**this article**](https://app.docs.diode.io/docs/using/add-a-team-member-or-additional-device/) on how to do so.
 
 3\. Open the shared Zone
 
@@ -70,4 +68,4 @@ Clicking on the name of a Team Member will open a window with a chat session for
 
 * Please note that at least one other Zone team member needs to be online in order to ensure your message will get delivered (see above "Chat Message Annotation"). If you only have two team members in your Zone, you will both need to be online at the same time in order to chat.
 
-Many people choose to add a <a href="https://diode.io/solutions/vault" target="_blank" rel="noopener"><strong>Diode Vault</strong></a> (or a <a href="https://support.diode.io/article/ad7s45khyq" target="_blank" rel="noopener"><strong>home-brew a Raspberry Pi </strong></a>or old phone) to their Zone as a way to ensure that chat messages and files are always delivered, no matter how many team members are online at the same time.
+Many people choose to add a <a href="https://diode.io/solutions/vault" target="_blank" rel="noopener"><strong>Diode Vault</strong></a> (or a <a href="https://app.docs.diode.io/raspberry-pi/use-your-raspberry-pi-as-a-remote-file-server-backup-device/" target="_blank" rel="noopener"><strong>home-brew a Raspberry Pi </strong></a>or old phone) to their Zone as a way to ensure that chat messages and files are always delivered, no matter how many team members are online at the same time.

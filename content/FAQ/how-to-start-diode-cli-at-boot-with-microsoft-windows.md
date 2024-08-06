@@ -13,7 +13,7 @@ In this tutorial we install the Diode CLI, build our diode string .bat file, and
 By running the Diode CLI at boot, the computer can publish certain network resources securely (via the Diode Network) so that they can be accessed remotely.
 
 1. Install [**Diode CLI**](https://diode.io/resources/download/) for Windows and <a href="https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/" target="_blank" rel="noopener"><strong>make sure it's added to the path variable</strong></a>
-2. Create file `C:\ProgramData\Microsoft\Windows\diodeproxy.bat` that contains the diode string that is to be run on startup (see [**this article**](https://support.diode.io/article/ss32engxlq-publish-your-local-webserver) for details on how to format this string). For example, to publish localhost port 22 publically to the diode network, the string `diode publish -public 22:22` is placed in this file.
+2. Create file `C:\ProgramData\Microsoft\Windows\diodeproxy.bat` that contains the diode string that is to be run on startup (see [**this article**](https://cli.docs.diode.io/docs/using/publish-a-local-webserver/) for details on how to format this string). For example, to publish localhost port 22 publically to the diode network, the string `diode publish -public 22:22` is placed in this file.
 3. Create file `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\diodeproxysilent.vbs` that contains the following text:
 
    ```

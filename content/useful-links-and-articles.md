@@ -8,8 +8,6 @@ SEO_options:
   description:
 draft: false
 ---
-# **Useful Links and Articles**
-
 See below for resources we think you'll find useful.
 
 Let us know if you have any questions or suggestions for this content via [**Telegram**](https://t.me/diode_chain)!

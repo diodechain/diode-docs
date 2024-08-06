@@ -8,7 +8,7 @@ SEO_options:
   description:
 draft: false
 ---
-There are many ways to <a href="https://support.diode.io/article/sbf1ihdfve-access-web-3-0-content" target="_blank" rel="noopener"><strong>access various resources published to the Diode Network</strong></a>. The method covered in this article uses the official Firefox Container add-on to create a specific container within Firefox that can serve Diode Network content via the local Diode Network Proxy provided by the <a href="https://diode.io/solutions/cli/" target="_blank" rel="noopener"><strong>Diode CLI</strong></a> or the <a href="https://diode.io/solutions/app/" target="_blank" rel="noopener"><strong>Diode App</strong></a>.
+There are many ways to <a href="https://cli.docs.diode.io/docs/using/access-web3-0-content-run-a-local-gateway/" target="_blank" rel="noopener"><strong>access various resources published to the Diode Network</strong></a>. The method covered in this article uses the official Firefox Container add-on to create a specific container within Firefox that can serve Diode Network content via the local Diode Network Proxy provided by the <a href="https://diode.io/solutions/cli/" target="_blank" rel="noopener"><strong>Diode CLI</strong></a> or the <a href="https://diode.io/solutions/app/" target="_blank" rel="noopener"><strong>Diode App</strong></a>.
 
 #### **Part 1: Configure Firefox**
 

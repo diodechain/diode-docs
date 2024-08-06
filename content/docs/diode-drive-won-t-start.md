@@ -2,7 +2,7 @@
 _schema: default
 title: Diode Drive Won't Start
 nav_title: Why Won't Diode Drive Start?
-nav_section: FAQ
+nav_section: Troubleshooting
 weight: 20010
 draft: false
 ---

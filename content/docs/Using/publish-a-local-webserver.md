@@ -16,29 +16,27 @@ Have fun with this, and let use know in our [**Telegram**](https://t.me/diode_ch
 
 ### **Publish a Local Website**
 
-If you already have a website running on port 80 of localhost, [**install Diode**](https://support.diode.io/article/lsr4tkzz8t) and simply run:
+If you already have a website running on port 80 of localhost, [**install Diode**](https://app.docs.diode.io/docs/) and simply run:
 
 ```
 diode publish -public 80:80
 ```
 
-This publishes whatever you see at http://localhost:80 to the Diode Network at &lt;client\_address&gt;:80. It is accessible on the Internet at https://&lt;client\_address&gt;.diode.link.
+This publishes whatever you see at [http://localhost:80](http://localhost:80) to the Diode Network at &lt;client\_address&gt;:80. It is accessible on the Internet at https://&lt;client\_address&gt;.diode.link.
 
-If you don't have a webserver already running, checkout the <a href="https://support.diode.io/article/k0bjp824av" target="_blank" rel="noopener"><strong>Diode CLI's built-in webserver</strong></a>!
+If you don't have a webserver already running, checkout the <a href="https://cli.docs.diode.io/docs/using/publish-static-content/" target="_blank" rel="noopener"><strong>Diode CLI's built-in webserver</strong></a>!
 
 The &lt;client\_address&gt; can be found in the terminal output, as shown boxed in red below, when the command is ran. The line "Http Gateway Enabled" shows the full external URL - in the case shown below, it is `http://0x70114a27f3d1b549012498c69a4120ca4ea11e21.diode.link/` You can use that URL to share your website with others.
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/ss32engxlq/1599823313774/image.png)
 
-If you don't yet have a web server, [**Ghost**](https://ghost.org/) is a good option - see the article about [**running Ghost on a Raspberry Pi**](https://support.diode.io/article/mdelbna1u7).
+If you don't yet have a web server, [**Ghost**](https://ghost.org/) is a good option - see the article about [**running Ghost on a Raspberry Pi**](https://cli.docs.diode.io/raspberry-pi/host-a-website-with-ghost/).
 
 If you are running a service on another port, for example localhost port 2368 (or - Elixir dev server usually uses port 4000, node typically uses port 3000), you can publish it to public port 80 with:
 
 ```
 diode publish -public 2368:80
 ```
-
-&nbsp;
 
 You can also publish on multiple different ports. For example if you want to show two differents sites, or publish a main site and a hidden admin area. For this the HTTP gateway supports the additional port ranges 8000-8100 and 8400-8500. This is an example publishing port 80 to https://&lt;client&gt;.diode.link and port 2368 to https://&lt;client.diode.link:8025
 
@@ -52,9 +50,8 @@ In the example above, the URL starts with your globally unique static Client add
 
 There are two ways to do this:
 
-1) [**Configure MetaMask**](https://support.diode.io/article/uec3mloh9z) and use the [**Diode Network Explorer**](https://diode.io/prenet/#/dns) ([**docs**](https://support.diode.io/article/z5h5yx38uj)) to reserve a BNS name and link it to your Client address
-
-2) Use the Diode Client itself to reserve and link:
+1. [**Configure MetaMask**](https://cli.docs.diode.io/docs/faq/configure-metamask/) and use the [**Diode Network Explorer**](https://diode.io/prenet/#/dns) ([**docs**](https://network.docs.diode.io/)) to reserve a BNS name and link it to your Client address
+2. Use the Diode Client itself to reserve and link:
 
 ```
 diode bns -register my-example-name
@@ -62,11 +59,11 @@ diode bns -register my-example-name
 
 **IMPORTANT NOTE:** Using the Diode Client to register the BNS name binds the the name to your Client's local wallet. Ensure you keep a backup of your wallet file at ~/.config/diode/private.db so you won’t lose access to the domain! If you want one location to manage all your BNS names, use the Diode Network Explorer method (you can use a MetaMask wallet, or hardware wallet, to manage all your BNS names). That allows you to, for example, easily link the BNS name to a different Client address.
 
-Once you've created your BNS name and linked it to your Client address, your website will now be available at https://my-example-name.diode.link. Note that you may need to wait a few minutes for the BNS name to be trusted by the network.
+Once you've created your BNS name and linked it to your Client address, your website will now be available at [https://my-example-name.diode.link](https://my-example-name.diode.link). Note that you may need to wait a few minutes for the BNS name to be trusted by the network.
 
 ### **Publish the Website Securely**
 
-If you'd only like certain individuals to access your website, you can use the `publish` option `-private`to publish it so that only a single specified Diode address can access it, or the option `-protected` so that only Diode addresses listed in the same [**Fleet Contract**](https://support.diode.io/article/7vyr5mslsy) can access it. For example:
+If you'd only like certain individuals to access your website, you can use the `publish` option `-private`to publish it so that only a single specified Diode address can access it, or the option `-protected` so that only Diode addresses listed in the same [**Fleet Contract**](https://network.docs.diode.io/docs/features/what-is-a-fleet-contract/) can access it. For example:
 
 ```
 diode publish -private 80:80,<authorized_address>
@@ -74,12 +71,12 @@ diode publish -private 80:80,<authorized_address>
 
 Run `diode publish --help` for more information.
 
-When using these modes, each viewer must also be [**running the Diode Client as a local gateway**](https://support.diode.io/article/sbf1ihdfve) so as to authenticate themselves with the Diode Network.
+When using these modes, each viewer must also be [**running the Diode Client as a local gateway**](https://cli.docs.diode.io/docs/using/access-web3-0-content-run-a-local-gateway/) so as to authenticate themselves with the Diode Network.
 
 ### **Other Articles**
 
-[**Setup a custom domain name (web2 TLD)**](https://support.diode.io/article/6pctb40wj8)
+[**Setup a custom domain name (web2 TLD)**](https://network.docs.diode.io/docs/using/configure-custom-domain-name/)
 
-[**Use the Diode CLI to publish static content (no other webserver required)**](https://support.diode.io/article/k0bjp824av)
+[**Use the Diode CLI to publish static content (no other webserver required)**](https://cli.docs.diode.io/docs/using/publish-static-content/)
 
 ---

@@ -8,7 +8,7 @@ draft: false
 ---
 One of the use cases for Diode Drive is <a href="https://diode.io/diode%20drive/secure-evernote-alternative-22171/" target="_blank" rel="noopener"><strong>taking secure notes</strong></a>.
 
-Since Diode Drive already has an [**end-to-end encrypted synchronization mechanism**](https://support.diode.io/article/jieo6utgv9) and [**applications for all the major platforms**](https://diode.io/download), we decided to add a <a href="https://support.diode.io/article/o6o86kafiy" target="_blank" rel="noopener"><strong>note editor in June of 2022</strong></a> to allow people and teams to keep secure notes synchronized across all their devices.
+Since Diode Drive already has an [**end-to-end encrypted synchronization mechanism**](https://cli.docs.diode.io/docs/faq/are-my-communications-via-the-diode-network-encrypted/) and [**applications for all the major platforms**](https://diode.io/download), we decided to add a <a href="https://app.docs.diode.io/docs/using/file-editors/" target="_blank" rel="noopener"><strong>note editor in June of 2022</strong></a> to allow people and teams to keep secure notes synchronized across all their devices.
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/nwoi0x3d67/1655929653762/secure-note-taking-made-easy.gif)
 
@@ -38,7 +38,7 @@ Click the note file name to read your note (you must click the orange name of th
 
 4\. Enter notes and Save
 
-Once you've clicked the edit button, you can immediately begin enter the notes. You can use the formatting ribbon to add text formatting or to add things like tables or bullets. When you are done adding notes, click "Save" to save the note. As soon as the note is saved, it will be synchronized to your other <a href="https://support.diode.io/article/g3d42k5onu" target="_blank" rel="noopener"><strong>Linked Devices </strong></a>and/or other <a href="https://support.diode.io/article/jkzakxo7a0" target="_blank" rel="noopener"><strong>Team Members</strong></a> in your Zone!
+Once you've clicked the edit button, you can immediately begin enter the notes. You can use the formatting ribbon to add text formatting or to add things like tables or bullets. When you are done adding notes, click "Save" to save the note. As soon as the note is saved, it will be synchronized to your other <a href="https://app.docs.diode.io/docs/using/linked-devices/" target="_blank" rel="noopener"><strong>Linked Devices </strong></a>and/or other <a href="https://app.docs.diode.io/docs/using/add-a-team-member-or-additional-device/" target="_blank" rel="noopener"><strong>Team Members</strong></a> in your Zone!
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/nwoi0x3d67/1655931316773/image.png)
 

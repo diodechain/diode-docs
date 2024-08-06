@@ -15,7 +15,7 @@ draft: false
 1\. Power Button
 
 * When the Vault is off, pushing the power button briefly will turn it on (button will immediately turn blue)
-* When the Vault is on and <a href="https://support.diode.io/article/t5an07lbbx" target="_blank" rel="noopener"><strong>entirely started up</strong></a>, pushing the power button for &gt;3 seconds will safely shut it down
+* When the Vault is on and <a href="https://vaults.docs.diode.io/docs/using/vault-power-up-and-power-down-procedures/" target="_blank" rel="noopener"><strong>entirely started up</strong></a>, pushing the power button for &gt;3 seconds will safely shut it down
 * When the vault is on and not entirely started up, pushing the power button for &gt;10 seconds will cut the power to the system. DO NOT DO THIS unless the safe power down is not working.
 
 2\. SD Card

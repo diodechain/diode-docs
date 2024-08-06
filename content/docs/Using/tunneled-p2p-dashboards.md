@@ -47,7 +47,7 @@ At this point, your Samba share is up and running. If you have a static IP / LAN
 
 The steps below use `diode publish -public.` You may want to use `diode publish -private` to publish your Samba share not just via Diode tunneling, but only via Diode tunneling to specific authorized clients.
 
-Basically, you can follow the instructions <a href="https://support.diode.io/article/gmo8f1f4ys" target="_blank" rel="noopener"><strong>here</strong></a>. But, just to clarify, this is the step-by-step we did from a terminal:
+Basically, you can follow the instructions <a href="https://cli.docs.diode.io/raspberry-pi/start-diode-on-boot/" target="_blank" rel="noopener"><strong>here</strong></a>. But, just to clarify, this is the step-by-step we did from a terminal:
 
 * `curl -Ssf https://diode.io/install.sh | sh`
   * This installs the Diode CLI

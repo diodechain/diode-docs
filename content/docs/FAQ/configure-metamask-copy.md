@@ -1,17 +1,15 @@
 ---
 _schema: default
-title: Is It Safe to Use SSH via Diode on The Public Internet?
-nav_title: Use SSH via Diode on The Public Internet?
+title: What is the Diode CLI?
+nav_title: What is the Diode CLI?
 nav_section: FAQ
 weight: 20013
 draft: false
 ---
-**Although it is the safest to not expose any surface at all to the Internet, SSH can be one of the safest interfaces to expose - it is made for that purpose. There are many articles on the Internet, such as**<a href="https://www.redhat.com/sysadmin/eight-ways-secure-ssh" target="_blank" rel="noopener"><strong> this one</strong></a> **from RedHat, that describe some things you can do to make your SSH setup as secure as possible.**
+<br>The Diode Command Line Interface (CLI) is the easiest way to get up and running with the full power of the <a href="https://support.diode.io/article/wxckuppo9j" target="_blank" rel="noopener"><strong>Diode Network</strong></a>. It is a small program that can be installed on Linux, MacOS, or Windows and runs from a terminal window / command line prompt.
 
-**The** <a href="https://support.diode.io/article/ub9xrruimv" target="_blank" rel="noopener"><strong>SSH example</strong></a> **in the Diode docs uses “publish -public” to allow remote SSH into a computer:**
+The <a href="https://support.diode.io/article/lsr4tkzz8t" target="_blank" rel="noopener"><strong>Start Here</strong></a> article has a section on how to get going using the CLI, and the <a href="https://support.diode.io/article/josr6wwh5e" target="_blank" rel="noopener"><strong>CLI Commands</strong></a> article has information about the specific capabilities of the Diode CLI application.
 
-```
-diode publish -public 22:22
-```
+Many of the Use Cases of the Diode Network can be implemented via the Diode CLI - including [**publishing your own Web3 content**](https://support.diode.io/article/k0bjp824av). The Diode CLI implements the [**Blockquick(TM) algorithm**](https://support.diode.io/article/osywoqibv1), which enables anything running it to interact directly with compatible decentralized networks, like the Diode Network.
 
-**If you want to further secure your system, you can publish your SSH port as `private` (only the specific client can gain access) or `protected` (only other clients listed in your** [**Fleet Contract**](https://network.docs.diode.io/docs/faq/what-is-a-fleet-contract/) **can gain access).**
+The github repositority for the CLI is at <a href="https://github.com/diodechain/diode_go_client" target="_blank" rel="noopener"><strong>https://github.com/diodechain/diode_go_client</strong></a>.

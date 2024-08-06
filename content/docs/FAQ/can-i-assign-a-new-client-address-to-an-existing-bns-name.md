@@ -6,7 +6,7 @@ nav_section: FAQ
 weight: 20003
 draft: false
 ---
-Yes you can. If you use <a href="https://support.diode.io/article/2bzhaehdp2" target="_blank" rel="noopener"><strong>MetaMask to manage the BNS name</strong></a>, you can go to the <a href="https://diode.io/prenet/#/dns" target="_blank" rel="noopener"><strong>Diode Network Explorer's BNS page</strong></a> and simply enter a new Client Address / ID in the box provided under the BNS name. You must be <a href="https://support.diode.io/article/uec3mloh9z" target="_blank" rel="noopener"><strong>authenticated with MetaMask</strong></a> and connected to the account that owns the BNS name.
+Yes you can. If you use <a href="https://network.docs.diode.io/docs/using/reserve-a-domain-name/" target="_blank" rel="noopener"><strong>MetaMask to manage the BNS name</strong></a>, you can go to the <a href="https://diode.io/prenet/#/dns" target="_blank" rel="noopener"><strong>Diode Network Explorer's BNS page</strong></a> and simply enter a new Client Address / ID in the box provided under the BNS name. You must be <a href="https://network.docs.diode.io/docs/faq/configure-metamask/" target="_blank" rel="noopener"><strong>authenticated with MetaMask</strong></a> and connected to the account that owns the BNS name.
 
 You can use the Diode Client to do this without MetaMask per:
 

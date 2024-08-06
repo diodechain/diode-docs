@@ -14,8 +14,8 @@ The Diode Bounty Program was made to extend the Diode team's reach through the c
 
 The programs in this list are currently eligible for bounties:
 
-* [**Linked In Bounty**](https://support.diode.io/article/fr5lkku7hq)
-* [**Article Bounty**](https://support.diode.io/article/1crnz7u8yb)
+* [**Linked In Bounty**](https://docs.diode.io/linked-in-bounty/)
+* [**Article Bounty**](https://docs.diode.io/article-bounty/)
 
 ### **Terms and Conditions**
 

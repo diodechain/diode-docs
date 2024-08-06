@@ -8,7 +8,7 @@ draft: false
 ---
 Diode client applications use a local "wallet" to store credentials that enable their trustless interaction with the Diode Network. The location of the wallet files are shown below.
 
-Note that interactions with the <a href="https://diode.io/prenet/#/" target="_blank" rel="noopener"><strong>Diode Network Explorer</strong></a> authenticate via [**MetaMask**](https://support.diode.io/article/uec3mloh9z).
+Note that interactions with the <a href="https://diode.io/prenet/#/" target="_blank" rel="noopener"><strong>Diode Network Explorer</strong></a> authenticate via [**MetaMask**](https://cli.docs.diode.io/docs/faq/configure-metamask/).
 
 ### **Diode CLI**
 
@@ -18,7 +18,7 @@ Note that interactions with the <a href="https://diode.io/prenet/#/" target="_bl
 
 **MacOS** - /Users/&lt;yourname&gt;/Library/Application Support/diode/private.db
 
-You can <a href="https://support.diode.io/article/gmasuxt6ci" target="_blank" rel="noopener"><strong>specify a custom location for your wallet</strong></a> with the -dbpath argument.
+You can <a href="https://cli.docs.diode.io/docs/faq/how-do-i-use-a-different-wallet-for-the-diode-cli/" target="_blank" rel="noopener"><strong>specify a custom location for your wallet</strong></a> with the -dbpath argument.
 
 ### **Diode App (Diode Drive)**
 

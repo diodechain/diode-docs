@@ -24,7 +24,7 @@ WARNING: Please make sure to backup your account code before taking these steps 
 
 ![](/uploads/image-14.png)
 
-* **MAKE SURE YOUR** <a href="https://app.docs.diode.io/docs/navigating/diode-drive-backup-codes/" target="_blank" rel="noopener"><strong>ACCOUNT BACKUP CODE </strong></a>**IS SAVED SOMEWHERE SAFE**
+* **MAKE SURE YOUR** <a href="https://app.docs.diode.io/docs/features/diode-drive-backup-codes/" target="_blank" rel="noopener"><strong>ACCOUNT BACKUP CODE </strong></a>**IS SAVED SOMEWHERE SAFE**
 * Quit Diode Drive (must click "Quit" in the task bar menu and then click "Yes" in the dialog that says "Do you want to exit Diode Drive?")
 
 ![](/uploads/image-15.png)

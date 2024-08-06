@@ -14,7 +14,7 @@ Follow the three steps below to get up and running on Linux (Raspberry Pi/ARM sh
 
 **1\. Download**
 
-[**Download Diode Drive**](https://diode.io/resources/download) for Linux - pay attention to the Linux variant (x86, ARM, 32/64 bit) to ensure you download the right one for your system.
+[**Download Diode Drive**](https://diode.io/download/) for Linux - pay attention to the Linux variant (x86, ARM, 32/64 bit) to ensure you download the right one for your system.
 
 **2\. Install and run Diode Drive**
 
@@ -54,19 +54,21 @@ Clicking the orange Diode Drive icon will drop-down / pop-up menu options. Click
 
 That's it! Diode Drive is installed and active on your system.
 
-**NEXT STEP:** [**Create an Account**](https://app.docs.diode.io/docs/navigating/getting-started/)
+**NEXT STEP:** [**Create an Account**](https://app.docs.diode.io/docs/using/getting-started/)
 
 ---
 
 <u>Getting-started articles:</u>
 
 * <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
-* <a href="https://app.docs.diode.io/docs/navigating/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
-* <a href="https://app.docs.diode.io/docs/navigating/create-a-zone/" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
-* <a href="https://app.docs.diode.io/docs/navigating/linked-devices/" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>
-* <a href="https://app.docs.diode.io/docs/navigating/share-a-file-or-folder-via-web-browser/" target="_blank" rel="noopener"><strong>Share files or folders via web browser</strong></a>
-* <a href="https://app.docs.diode.io/docs/navigating/add-a-team-member-or-additional-device/" target="_blank" rel="noopener"><strong>Invite other team members to your Zone</strong></a>
-* <a href="https://app.docs.diode.io/docs/navigating/backup-your-confidential-files/" target="_blank" rel="noopener"><strong>Backup and persistently host your files</strong></a>
-* <a href="https://app.docs.diode.io/docs/navigating/join-a-zone-by-invite-code/" target="_blank" rel="noopener"><strong>Join a Zone via Invite Code</strong></a>
+* <a href="https://app.docs.diode.io/docs/using/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
+* <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
+* <a href="https://app.docs.diode.io/docs/using/linked-devices/" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>
+* <a href="https://app.docs.diode.io/docs/using/share-a-file-or-folder-via-web-browser/" target="_blank" rel="noopener"><strong>Share files or folders via web browser</strong></a>
+* <a href="https://app.docs.diode.io/docs/using/add-a-team-member-or-additional-device/" target="_blank" rel="noopener"><strong>Invite other team members to your Zone</strong></a>
+* <a href="https://app.docs.diode.io/docs/using/backup-your-confidential-files/" target="_blank" rel="noopener"><strong>Backup and persistently host your files</strong></a>
+* <a href="https://app.docs.diode.io/docs/using/join-a-zone-by-invite-code/" target="_blank" rel="noopener"><strong>Join a Zone via Invite Code</strong></a>
+
+  &nbsp;
 
 ---

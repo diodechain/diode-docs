@@ -14,7 +14,7 @@ This article is primarily for apps installed on a computer. Mobile app folder lo
 
 Do not unlink/restore a Zone folder before it has finished syncing an initial complete file set - this could result in a loss of data. Instead, it is better to unlink your Zone (steps 1 and 2), then set your profile's default Zone location to your external disk, and then goto Profile-&gt;Invites and accept your Zone invite again and re-build the files from scratch.
 
-1. Before moving the Zone folder, first open your Zone's folder in your OS's explorer/finder window
+1\. Before moving the Zone folder, first open your Zone's folder in your OS's explorer/finder window
 
 In your Zone, click the folder icon:
 
@@ -34,7 +34,7 @@ Go "up" a level so you can see the folder from its base location:
 
 Leave this open - you will cut/paste the Zone folder to a new location in step 3.
 
-1. Unlink / Disable your Zone
+2\. Unlink / Disable your Zone
 
 Next, you need to unlink your Zone from the app so that it is not active.
 
@@ -52,7 +52,7 @@ In the Zone list, select the Zone you want to move, and click "Disable":
 
 Accept the warning, and you will see the Zone disappear from your Zone list and also from your Zone selector side bar.
 
-1. Use your OS explorer to physically move the Zone folder
+3\. Use your OS explorer to physically move the Zone folder
 
 Go back to your folder view and copy the folder:
 
@@ -62,7 +62,7 @@ Open a folder view to your external drive and paste the folder there:
 
 ![](/uploads/image-29.png)
 
-1. Restore your Zone folder from its new location
+4\. Restore your Zone folder from its new location
 
 Go back to your Profile-&gt;Zones page and click the + icon and click "Restore":
 

@@ -14,7 +14,7 @@ Have fun with this, and let use know in our [**telegram**](https://t.me/diode_ch
 
 ### **SSH Server Setup**
 
-1\. Ensure that a local SSH server (sshd) is already running on your system, and that you have valid SSH credentials that allows you to SSH into the server. See here for an [**example**](https://support.diode.io/article/knnulxk898) of enabling <a href="https://www.raspberrypi.org/documentation/remote-access/ssh/" target="_blank" rel="noopener"><strong>SSH on a Raspberry Pi</strong></a>.
+1\. Ensure that a local SSH server (sshd) is already running on your system, and that you have valid SSH credentials that allows you to SSH into the server. See here for an [**example**](https://cli.docs.diode.io/raspberry-pi/enable-ssh/) of enabling <a href="https://www.raspberrypi.org/documentation/remote-access/ssh/" target="_blank" rel="noopener"><strong>SSH on a Raspberry Pi</strong></a>.
 
 2\. Install the most recent Diode Client
 
@@ -32,11 +32,11 @@ That's it - once Diode is running and publishing your port, you can now SSH into
 
 #### **Start Diode at Boot**
 
-If everything works fine we recommend to <a href="https://support.diode.io/article/gmo8f1f4ys" target="_blank" rel="noopener"><strong>setting up the Diode Client to start at boot time</strong></a> on your SSH Server device.
+If everything works fine we recommend to <a href="https://cli.docs.diode.io/raspberry-pi/start-diode-on-boot/" target="_blank" rel="noopener"><strong>setting up the Diode Client to start at boot time</strong></a> on your SSH Server device.
 
 #### **Restrict Access to SSH**
 
-If you want to further secure your system, you can publish port 22 `private` (only the specific client can gain access) or `protected` (only other clients listed in your [**Fleet Contract**](https://support.diode.io/article/7vyr5mslsy) can gain access). Both of these options will require the SSH Client system run the Diode Client (see "SSH Client Usage" below).
+If you want to further secure your system, you can publish port 22 `private` (only the specific client can gain access) or `protected` (only other clients listed in your [**Fleet Contract**](https://network.docs.diode.io/docs/features/what-is-a-fleet-contract/) can gain access). Both of these options will require the SSH Client system run the Diode Client (see "SSH Client Usage" below).
 
 ##### **Private Access**
 
@@ -56,7 +56,7 @@ diode publish -public 80:80 -private 22:22,0x63115a27C3d1b549011198c69F4120CA4ea
 
 If you are not sure which systems will need access to the SSH interface, you can use the "protected" mode to publish SSH. This restricts access to only the systems authorized for the same Fleet Contract as the SSH server system belongs to.
 
-To <a href="https://support.diode.io/article/7vyr5mslsy" target="_blank" rel="noopener"><strong>set this up</strong></a>, you first have to <a href="https://support.diode.io/article/uec3mloh9z" target="_blank" rel="noopener"><strong>enable MetaMask on your browser</strong></a> (save the private key of the wallet you create so you, or other admins, can administrate the Fleet Contract even if your computer is no longer available!), then create a Fleet Contract at [https://diode.io/prenet/#/fleets](https://diode.io/prenet/#/fleets), then add your SSH Server's Diode client address to the Fleet Contract, and finally configure the SSH Server's Diode client to communicate as a member of the Fleet Contract (via terminal: `diode config -set fleet=<fleet address>`).
+To <a href="https://network.docs.diode.io/docs/features/what-is-a-fleet-contract/" target="_blank" rel="noopener"><strong>set this up</strong></a>, you first have to <a href="https://cli.docs.diode.io/docs/faq/configure-metamask/" target="_blank" rel="noopener"><strong>enable MetaMask on your browser</strong></a> (save the private key of the wallet you create so you, or other admins, can administrate the Fleet Contract even if your computer is no longer available!), then create a Fleet Contract at [https://diode.io/prenet/#/fleets](https://diode.io/prenet/#/fleets), then add your SSH Server's Diode client address to the Fleet Contract, and finally configure the SSH Server's Diode client to communicate as a member of the Fleet Contract (via terminal: `diode config -set fleet=<fleet address>`).
 
 After setting up the Fleet Contract, you can use the same process to add and configure the SSH Client systems you would like to access the SSH server (use the Prenet site to add the SSH Client's Diode client address to the Fleet Contract, then configure the SSH Client's Diode client to communicate as part of the Fleet Contract via `diode config -set fleet=<fleet address>`).
 
@@ -85,7 +85,7 @@ Where:
 
 #### **Using SSH via a Private Connection**
 
-The "diode.link" routes the SSH connection through a public Web2:Web3 gateway so that you don't have to run the Diode Client on your SSH client machine. However, if you want to connect fully decentralized (without using the public gateway), you can [**run the Diode Client to be your own Web3.0 gateway on your SSH client machine**](https://support.diode.io/article/sbf1ihdfve) and connect directly peer to peer.
+The "diode.link" routes the SSH connection through a public Web2:Web3 gateway so that you don't have to run the Diode Client on your SSH client machine. However, if you want to connect fully decentralized (without using the public gateway), you can [**run the Diode Client to be your own Web3.0 gateway on your SSH client machine**](https://cli.docs.diode.io/docs/using/access-web3-0-content-run-a-local-gateway/) and connect directly peer to peer.
 
 To do this, open two terminal windows on the computer you want to SSH from.
 

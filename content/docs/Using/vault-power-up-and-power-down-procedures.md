@@ -23,7 +23,7 @@ During the startup process (ranges from 30 to 120 seconds), the system LEDs shou
 * **Activity LED:** Immediately turns on, blinks a few times, then blinks intermittently during startup, and then turns off when the system has fully initialized. Thereafter, when the system is active for any reason, the activity LED will blink on intermittently and then return to off when inactive.
 * **Harddrive LED:** Immediately turns blue when powered on, blinks intermittently rapidly during startup, and then turns solid blue when the system has fully initialized. Thereafter, during file reading or writing activity, the Harddrive LED will blink off intermittently and return to solid blue when inactive.
 
-If the system does not fully start after 120 seconds, please see the <a href="https://support.diode.io/article/zij6mdq1kz" target="_blank" rel="noopener"><strong>Vault Troubleshooting</strong></a> article.
+If the system does not fully start after 120 seconds, please see the <a href="https://vaults.docs.diode.io/docs/troubleshooting/vault-troubleshooting/" target="_blank" rel="noopener"><strong>Vault Troubleshooting</strong></a> article.
 
 #### **Power Down**
 

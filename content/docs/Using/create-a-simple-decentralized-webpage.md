@@ -8,17 +8,17 @@ draft: false
 ---
 A quick and simple way to create a decentralized webpage is to use Diode Drive to publish a simple page to the Internet. Read below for how to do that!
 
-If you are instead looking to publish a more detailed/complex website, check out the articles on <a href="https://support.diode.io/article/r62bhcnax0" target="_blank" rel="noopener"><strong>wordpress</strong></a>, <a href="https://support.diode.io/article/mdelbna1u7" target="_blank" rel="noopener"><strong>ghost</strong></a>, and/or the <a href="https://support.diode.io/article/k0bjp824av" target="_blank" rel="noopener"><strong>Diode CLI's built-in web server</strong></a>.
+If you are instead looking to publish a more detailed/complex website, check out the articles on <a href="https://app.docs.diode.io/raspberry-pi/host-a-public-wordpress-website-on-raspberry-pi/" target="_blank" rel="noopener"><strong>wordpress</strong></a>, <a href="https://app.docs.diode.io/raspberry-pi/host-a-website-with-ghost/" target="_blank" rel="noopener"><strong>ghost</strong></a>, and/or the <a href="https://cli.docs.diode.io/docs/using/publish-static-content/" target="_blank" rel="noopener"><strong>Diode CLI's built-in web server</strong></a>.
 
 1\. Install Diode Drive
 
-In order to create a simple decentralized webpage, you first have to <a href="https://support.diode.io/article/d3eguu0pem" target="_blank" rel="noopener"><strong>install Diode Drive</strong></a>.
+In order to create a simple decentralized webpage, you first have to <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>install Diode Drive</strong></a>.
 
 Behind the scenes, Diode Drive creates an encrypted tunnel from your device into the Diode Network that allows you to publish a webpage into the Diode Network, and from there onto the Internet.
 
 2\. Create a webpage folder
 
-After you've installed Diode Drive, you'll have created at least one <a href="https://support.diode.io/article/k1diuzadd8" target="_blank" rel="noopener"><strong>Zone</strong></a>. Using the Zone Selector sidebar, choose the Zone you want to host your webpage in, and go to the Files view. Once in the Files view, click the "+" icon to create a Folder and call the folder "webpage" (you can actually call it whatever you like).
+After you've installed Diode Drive, you'll have created at least one <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Zone</strong></a>. Using the Zone Selector sidebar, choose the Zone you want to host your webpage in, and go to the Files view. Once in the Files view, click the "+" icon to create a Folder and call the folder "webpage" (you can actually call it whatever you like).
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662761042336/image.png)
 
@@ -106,7 +106,7 @@ This will then show up on your home page as a link that, when clicked, will show
 
 10\. Next steps
 
-You can also customize the <a href="https://support.diode.io/article/ssnzo09rzv" target="_blank" rel="noopener"><strong>header and footer of your webpage</strong></a> and provide links to upload folders and <a href="https://support.diode.io/article/v428b36e31" target="_blank" rel="noopener"><strong>other content you've published</strong></a> - all part of a secure and fully decentralized collaboration environment made possible with Diode!
+You can also customize the <a href="https://app.docs.diode.io/docs/using/how-to-customize-share-page-information/" target="_blank" rel="noopener"><strong>header and footer of your webpage</strong></a> and provide links to upload folders and <a href="https://app.docs.diode.io/docs/using/share-a-file-or-folder-via-web-browser/" target="_blank" rel="noopener"><strong>other content you've published</strong></a> - all part of a secure and fully decentralized collaboration environment made possible with Diode!
 
 If you have questions or comments, please get in touch via the Diode Drive support channel (install Diode Drive and chat there) or our [**Telegram channel**](https://t.me/diode_chain).
 

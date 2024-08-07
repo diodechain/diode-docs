@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Why Host A Node?
-nav_title: Why Host A Node?
+title: Why host a Node?
+nav_title: Why host a Node?
 nav_section: FAQ
 weight: 20023
 draft: false

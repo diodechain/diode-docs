@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Will my Chromebook Run Diode Drive?
-nav_title: Will my Chromebook Run Diode Drive?
+title: Will my Chromebook run Diode Drive?
+nav_title: Will my Chromebook run Diode Drive?
 nav_section: FAQ
 weight: 20011
 draft: false

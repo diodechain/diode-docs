@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: How is Publishing a Website With Diode Better Than Other Solutions?
-nav_title: Why Publish a Website With Diode?
+title: How is publishing a website with Diode better than other solutions?
+nav_title: Why publish a website with Diode?
 nav_section: FAQ
 weight: 20004
 draft: false

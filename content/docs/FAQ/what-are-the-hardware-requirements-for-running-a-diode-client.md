@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: What Are The Hardware Requirements for Running a Diode Client?
-nav_title: What Are The Hardware Requirements for Running a Diode Client?
+title: What are the hardware requirements for running a Diode Client?
+nav_title: What are the hardware requirements for running a Diode Client?
 nav_section: FAQ
 weight: 20021
 draft: false

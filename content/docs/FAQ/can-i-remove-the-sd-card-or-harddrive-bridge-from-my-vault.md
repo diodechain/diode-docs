@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Can I Remove The SD Card or Harddrive Bridge From My Vault?
-nav_title: Can I Remove The SD Card or Harddrive Bridge From My Vault?
+title: Can I remove the SD card or harddrive bridge from my Vault?
+nav_title: Can I remove the SD card or harddrive bridge from my Vault?
 nav_section: FAQ
 weight: 20001
 draft: false

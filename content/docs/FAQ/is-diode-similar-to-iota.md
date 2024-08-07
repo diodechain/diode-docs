@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Is Diode Similar to IOTA?
-nav_title: Is Diode Similar to IOTA?
+title: Is Diode similar to IOTA?
+nav_title: Is Diode similar to IOTA?
 nav_section: FAQ
 weight: 20010
 draft: false

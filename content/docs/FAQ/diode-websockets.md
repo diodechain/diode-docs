@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: How Is Diode Using Websockets?
-nav_title: How Is Diode Using Websockets?
+title: How is Diode using websockets?
+nav_title: How is Diode using websockets?
 nav_section: FAQ
 weight: 20016
 draft: false

@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: How Do I Change My Diode Drive Account / Profile?
-nav_title: How Do I Change My Diode Drive Profile?
+title: How do I change my Diode Drive account / profile?
+nav_title: How do I change my Diode Drive profile?
 nav_section: FAQ
 weight: 20004
 draft: false

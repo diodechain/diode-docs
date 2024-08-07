@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Where is My Local Wallet Stored?
-nav_title: Where is My Local Wallet Stored?
+title: Where is my local wallet stored?
+nav_title: Where is my local wallet stored?
 nav_section: FAQ
 weight: 20005
 draft: false

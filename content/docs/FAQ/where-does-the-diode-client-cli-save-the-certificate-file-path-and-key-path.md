@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Where Does The Diode Client / CLI Save The Certificate File Path and Key Path?
-nav_title: Where Does The Diode Client / CLI Save The Certificate File Path and Key Path?
+title: Where does the Diode Client / CLI save the certificate file path and key path?
+nav_title: Where does the Diode Client / CLI save the certificate file path and key path?
 nav_section: FAQ
 weight: 20002
 draft: false

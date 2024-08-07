@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: How Big is The BlockQuick Consensus Reputation Table?
-nav_title: How Big is The BlockQuick Consensus Reputation Table?
+title: How big is the BlockQuick consensus reputation table?
+nav_title: How big is the BlockQuick consensus reputation table?
 nav_section: FAQ
 weight: 20015
 draft: false

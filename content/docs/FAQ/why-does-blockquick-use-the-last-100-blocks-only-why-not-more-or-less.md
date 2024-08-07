@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Why Does BlockQuick Use The Last 100 Blocks Only? Why Not More or Less?
-nav_title: 'Why Does BlockQuick Use The Last 100 Blocks Only? '
+title: Why does BlockQuick use the last 100 blocks only? Why not more or less?
+nav_title: Why does BlockQuick use the last 100 blocks only?
 nav_section: FAQ
 weight: 20014
 draft: false

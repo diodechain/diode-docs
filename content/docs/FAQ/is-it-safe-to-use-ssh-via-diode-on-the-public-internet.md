@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Is It Safe To Use SSH Via Diode On The Public Internet?
-nav_title: Use SSH Via Diode On The Public Internet?
+title: Is it safe to use SSH via Diode on the public Internet?
+nav_title: Use SSH via Diode on the public Internet?
 nav_section: FAQ
 weight: 20014
 draft: false

@@ -20,7 +20,7 @@ Have fun with this, and let use know in our [**Telegram**](https://t.me/diode_ch
 
 Often, configuring a BNS Name is a significant event - you may want to manage the names, and where they point to, over time like you would a ICANN domain name.
 
-To do this, we recommend using the <a href="https://diode.io/prenet/#/dns" target="_blank" rel="noopener"><strong>Diode Network Explorer</strong></a> via a web browser with [**MetaMask installed**](https://cli.docs.diode.io/docs/faq/configure-metamask/).
+To do this, we recommend using the <a href="https://diode.io/prenet/#/dns" target="_blank" rel="noopener"><strong>Diode Network Explorer</strong></a> via a web browser with [**MetaMask installed**](https://network.docs.diode.io/docs/faq/configure-metamask/).
 
 1\. Go to the <a href="https://diode.io/prenet/#/dns" target="_blank" rel="noopener"><strong>BNS page</strong></a> on the Diode Network Explorer (DNE)
 

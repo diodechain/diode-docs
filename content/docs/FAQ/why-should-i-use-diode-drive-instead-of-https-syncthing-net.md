@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Why Should I Use Diode Drive Instead of https://syncthing.net/?
-nav_title: Why Diode Drive Over https://syncthing.net/?
+title: Why should I use Diode Drive instead of https://syncthing.net/?
+nav_title: Why Diode Drive over https://syncthing.net/?
 nav_section: FAQ
 weight: 20014
 draft: false

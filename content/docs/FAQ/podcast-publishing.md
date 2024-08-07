@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Can I Publish a Podcast with Diode?
-nav_title: Can I Publish a Podcast with Diode?
+title: Can I publish a podcast with Diode?
+nav_title: Can I publish a podcast with Diode?
 nav_section: FAQ
 weight: 20007
 draft: false

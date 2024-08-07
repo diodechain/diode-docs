@@ -50,7 +50,7 @@ In the example above, the URL starts with your globally unique static Client add
 
 There are two ways to do this:
 
-1. [**Configure MetaMask**](https://cli.docs.diode.io/docs/faq/configure-metamask/) and use the [**Diode Network Explorer**](https://diode.io/prenet/#/dns) ([**docs**](https://network.docs.diode.io/)) to reserve a BNS name and link it to your Client address
+1. [**Configure MetaMask**](https://network.docs.diode.io/docs/faq/configure-metamask/) and use the [**Diode Network Explorer**](https://diode.io/prenet/#/dns) ([**docs**](https://network.docs.diode.io/)) to reserve a BNS name and link it to your Client address
 2. Use the Diode Client itself to reserve and link:
 
 ```

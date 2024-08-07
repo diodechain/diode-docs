@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Configure Metamask
-nav_title: How Do I Configure Metamask?
+title: Configure metamask
+nav_title: How do I configure metamask?
 nav_section: FAQ
 weight: 20027
 draft: false

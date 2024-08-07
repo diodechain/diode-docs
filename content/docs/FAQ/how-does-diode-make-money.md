@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: How Does Diode Make Money?
-nav_title: How Does Diode Make Money?
+title: How does Diode make money?
+nav_title: How does Diode make money?
 nav_section: FAQ
 weight: 20005
 draft: false

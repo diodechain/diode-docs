@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: How is Diode Different In Other Web3 Protocols?
-nav_title: 'How is Diode Different In Web3? '
+title: How is Diode different in other Web3 protocols?
+nav_title: 'How is Diode different in Web3? '
 nav_section: FAQ
 weight: 20002
 draft: true

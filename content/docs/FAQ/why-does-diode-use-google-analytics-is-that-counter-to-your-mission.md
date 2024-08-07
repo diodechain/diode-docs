@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Why Does Diode Use Google Analytics - Is That Counter to Your Mission?
-nav_title: Why Use Google Analytics?
+title: Why does Diode use Google Analytics - Is that counter to your mission?
+nav_title: Why use Google Analytics?
 nav_section: FAQ
 weight: 20006
 draft: false

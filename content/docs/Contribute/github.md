@@ -6,7 +6,7 @@ nav_section: Contribute
 weight: 101
 draft: false
 ---
-**Many of our technologies are OpenSource, you can check out our Github** [**here**](https://github.com/diodechain/diode_client)**.**
+Many of our technologies are OpenSource, you can check out our Github [here](https://github.com/diodechain/diode_client).
 
 &nbsp;
 

@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Is Diode a Permissioned or Permissionless Blockchain?
-nav_title: Is Diode a Permissioned or Permissionless Blockchain?
+title: Is Diode a permissioned or permissionless Blockchain?
+nav_title: Is Diode a permissioned or permissionless Blockchain?
 nav_section: FAQ
 weight: 20025
 draft: false

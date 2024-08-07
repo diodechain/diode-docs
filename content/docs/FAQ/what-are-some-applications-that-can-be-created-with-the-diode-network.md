@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: What Are Some Applications That Can Be Created With The Diode Network?
-nav_title: What Apps Can Be Made With Diode?
+title: What are some applications that can be created with the Diode Network?
+nav_title: What apps can be made with diode?
 nav_section: FAQ
 weight: 20005
 draft: false

@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Is Every DNS Change Stored Into The Blockchain Forever?
-nav_title: Is Every DNS Change Stored Into The Blockchain Forever?
+title: Is every DNS change stored into the Blockchain forever?
+nav_title: Is every DNS change stored into the Blockchain forever?
 nav_section: FAQ
 weight: 20011
 draft: false

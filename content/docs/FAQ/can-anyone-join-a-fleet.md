@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Can anyone join a fleet?
-nav_title: Who Can Join A Fleet?
+nav_title: Who can join a fleet?
 nav_section: FAQ
 weight: 20000
 draft: false

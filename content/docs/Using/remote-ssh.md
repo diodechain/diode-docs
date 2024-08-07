@@ -10,7 +10,7 @@ draft: false
 
 Diode can be used to create a secure connection to a system implementing SSH without requiring a static IP address and without exposing port 22 to the public Internet.
 
-Have fun with this, and let use know in our [**telegram**](https://t.me/diode_chain) channel if you have any feature requests!
+Have fun with this, and let use know in our [**T**]()[**elegram**](https://t.me/diode_chain) channel if you have any feature requests!
 
 ### **SSH Server Setup**
 
@@ -56,7 +56,7 @@ diode publish -public 80:80 -private 22:22,0x63115a27C3d1b549011198c69F4120CA4ea
 
 If you are not sure which systems will need access to the SSH interface, you can use the "protected" mode to publish SSH. This restricts access to only the systems authorized for the same Fleet Contract as the SSH server system belongs to.
 
-To <a href="https://network.docs.diode.io/docs/features/what-is-a-fleet-contract/" target="_blank" rel="noopener"><strong>set this up</strong></a>, you first have to <a href="https://cli.docs.diode.io/docs/faq/configure-metamask/" target="_blank" rel="noopener"><strong>enable MetaMask on your browser</strong></a> (save the private key of the wallet you create so you, or other admins, can administrate the Fleet Contract even if your computer is no longer available!), then create a Fleet Contract at [https://diode.io/prenet/#/fleets](https://diode.io/prenet/#/fleets), then add your SSH Server's Diode client address to the Fleet Contract, and finally configure the SSH Server's Diode client to communicate as a member of the Fleet Contract (via terminal: `diode config -set fleet=<fleet address>`).
+To <a href="https://network.docs.diode.io/docs/features/what-is-a-fleet-contract/" target="_blank" rel="noopener"><strong>set this up</strong></a>, you first have to <a href="https://network.docs.diode.io/docs/faq/configure-metamask/" target="_blank" rel="noopener"><strong>enable MetaMask on your browser</strong></a> (save the private key of the wallet you create so you, or other admins, can administrate the Fleet Contract even if your computer is no longer available!), then create a Fleet Contract at [https://diode.io/prenet/#/fleets](https://diode.io/prenet/#/fleets), then add your SSH Server's Diode client address to the Fleet Contract, and finally configure the SSH Server's Diode client to communicate as a member of the Fleet Contract (via terminal: `diode config -set fleet=<fleet address>`).
 
 After setting up the Fleet Contract, you can use the same process to add and configure the SSH Client systems you would like to access the SSH server (use the Prenet site to add the SSH Client's Diode client address to the Fleet Contract, then configure the SSH Client's Diode client to communicate as part of the Fleet Contract via `diode config -set fleet=<fleet address>`).
 

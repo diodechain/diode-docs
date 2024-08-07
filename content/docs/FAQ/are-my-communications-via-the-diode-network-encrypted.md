@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Are My Communications via the Diode Network Encrypted?
-nav_title: Are My Communications Encrypted?
+title: Are my communications via the Diode Network encrypted?
+nav_title: Are my communications encrypted?
 nav_section: FAQ
 weight: 20007
 draft: false

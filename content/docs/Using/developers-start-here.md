@@ -32,7 +32,7 @@ Addresses (identities) on the Diode Network are <a href="https://ethereum.github
 
 Each Diode Client has its own wallet that it manages on the device the client is running on. However, there are many use cases in which it is valuable to manage aspects of the Diode Network without relying on a specific instance of the Diode Client - for these use cases, we recommend using a browser with a <a href="https://metamask.io/" target="_blank" rel="noopener"><strong>MetaMask</strong></a> plugin and the <a href="https://diode.io/prenet" target="_blank" rel="noopener"><strong>Diode Network Explorer</strong></a> ([**docs**](https://docs.diode.io/)).
 
-See the article "[**Configure MetaMask**](https://cli.docs.diode.io/docs/faq/configure-metamask/)" to get MetaMask setup.
+See the article "[**Configure MetaMask**](https://network.docs.diode.io/docs/faq/configure-metamask/)" to get MetaMask setup.
 
 ---
 

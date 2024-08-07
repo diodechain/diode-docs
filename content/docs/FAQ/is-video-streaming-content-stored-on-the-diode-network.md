@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Is Video Streaming Content Stored on The Diode Network?
-nav_title: Where is Video Streaming Content Stored?
+title: Is video streaming content stored on the Diode Network?
+nav_title: Where is video streaming content stored?
 nav_section: FAQ
 weight: 20008
 draft: false

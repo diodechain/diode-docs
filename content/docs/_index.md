@@ -12,9 +12,9 @@ The main Diode application runs on all major platforms (MacOS, Linux-x86&ARM, Wi
 
 Select the installation guide for your Operating System:
 
-[**MacOS**](https://app.docs.diode.io/installation/install-diode-drive-on-macos/)
+<a href="https://app.docs.diode.io/installation/install-diode-drive-on-macos/" target="_blank" rel="noopener"><strong>MacOS</strong></a>
 
-[**Windows**](https://app.docs.diode.io/installation/install-diode-drive-on-windows/)
+<a href="https://app.docs.diode.io/installation/install-diode-drive-on-windows/" target="_blank" rel="noopener"><strong>Windows</strong></a>
 
 <a href="https://app.docs.diode.io/installation/install-diode-drive-on-linux/" target="_blank" rel="noopener"><strong>Linux</strong></a>
 

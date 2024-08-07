@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: What is The Diode Drive Backup Code Used For?
-nav_title: What is The Diode Drive Backup Code Used For?
+title: What is the Diode Drive backup code used for?
+nav_title: What is the Diode Drive backup code used for?
 nav_section: FAQ
 weight: 20015
 draft: false

@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Where Can I Install Diode Drive From?
-nav_title: Where Can I Install Diode Drive From?
+title: Where can I install Diode Drive from?
+nav_title: Where can I install Diode Drive from?
 nav_section: FAQ
 weight: 20002
 draft: false

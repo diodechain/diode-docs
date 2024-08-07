@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Can I Run Diode On a Router or a Computer?
-nav_title: What Should I Run The CLI On?
+title: Can I run Diode on a router or a computer?
+nav_title: What should I run the CLI on?
 nav_section: FAQ
 weight: 20008
 draft: false

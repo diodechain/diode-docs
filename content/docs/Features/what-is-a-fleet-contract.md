@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: What is a Fleet Contract?
+title: Fleet Contract
 nav_title: Fleet Contract
 nav_section: Features
 weight: 107

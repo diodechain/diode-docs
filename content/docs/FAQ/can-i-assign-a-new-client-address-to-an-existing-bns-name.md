@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Can I Assign a New Client Address to an Existing BNS Name?
-nav_title: Can I Assign a New Client Address to an Existing BNS Name?
+title: Can I assign a new client address to an existing BNS name?
+nav_title: Can I assign a new client address to an existing BNS name?
 nav_section: FAQ
 weight: 20003
 draft: false

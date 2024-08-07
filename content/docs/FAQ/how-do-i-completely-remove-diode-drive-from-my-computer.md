@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: How Do I Completely Remove Diode Drive From My Computer?
-nav_title: 'How Do I Remove Diode Drive? '
+title: How do I completely remove Diode Drive from my computer?
+nav_title: 'How do I remove Diode Drive? '
 nav_section: FAQ
 weight: 20009
 draft: false

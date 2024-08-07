@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Are DIODE tokens worth anything?
-nav_title: Are DIODE Tokens Worth Anything?
+nav_title: Are DIODE tokens worth anything?
 nav_section: FAQ
 weight: 20022
 draft: false

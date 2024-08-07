@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Why Did You Want To Design edgeRPC? Why Not gRPC or JsonRPC?
+title: Why did you want to design edgeRPC? Why Not gRPC or JsonRPC?
 nav_title: Why edgeRPC?
 nav_section: FAQ
 weight: 20013

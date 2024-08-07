@@ -4,7 +4,7 @@ title: Active Programs and Terms
 nav_title: What Active Programs and Terms Are There?
 nav_section: FAQ
 weight: 20007
-draft: false
+draft: true
 ---
 If you are interested in helping the team at Diode in <a href="https://diode.io/resources/about" target="_blank" rel="noopener"><strong>its mission</strong></a>, the Diode Bounty Program is for you! See the "Active Bounty Programs" list below for activities we are sponsoring.
 
@@ -47,7 +47,7 @@ Additional eligibility requirements may be specified in a given Bounty Program.
 
 #### **Questions, Support, Disputes**
 
-Questions, support, or disputes regarding the Program, or a specific Bounty Program, should be directed to the Diode Telegram channel: https://t.me/diode\_chain.
+Questions, support, or disputes regarding the Program, or a specific Bounty Program, should be directed to the Diode Telegram channel: [https://t.me/diode\_chain](https://t.me/diode_chain).
 
 #### **General**
 

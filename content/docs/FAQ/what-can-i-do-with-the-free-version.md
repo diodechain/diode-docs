@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: What Can I Do With The Free Version?
-nav_title: What Can I Do With The Free Version?
+title: What can I do with the Free Version?
+nav_title: What can I do with the Free Version?
 nav_section: FAQ
 weight: 20001
 draft: false

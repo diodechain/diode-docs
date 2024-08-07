@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: What is a Diode Drive Light Zone?
+title: Diode Drive Light Zone
 nav_title: Light Zone
 nav_section: Features
 weight: 207

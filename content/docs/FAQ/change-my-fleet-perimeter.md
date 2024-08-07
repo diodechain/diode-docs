@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: How Do I Change My Fleet/Perimeter?
-nav_title: How Do I Change My Fleet/Perimeter?
+title: How do I change my fleet/perimeter?
+nav_title: How do I change my fleet/perimeter?
 nav_section: FAQ
 weight: 20002
 draft: false

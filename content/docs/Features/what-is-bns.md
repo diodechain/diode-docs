@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: What is BNS?
+title: BNS
 nav_title: BNS
 nav_section: Features
 weight: 102

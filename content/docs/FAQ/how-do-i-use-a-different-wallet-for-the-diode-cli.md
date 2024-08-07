@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: How Do I Use a Different Wallet For the Diode CLI?
-nav_title: How To Use a Different Wallet For the Diode CLI?
+title: How do I use a different wallet for the Diode CLI?
+nav_title: How do I use a different wallet for the Diode CLI?
 nav_section: FAQ
 weight: 20004
 draft: false

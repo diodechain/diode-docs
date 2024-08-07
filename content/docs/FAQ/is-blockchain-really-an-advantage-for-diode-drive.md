@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Is Blockchain Really An Advantage for Diode Drive?
+title: Is Blockchain really an advantage for Diode Drive?
 nav_title: Why Blockchain?
 nav_section: FAQ
 weight: 20006

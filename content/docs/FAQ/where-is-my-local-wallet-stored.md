@@ -8,7 +8,7 @@ draft: false
 ---
 Diode client applications use a local "wallet" to store credentials that enable their trustless interaction with the Diode Network. The location of the wallet files are shown below.
 
-Note that interactions with the <a href="https://diode.io/prenet/#/" target="_blank" rel="noopener"><strong>Diode Network Explorer</strong></a> authenticate via [**MetaMask**](https://cli.docs.diode.io/docs/faq/configure-metamask/).
+Note that interactions with the <a href="https://diode.io/prenet/#/" target="_blank" rel="noopener"><strong>Diode Network Explorer</strong></a> authenticate via [**MetaMask**](https://network.docs.diode.io/docs/faq/configure-metamask/).
 
 ### **Diode CLI**
 

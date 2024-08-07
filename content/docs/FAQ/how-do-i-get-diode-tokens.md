@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: How Do I Get DIODE Tokens?
-nav_title: How Do I Get DIODE Tokens?
+title: How do I get DIODE tokens?
+nav_title: How do I get DIODE tokens?
 nav_section: FAQ
 weight: 20020
 draft: false

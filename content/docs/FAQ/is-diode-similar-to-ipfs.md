@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Is Diode Similar to IPFS?
-nav_title: Is Diode Similar to IPFS?
+title: Is Diode similar to IPFS?
+nav_title: Is Diode similar to IPFS?
 nav_section: FAQ
 weight: 20009
 draft: false

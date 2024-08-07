@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Why Does The Diode App Use the Brave Browser for Some Bookmarks?
-nav_title: Why The Brave Browser for Bookmarks?
+title: Why does the Diode App use the Brave Browser for some bookmarks?
+nav_title: Why the Brave Browser for bookmarks?
 nav_section: FAQ
 weight: 20018
 draft: false

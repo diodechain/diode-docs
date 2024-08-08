@@ -81,6 +81,4 @@ Where:
 
 * &lt;client\_address&gt; is the Client address or BNS name for the server providing streaming content
 
-  &nbsp;
-
 ---

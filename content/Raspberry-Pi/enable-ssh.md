@@ -56,4 +56,4 @@ ssh pi@192.168.50.21
 
 That's it - you can now access your rPi remotely (as long as you are on the same LAN).
 
-**NOTE:** If you want to access your rPi over SSH even when you are not on the same LAN, see the article about [**enabling SSH over the Diode Network**](https://support.diode.io/article/ub9xrruimv)
+**NOTE:** If you want to access your rPi over SSH even when you are not on the same LAN, see the article about [**enabling SSH over the Diode Network**](https://cli.docs.diode.io/docs/using/remote-ssh/)**.**

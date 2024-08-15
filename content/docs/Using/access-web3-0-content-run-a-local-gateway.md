@@ -10,7 +10,7 @@ Diode hosts a public gateway to the Diode Network at &lt;address&gt;.diode.link.
 
 In order to access Private or Protected content, you can [**run the Diode Client locally**](https://network.docs.diode.io/docs/using/developers-start-here/) as a local gateway / proxy server into the Diode Network. Once it is running, you can use a browser or other applications directly access Web3.0 content you are authorized for.
 
-Have fun with this, and let use know in our [**T**]()[**elegram**](https://t.me/diode_chain) channel if you have any feature requests!
+Have fun with this, and let use know in our [**Telegram**](https://t.me/diode_chain) channel if you have any feature requests!
 
 ### **Run the Diode Client as a Proxy Server**
 

@@ -42,7 +42,7 @@ Have the person whose Username was paired with the Vault to open the Diode App a
 
 Type your Vault's Username in the box and click "Invite":
 
-![](/uploads/image-6.png)
+![](/uploads/image-9.png)
 
 The invitation may take up to three minutes for your Vault to accept it. Once it has been accepted, you will see the Vault's online indicator in your Zone turn green, indicating it is online and is actively storing files, relaying chat messages, and more.
 

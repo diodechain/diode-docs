@@ -12,7 +12,7 @@ Please get in touch:
 
 * [Join our Telegram community](https://t.me/diode_chain) and ask your question there
 * Browse the threads on the [support forum](https://forum.diode.io/)
-* [Join the Diode Community zone](https://diode.io/joinzone/#tB0kOiAdLwJs7CGXhZXtWy4VlVWhqb094hgKktTOCkJFF-8VMA91SoferyZv) and chat with an Admin
+* [Join the Diode Community zone](https://diode.io/joinzone/#1MQKGI_TUYpNksoAAK6TSynBPpviy5MPgDRyTiO7YuGh5_H5sHDN9VIB1diC) and chat with an Admin
 * Open a support ticket by emailing: [support@diode.io](mailto:support@diode.io)
 
 #### Support SLAs

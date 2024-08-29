@@ -10,7 +10,7 @@ draft: false
 ---
 ### **Our Brand Name**
 
-"Diode" is the company and we have several solutions that are the [Diode Network](https://diode.io/solutions/network/), the [Diode App](https://diode.io/solutions/app/), the [Diode Vault](https://diode.io/solutions/vault/), and the [Diode CLI](https://diode.io/solutions/cli/).
+"Diode" is the company consisting of several solutions known as the [Diode Network](https://diode.io/solutions/network/), the [Diode App](https://diode.io/solutions/app/), the [Diode Vault](https://diode.io/solutions/vault/), and the [Diode CLI](https://diode.io/solutions/cli/).
 
 ### **Branding Guidelines**
 

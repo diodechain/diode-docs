@@ -6,7 +6,7 @@ SEO_options:
   title: About Diode
   image:
   description:
-draft: true
+draft: false
 ---
 ### **Our Brand Name**
 

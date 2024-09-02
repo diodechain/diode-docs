@@ -8,6 +8,8 @@ draft: false
 ---
 This article is short and sweet - it shows how you can use Diode to host a decentralized private proxy server.
 
+[Here is a ~30s video demonstrating this.](https://www.loom.com/share/9a9408dbf71f4d39b2beeaca6e376458)
+
 This can have the following benefits:
 
 * No static IP address required - host your proxy on a home or office network, or anywhere you don't have, or don't want to expose, a static IP address

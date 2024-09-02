@@ -6,7 +6,14 @@ nav_section: Features
 weight: 200
 draft: false
 ---
-You can use Diode to access websites from any region in the world, no matter where you are sitting.  Under the hood, making this possible, is Diode's Zero Trust Network - so, we call this "Diode ZTN"!
+You can use Diode to access websites from any region in the world, no matter where you are sitting.  Under the hood, making this possible, is Diode's Zero Trust Network - so, we call this  "ZTN"!
+
+To set up your ZTN connection, check out the ["Web2 Tunneled Link" type of bookmark in the "Bookmarks" article](/features/diode-bookmarks/) and watch the videos below!:
+
+* Video 1: <a href="https://www.loom.com/share/8d96e98f40e54998ac6300e50d1e31cf" target="_blank" rel="noopener">Overview of Diode ZTN</a>
+* Video 2: <a href="https://www.loom.com/share/9a9408dbf71f4d39b2beeaca6e376458" target="_blank" rel="noopener">Deploy an Exit Node</a>
+* Video 3: <a href="https://www.loom.com/share/300c6d19cf9a40f5b98c38eb76130476" target="_blank" rel="noopener">Configure Your App</a>
+* Video 4: <a href="https://www.loom.com/share/a5556b69b21d4cdda067491ffc5fccc8" target="_blank" rel="noopener">Use Diode ZTN!</a>
 
 ZTN is similar to VPN, but Diode's Web3 approach has at least four important differences:
 
@@ -18,11 +25,4 @@ ZTN is similar to VPN, but Diode's Web3 approach has at least four important dif
 
 4) Diode uses "TLS Encryption" on the connections.  Most of today's websites use the same type of encryption.  Therefore, due to \#1, your connection into the Diode Network looks very similar to all the other connections you are normally making to the Internet.
 
-To set up Regional Tunnels, check out the ["Web2 Tunneled Link" type of bookmark in the "Bookmarks" article](/features/diode-bookmarks/) and watch the videos below!:
-
-* Video 1: <a href="https://www.loom.com/share/8d96e98f40e54998ac6300e50d1e31cf" target="_blank" rel="noopener">Overview of Diode ZTN</a>
-* Video 2: <a href="https://www.loom.com/share/9a9408dbf71f4d39b2beeaca6e376458" target="_blank" rel="noopener">Deploy an Exit Node </a>
-* Video 3: <a href="https://www.loom.com/share/300c6d19cf9a40f5b98c38eb76130476" target="_blank" rel="noopener">Configure Your App</a>
-* Video 4: <a href="https://www.loom.com/share/a5556b69b21d4cdda067491ffc5fccc8" target="_blank" rel="noopener">Use Diode ZTN! </a>
-
-  &nbsp;
+&nbsp;

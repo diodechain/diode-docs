@@ -84,7 +84,7 @@ The Brave option requires that Brave be fully exited / shut-down before a Bookma
 
 The "Address" is the website address you want to open in the specified browser as if the user is sitting at the Exit Location.
 
-The "Exit Location" is the specific region or location or server that you want the website to be loaded from. Diode provides a "US West" option by default, but you can **add your own Exit Locations if desired**.
+The "Exit Location" is the specific region or location or server that you want the website to be loaded from. Diode provides a "US West" option by default, but you can <a href="https://cli.docs.diode.io/docs/using/host-a-decentralized-private-proxy-server/" target="_blank" rel="noopener">add your own Exit Locations if desired</a>.
 
 ![](/uploads/image-83.png)
 

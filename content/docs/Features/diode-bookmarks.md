@@ -8,35 +8,35 @@ draft: false
 ---
 Within every Zone, there is the option to create and name bookmarks that can be linked to various locations (Diode Drive Locations, Web2 Links, Web3 Links, and Web2 Tunneled Links). This allows for quick access to files, documents, folders, etc. without clicking through folders within the Zones to find them each time.
 
-**1\. Create a Bookmark**
+##### 1\. Create a Bookmark
 
 Go into the desired Zone in which a bookmark needs to be created. Notice the "Bookmark" label on the lefthand side underneath Team and Channels and click the "+" icon.
 
 ![](/uploads/image-76.png)
 
-**2\. New Bookmark**
+##### 2\. New Bookmark
 
 A "New Bookmark" will appear on the screen.
 
 ![](/uploads/image-77.png)
 
-**3\. Name The Bookmark**
+##### 3\. Name The Bookmark
 
 Give the bookmark any general name for its content.
 
 ![](/uploads/image-78.png)
 
-**4\. Configure Bookmark Details**
+##### 4\. Configure Bookmark Details
 
 After the bookmark has been named, a screen will pop up asking for the Type, Location, and Listing Order of the bookmark.
 
 ![](/uploads/image-79.png)
 
-**Types and Location / Path**
+##### Types and Location / Path
 
 If you would like to save a bookmark that can take you to either a file within Diode Drive or an outside source, simply change the "Type" dropdown menu to any of the ones listed and select the desired source. Each type may have additional settings, and will use a slightly different Location or Path syntax - so see the instructions for each type to understand those settings.
 
-**Type: Diode Drive Location**
+##### Type: Diode Drive Location
 
 These bookmarks take the user to a Diode Drive location.
 
@@ -46,7 +46,7 @@ The "Location" is the path to the file or folder within the Zone. In this exampl
 
 ![](/uploads/image-80.png)
 
-**Type: Web2 Link**
+##### Type: Web2 Link
 
 These bookmarks open the Address field (URL) in the system browser without any Diode tunneling.
 
@@ -58,7 +58,7 @@ Make sure you to not have "https://" in the address you provide as that is alrea
 
 ![](/uploads/image-81.png)
 
-**Type: Web3 Link**
+##### Type: Web3 Link
 
 These bookmarks open the Address field (URL), in the browser you configure, with end-to-end encrypted Diode tunneling. This is often used to access secure self-hosted/private-cloud websites, private server dashboards, or operational technology equipment dashboards/configurator interfaces.
 
@@ -72,7 +72,7 @@ The "Address" is the Diode address to the website/dashboard you want to open in 
 
 ![](/uploads/image-82.png)
 
-**Type: Web2 Tunneled Link**
+##### Type: Web2 Tunneled Link
 
 These bookmarks open a Web2 website that is tunneled into a remote location so that the website is shown as if the user is sitting at the Exit Location. This allows users to access websites from a remote region and to protect their browsing information from being leaked.
 
@@ -88,15 +88,15 @@ The "Exit Location" is the specific region or location or server that you want t
 
 ![](/uploads/image-83.png)
 
-**Listing Order**
+##### Listing Order
 
 The "Listing Order" is simply the order in which you want the bookmark to appear in your bookmark bar if you have multiple bookmarks listed.
 
-**Publish the Bookmark!**
+##### Publish the Bookmark!
 
 Click "Save" and your bookmark will appear on the lefthand side of your Zone under "Bookmarks." If you wish to create more, click the "+" icon and repeat the same process.
 
-**Editing Bookmarks**
+##### Editing Bookmarks
 
 If you want to change the name, location, type, or listing order of the bookmark, go to the Bookmark listing page. You can either click the word "Bookmarks" in the Quick Access Bar, or access it from your Zone settings (the icon of the gear on the top lefthand side of the Zone, next to the information and folder icon).
 

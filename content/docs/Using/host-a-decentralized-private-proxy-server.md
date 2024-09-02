@@ -8,7 +8,7 @@ draft: false
 ---
 This article is short and sweet - it shows how you can use Diode to host a decentralized private proxy server.
 
-[Here is a ~30s video demonstrating how to set this up.](https://www.loom.com/share/9a9408dbf71f4d39b2beeaca6e376458)
+[Here is a 32s video demonstrating how to set this up.](https://www.loom.com/share/9a9408dbf71f4d39b2beeaca6e376458)
 
 This can have the following benefits:
 

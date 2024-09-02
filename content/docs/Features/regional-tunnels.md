@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Regional Tunnels
-nav_title: Regional Tunnels
+title: ZTN - AKA Regional Tunnels
+nav_title: ZTN - AKA Regional Tunnels
 nav_section: Features
 weight: 200
 draft: false

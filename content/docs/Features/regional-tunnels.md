@@ -8,7 +8,7 @@ draft: false
 ---
 You can use Diode to access websites from any region in the world, no matter where you are sitting.  Under the hood, making this possible, is Diode's Zero Trust Network - so, we call this  "ZTN"!
 
-To set up your ZTN connection, check out the ["Web2 Tunneled Link" type of bookmark in the "Bookmarks" article](/features/diode-bookmarks/) and watch the videos below!:
+To set up your ZTN connection, check out the ["Web2 Tunneled Link" type of bookmark in the "Bookmarks" article](/docs/features/diode-bookmarks/) and watch the videos below!:
 
 * Video 1: <a href="https://www.loom.com/share/8d96e98f40e54998ac6300e50d1e31cf" target="_blank" rel="noopener">Overview of Diode ZTN</a> (45s)
 * Video 2: <a href="https://www.loom.com/share/9a9408dbf71f4d39b2beeaca6e376458" target="_blank" rel="noopener">Deploy an Exit Node</a> (32s)

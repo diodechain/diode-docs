@@ -26,7 +26,7 @@ To delete a device, simply select the device you wish to delete, press the trash
 
 **Backup Codes**
 
-The very first device you sign up with is your master device - the <a href="https://app.docs.diode.io/docs/features/diode-drive-backup-codes/" target="_blank" rel="noopener"><strong>backup code</strong></a> from that device can be used to restore full access to your account should you lose access. Other Linked Devices will show "Please create a backup from your master device".
+The very first device you sign up with is your master device - the <a href="https://app.docs.diode.io/docs/features/diode-drive-backup-codes/" target="_blank" rel="noopener"><strong>backup code</strong></a> from that device can be used to restore full access to your account should you lose access. Other Linked Devices will show "Please create a backup from your master device."
 
 **Permissions**
 
@@ -36,10 +36,10 @@ All Linked Devices have full permissions for your Account.
 
 Each Linked Device has some device-specific settings:
 
-* Local Settings for the App (Global menu -&gt; Local Settings)
-  * Default storage path for new Zones
+* Local Settings for the App (Profile Drop-Down -&gt; Local Settings)
+  * Default location for new Zones
 * Local Settings for a Zone (Zone -&gt; Settings -&gt; Local Settings)
-  * Storage path currently in use for the Zone
+  * Location on disk
 
 ---
 

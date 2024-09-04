@@ -10,7 +10,19 @@ When you sign up for Diode Drive, you create an Account Name. The Account Name i
 
 As of Diode Drive 1.4.0 (January 2022), your Account can be used on multiple devices (e.g. phone and computer). Devices that you use for your Account are called "Linked Devices."
 
-To add and manage Linked Devices for your Account, go to the Linked Devices settings area under the Global menu (click the Diode Drive icon in the upper left).
+**How To Add and Manage:**
+
+<u>Go to Profile Settings</u>
+
+To add and manage Linked Devices for your Account, go to your Profile from the drop-down menu in the upper right corner of your App under your username. Once in Profile, you can click into your "Linked Devices" settings and add or delete a device by using the plus or trash icon in the upper right hand corner.
+
+<u>Add Device</u>
+
+To add a device, download the Diode app on the new device, provide your username, and select "log in." On your original device, click the plus icon in your "Linked Devices" settings and use the code provided for your new device. Wait until your original device has you click "confirm," and then allow the new device to sync your existing Zones, chats, etc..
+
+<u>Delete Device</u>
+
+To delete a device, simply select the device you wish to delete, press the trash icon, and confirm.
 
 **Backup Codes**
 

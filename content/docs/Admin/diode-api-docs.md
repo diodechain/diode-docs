@@ -71,7 +71,7 @@ Like the HTTP API, there are two ways to reach the WebSockets API endpoint:
 * Via the Diode Web2 Gateway (most convenient, use anywhere):<br>`ws://<device_address>.diode.link/api/json_rpc/ws`
 * Direct via Web3 (most secure, requires web3 pipe between caller and device where the API is enabled):<br>`ws://<device_address>.diode/api/json_rpc/ws`
 
-Here is an <a href="https://support.diode.io/article/o77e2w21lq" target="_blank" rel="noopener"><strong>example of a python script</strong></a> calling the API via WebSockets.
+Here is an <a href="https://app.docs.diode.io/pythonscript/diode-websocket-api-python-example-subscribe-channel/" target="_blank" rel="noopener"><strong>example of a python script</strong></a> calling the API via WebSockets.
 
 ### **API Methods**
 

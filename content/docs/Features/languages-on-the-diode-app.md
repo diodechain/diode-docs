@@ -18,5 +18,5 @@ If you notice a language missing in our translation, we would love for you, or s
 
 1. To contribute a current language, click our Crowd-in link: <a href="https://crowdin.com/project/diode-drive" target="_blank" rel="noopener"><strong>https://crowdin.com/project/diode-drive</strong></a>
    1. As of this time we have Chinese (simplified and traditional), German, and Turkish in the works
-2. To add a new language that isn't already listed in Crowd-in, you will have to send a support message so we can get it started. Then, anyone can contribute to the newly added language.
+2. To add a new language that isn't already listed in Crowd-in, you will have to [send a support message](https://contactdiode.paperform.co/) so we can get it started. Then, anyone can contribute to the newly added language.
    1. You can contribute to a language that’s in process **at any time**

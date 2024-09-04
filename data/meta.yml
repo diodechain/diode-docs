@@ -1,6 +1,6 @@
 project_name: Diode Docs
 product_name: CLI
-default_og_image: /uploads/alto.png
+default_og_image: /uploads/diode-logo-copy.png
 favicon:
   small_icon: /uploads/favicon-16x16.png
   large_icon: /uploads/favicon-32x32.png

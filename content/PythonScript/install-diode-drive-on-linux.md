@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Install Diode Drive on Linux
+title: Diode WebSocket API Python Example (subscribe_channel)
 nav_title:
 SEO_options:
   title: Diode App Secure Messenger
@@ -8,67 +8,97 @@ SEO_options:
   description:
 draft: false
 ---
-Follow the three steps below to get up and running on Linux (Raspberry Pi/ARM shown below).
+This is an example python script demonstrating how to use the Diode API with websockets:
 
----
+```
+import asyncio
+import json
+import logging
+import os
+import sys
+import websockets
+import websockets.exceptions
+from jsonrpcclient import request, parse, Ok
 
-**1\. Download**
+bearer_token = "REPLACE"
+zone_id = "REPLACE"
+channel_id = "REPLACE"
+device_id = "REPLACE"
+diode_url = f"https://{device_id}.diode.link/api/json_rpc"
+diode_wss_uri = f"wss://{device_id}.diode.link/api/json_rpc/ws"
+method_send_msg = "send_message"
+method_auth = "authenticate"
+method_subscribe = "subscribe_channel"
+method = method_send_msg
 
-[**Download Diode Drive**](https://diode.io/download/) for Linux - pay attention to the Linux variant (x86, ARM, 32/64 bit) to ensure you download the right one for your system.
 
-**2\. Install and run Diode Drive**
+def base_payload():
+    return {"jsonrpc": "2.0", "id": 1}
 
-Set the File Permissions for the downloaded .run file to include "Execute".
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/d3eguu0pem/1615810674835/image.png)
+def handle_exception(e):
+    if isinstance(e, websockets.exceptions.WebSocketException):
+        print(f"WebSocket error: {e}")
+    elif isinstance(e, websockets.exceptions.ConnectionClosedError):
+        print(f"Conn closed unexpectedly: {e}")
+    elif isinstance(e, json.JSONDecodeError):
+        print(f"JSON decoding err: {e}")
+    elif isinstance(e, asyncio.TimeoutError):
+        print(f"Timed out request: {e}")
+    else:
+        print(f"An unexpected error occurred: {e}")
 
-Open a terminal window and run the installer - it will extract to ~/dDrive
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/d3eguu0pem/1615810812636/image.png)
+async def send_auth(websocket):
+    params = [bearer_token]
+    payload = base_payload()
+    payload["method"] = method_auth
+    payload["params"] = params
+    message = json.dumps(payload)
+    await websocket.send(message)
+    response = await websocket.recv()
+    return json.loads(response)
 
-You can then either run it from a terminal window from the ~/dDrive folder with: `./dDrive start_iex` , or click the "Diode Drive Decentralized Storage" icon from the UI and select "Execute".
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/d3eguu0pem/1615811022243/image.png)
+async def subscribe_channel(websocket):
+    params = [zone_id, channel_id]
+    payload = base_payload()
+    payload["method"] = method_subscribe
+    payload["params"] = params
+    message = json.dumps(payload)
+    await websocket.send(message)
+    response = await websocket.recv()
+    return json.loads(response)
 
-Some Linux installations <a href="https://github.com/diodechain/diode_drive_feedback/issues/14" target="_blank" rel="noopener"><strong>have a bug with the UI and file updates</strong></a> (last checked: March 15, 2021)
 
-If your installation is not automatically synchronizing file changes, install the "inotify-tools" package via the command line:
+# message receiver
+async def receive_messages():
+    try:
+        print(diode_wss_uri)
+        async with websockets.connect(diode_wss_uri) as websocket:
+            try:
+                # initial authentication
+                resp = await send_auth(websocket)
+                print(resp)
 
-`sudo apt install inotify-tools`
+                # subscribe to the diode channel
+                resp = await subscribe_channel(websocket)
+                print(resp)
 
-If the user interface doesn't load, try installing the topicons extension from <a href="https://extensions.gnome.org/extension/495/topicons/" target="_blank" rel="noopener"><strong>https://extensions.gnome.org/extension/495/topicons/</strong></a>
+            except Exception as e:
+                handle_exception(e)
+                sys.exit(1)
 
-Recent (as of June 2021) Raspberry Pi Linux OS (Raspbian) no longer packages <a href="https://packages.debian.org/search?keywords=libglu1-mesa" target="_blank" rel="noopener"><strong>an OpenGL driver</strong></a> required by Diode Drive. If Diode Drive does not start on your Raspberry Pi, install the drive from a terminal window: `sudo apt install libglu1-mesa`
+            while True:
+                message = await websocket.recv()
+                print(f"Received message: {message}")
 
-**3\. Verify Diode Drive is running**
+    except KeyboardInterrupt:
+        print("Program exit. Interrupted by user")
+    except Exception as e:
+        print(f"An error occurred upon connection attempt: {e}")
 
-When Diode Drive starts up, it will load as a small orange icon in the task bar:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/d3eguu0pem/1615794188005/image.png)
-
-Clicking the orange Diode Drive icon will drop-down / pop-up menu options. Click "Open" to open the app.
-
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/rywr2hzmjg/1650666373818/image.png)
-
----
-
-That's it! Diode Drive is installed and active on your system.
-
-**NEXT STEP:** [**Create an Account**](https://app.docs.diode.io/docs/using/getting-started/)
-
----
-
-<u>Getting-started articles:</u>
-
-* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
-* <a href="https://app.docs.diode.io/docs/using/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
-* <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
-* <a href="https://app.docs.diode.io/docs/using/linked-devices/" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>
-* <a href="https://app.docs.diode.io/docs/using/share-a-file-or-folder-via-web-browser/" target="_blank" rel="noopener"><strong>Share files or folders via web browser</strong></a>
-* <a href="https://app.docs.diode.io/docs/using/add-a-team-member-or-additional-device/" target="_blank" rel="noopener"><strong>Invite other team members to your Zone</strong></a>
-* <a href="https://app.docs.diode.io/docs/using/backup-your-confidential-files/" target="_blank" rel="noopener"><strong>Backup and persistently host your files</strong></a>
-* <a href="https://app.docs.diode.io/docs/using/join-a-zone-by-invite-code/" target="_blank" rel="noopener"><strong>Join a Zone via Invite Code</strong></a>
-
-  &nbsp;
-
----
+# main loop
+asyncio.run(receive_messages())
+```

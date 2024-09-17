@@ -27,7 +27,7 @@ Push notifications are created by the sender's device when none of your devices 
 
 * You are prompted to choose whether you want to enable Push notifications for your profile when you first signup.  You can disable this feature at a profile level (all Zones) in your profile settings.
 * These notifications are sent from the sender's app to the Diode push notification server, where they are then relayed to the Google or Apple push servers for distribution to your phone.  **These are not self custody notifications.**
-* Push notifications contain an encrypted blob consisting of the sender name and the message.  Push notification contents cannot be read by either the Diode push notification server or the Google/Apple push servers.  They are decrypted real-time on your device.
+* Push notifications contain an encrypted blob consisting of the sender name and the message.  Push notification contents cannot be read by either the Diode push notification server or the Google/Apple push servers.  They are encrypted by the sender, and decrypted real-time on your device (end to end encrypted).
 * The Diode push notification server contains a table linking your Diode device ID to your Google/Apple push token.  This table effectively "de-anonymizes" your profile.
 
 #### Why should you enable Push notifications?

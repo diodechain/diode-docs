@@ -26,7 +26,7 @@ If the screen is narrow, the controls will be collapsed into an expanding contro
 
 When edits are made to the file, "Save" will be highlighted, allowing you to save the edits - the Back button and cmd-s (ctrl-s) will also save the file.
 
-![](/uploads/image-99.png)
+![](/uploads/image-999.png)
 
 ---
 

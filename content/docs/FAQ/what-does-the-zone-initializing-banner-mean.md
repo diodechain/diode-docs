@@ -14,7 +14,7 @@ If the banner is showing, it means one or more settings in your Zone have not ye
 
 However, if your device is able to reach the Diode Network, the progress bar should be at least at 10% - meaning it is able to resolve who the other members are in the Zone.
 
-If the initialization has any progress at all, a small "X" will appear on the right side of the initializing banner, allowing you to close the banner and to access the features in your Zone.  Once you close the banner, it will not re-appear for your Zone no matter if the Zone is properly initialized or not.
+If the initialization makes some progress, a small "X" will appear on the right side of the initializing banner, allowing you to close the banner and to access the features in your Zone.  Once you close the banner, it will not re-appear for your Zone no matter if the Zone is properly initialized or not.
 
 The following milestones contribute to the bar's overall progress when your device:
 

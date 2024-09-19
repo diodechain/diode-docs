@@ -8,11 +8,11 @@ SEO_options:
   description:
 draft: false
 ---
-If you are running the Diode Client on a Raspberry Pi, it is nice to auto-start it on boot up so you don't have to SSH or manually login to start it every time the system reboots.
+If you are running the Diode Client on a Linux device (like a Raspberry Pi), it is nice to auto-start it on boot up so you don't have to SSH or manually login to start it every time the system reboots.
 
-Raspberry Pi’s as well as most other Linux distributions such as Debian and Linux nowadays use *systemd* for controlling services and startup applications.
+Linux distributions, such as Debian and Ubuntu, nowadays use *systemd* for controlling services and startup applications.
 
-See the steps below to configure *systemd* on your Raspberry Pi to auto-start Diode on boot.
+See the steps below to configure *systemd* on to auto-start Diode on boot.
 
 Have fun with this, and let use know in our [**Telegram**](https://t.me/diode_chain) channel any feature requests you have!
 

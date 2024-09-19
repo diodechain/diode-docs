@@ -34,7 +34,7 @@ The "Client Address" is your proxy server's decentralized address - you will nee
 
 1. Make it persistent on your system by adding the Diode command to systemd (assuming Linux)
 
-You can follow the <a href="https://cli.docs.diode.io/raspberry-pi/start-diode-on-boot/" target="_blank" rel="noopener"><strong>instructions here</strong></a>. Modify the ExecStart line to `ExecStart=/home/pi/opt/diode/diode publish -public 1080:1080 -socksd`
+You can follow the <a href="/raspberry-pi/start-diode-on-boot/" target="_blank" rel="noopener"><strong>instructions here</strong></a>. Modify the ExecStart line to `ExecStart=/home/pi/opt/diode/diode publish -public 1080:1080 -socksd`
 
 Some people find it handy to force-restart the service every day by adding the line `RuntimeMaxSec=86400`
 

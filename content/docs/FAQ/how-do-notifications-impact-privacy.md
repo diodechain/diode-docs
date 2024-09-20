@@ -18,8 +18,10 @@ There are two types of notifications Diode creates:
 App notifications are created when you are running the application and a new message arrives, but you are not viewing the chat it arrived for.  In this case, your app will raise a notification on your phone or computer to get your attention - clicking the notification will take you to the message.
 
 * You must use your operating system's notification controls to turn this feature off.
-* App notifications are created by your device and remain local to your device.  They are "self custody" notifications - you are in full control of data exposure, if any.
+* App notifications are created by your device and remain local to your device.
 * App notifications contain the Zone name, the sender name, and the message.
+
+App notifications are considered "self custody" notifications - you are in full control of meta data exposure, if any.
 
 ### Push notifications
 
@@ -29,6 +31,8 @@ Push notifications are created by the sender's device in order to send you a not
 * These notifications are sent from the sender's app to the Diode push notification server, where they are then relayed to the Google or Apple push servers for distribution to your phone.
 * Push notifications contain an encrypted blob consisting of the sender name and the message.  Push notification contents cannot be read by either the Diode push notification server or the Google/Apple push servers.  They are encrypted by the sender, and decrypted real-time on your device (end to end encrypted).
 * The push token used by Google/Apply push servers is associated with your phone (that is how Google/Apple know where to send the notification).  Therefore, enabling push notifications has a liability similar to that of associating a phone number with your Diode profile.
+
+Push notifications are **not** considered fully "self custody" notifications. Read more below.
 
 #### Why should you enable Push notifications?
 

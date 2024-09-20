@@ -25,7 +25,7 @@ App notifications are created when you are running the application and a new mes
 
 Push notifications are created by the sender's device in order to send you a notification even if your app is not running.  In this case, Google or Apple will send out a notification that appears on your phone - clicking the notification will open the app and view the message.
 
-* You are prompted to choose whether you want to enable Push notifications for when first configuring a new phone.  You can disable this feature at a profile level (all Zones) in your profile settings.
+* You are prompted to choose whether you want to enable Push notifications when first configuring a new phone.  You can disable this feature at a profile level (all Zones) in your profile settings.
 * These notifications are sent from the sender's app to the Diode push notification server, where they are then relayed to the Google or Apple push servers for distribution to your phone.
 * Push notifications contain an encrypted blob consisting of the sender name and the message.  Push notification contents cannot be read by either the Diode push notification server or the Google/Apple push servers.  They are encrypted by the sender, and decrypted real-time on your device (end to end encrypted).
 * The push token used by Google/Apply push servers is associated with your phone (that is how Google/Apple know where to send the notification).  Therefore, enabling push notifications has a liability similar to that of associating a phone number with your Diode profile.

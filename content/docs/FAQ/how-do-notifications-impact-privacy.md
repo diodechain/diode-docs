@@ -23,12 +23,12 @@ App notifications are created when you are running the application and a new mes
 
 ### Push notifications
 
-Push notifications are created by the sender's device when none of your devices are online.  In this case, Google or Apple will send out a notification that appears on your phone even when you are not running the app - clicking the notification will open the app and view the message.
+Push notifications are created by the sender's device in order to send you a notification even if your app is not running.  In this case, Google or Apple will send out a notification that appears on your phone - clicking the notification will open the app and view the message.
 
-* You are prompted to choose whether you want to enable Push notifications for your profile when you first signup.  You can disable this feature at a profile level (all Zones) in your profile settings.
-* These notifications are sent from the sender's app to the Diode push notification server, where they are then relayed to the Google or Apple push servers for distribution to your phone.  **These notifications are not considered fully self custody.**
+* You are prompted to choose whether you want to enable Push notifications for when first configuring a new phone.  You can disable this feature at a profile level (all Zones) in your profile settings.
+* These notifications are sent from the sender's app to the Diode push notification server, where they are then relayed to the Google or Apple push servers for distribution to your phone.
 * Push notifications contain an encrypted blob consisting of the sender name and the message.  Push notification contents cannot be read by either the Diode push notification server or the Google/Apple push servers.  They are encrypted by the sender, and decrypted real-time on your device (end to end encrypted).
-* The Diode push notification server contains a table linking your Diode device ID to your phone's push token.  This table effectively "de-anonymizes" your profile.  It has a liability similar to that of associating a phone number with your Diode profile.
+* The push token used by Google/Apply push servers is associated with your phone (that is how Google/Apple know where to send the notification).  Therefore, enabling push notifications has a liability similar to that of associating a phone number with your Diode profile.
 
 #### Why should you enable Push notifications?
 
@@ -36,7 +36,7 @@ You should enable Push notifications if you are comfortable with the privacy imp
 
 #### Why should you not enable Push notifications?
 
-You should not enable Push notifications if you want your account to remain pseudo-anonymous (not linked to your real person).
+You should not enable Push notifications if you are otherwise taking measures to ensure your account is pseudo-anonymous.
 
 #### What steps does Diode take to protect my account?
 
@@ -44,4 +44,4 @@ Diode end-to-end encrypts all Push notification content, and encrypts "push toke
 
 #### If I enable Push notifications, can I still collaborate securely?
 
-Yes, your collaborations are all still end-to-end encrypted.  However, push notifications leave a breadcrumb that could theoretically be used to link your Diode profile to your phone.
+Yes, your collaborations are all still end-to-end encrypted.  However, push notifications leave a breadcrumb that could theoretically be used to link your Diode profile to your non-Diode digital profile.

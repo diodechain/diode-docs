@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Create a Home Page for Your Zone
-nav_title: Create a Home Page
+title: Create a home page (About page) for Your Zone
+nav_title: Create a home page
 nav_section: Using
 weight: 207
 draft: false

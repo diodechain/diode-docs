@@ -16,7 +16,7 @@ Anyone can run a Diode Network node (a Diode Point of Presence) and help expand 
 
 &nbsp;
 
-{{< youtube id="V0wsbMt8ZqQ&t" title="Run a Diode Node in 3 Minutes" >}}
+{{< youtube id="V0wsbMt8ZqQ&" title="Run a Diode Node in 3 Minutes" >}}
 
 **Not convinced?** [Read here](/docs/faq/why-host-a-node/) for some reasons why you might want to run a node.
 

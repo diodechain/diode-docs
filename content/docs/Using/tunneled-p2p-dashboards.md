@@ -102,6 +102,8 @@ OK, super quick - on Mac, Finder allows you to specify a port for your network d
 
 Windows is not so helpful - it won't let you specify a port to find a network drive on. And, it won't allow you to bind port 445 - that is already taken by the selfish lanman. So, we'll create our own loopback adapter on which no-one is using port 445, then port-map that to a normal localhost ephemeral port, and then bind that port to our remote server.
 
+> **NOTE:** 2024-October: According to https://techcommunity.microsoft.com/t5/storage-at-microsoft/smb-alternative-ports-now-supported-in-windows-insider/ba-p/3974509, it may now be possible to setup an alternative port for SMB and bind to that port!
+
 * Download the Diode CLI for Windows from [**https://diode.io/download**](https://diode.io/download) - we recommend putting diode.exe in the user's home folder (e.g. C:\\users\\diodeuser\\diode.exe) since that is where the terminal always opens to by default
   * Open a terminal window (cmd.exe) and you can test to see if Diode is working by typing `diode time`
 

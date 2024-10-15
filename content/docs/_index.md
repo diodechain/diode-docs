@@ -10,7 +10,7 @@ Anyone can run a Diode Network node (a Diode Point of Presence) and help expand 
 
 <a href="https://forum.diode.io/t/lite-node-installation/33" target="_blank" rel="noopener">See here for instructions on installing/running a Lite Node the forum</a> - it can take <a href="https://medium.com/@hansrempel_27543/first-deployment-of-a-diode-node-48c8a18f8e2d" target="_blank" rel="noopener">less than two minutes</a> to setup a node and start relaying traffic!
 
-> To use Diode, you can use the [Diode App](https://diode.io/solutions/app) or [CLI](https://diode.io/solutions/cli) off the shelf - you don't need to run your own node. However, if you DO want to run a node in the Diode Network, you've come to the right place!
+> To use Diode, you can use [Diode Collab](https://diode.io/solutions/app) or the [CLI](https://diode.io/solutions/cli) off the shelf - you don't need to run your own node. However, if you DO want to run a node in the Diode Network, you've come to the right place!
 
 {{< youtube id="tVyptO7prf0" autoplay="true" title="Diode Network Nodes" >}}
 

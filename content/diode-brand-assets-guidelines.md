@@ -47,8 +47,6 @@ The <a href="https://diode.io/" target="_blank" rel="noopener">Diode website</a>
 
 [Diode White Coin Logo](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/0v6r94982hc14riu)
 
-[Diode Logo - Large Canvas](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/9jiz37sabkjfes4o/Images/diode_logo%20-%20large%20canvas.png)
-
 [Diode Block Icon](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/ad7l0i97v3nfqc94)
 
 [Diode Monochrome](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/y2meyfgn7p9ngynd)

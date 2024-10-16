@@ -12,7 +12,7 @@ Please see the topics below for common problems and potential solutions:
 
 For a Vault to accept an invite to a Zone, the invitation MUST be sent by the person whose Username was paired with the Vault.
 
-For Vault <a href="https://vaults.docs.diode.io/docs/vault-model-numbers/" target="_blank" rel="noopener"><strong>models 2312-NT and earlier</strong></a>, your Vault has be pre-configured to be paired to your Diode App Username. For these Vaults, please contact Diode Support who may be able to help provide information on the Username that is paired to your Vault.
+For Vault <a href="https://vaults.docs.diode.io/docs/vault-model-numbers/" target="_blank" rel="noopener"><strong>models 2312-NT and earlier</strong></a>, your Vault has be pre-configured to be paired to your Diode Collab Username. For these Vaults, please contact Diode Support who may be able to help provide information on the Username that is paired to your Vault.
 
 ### **Vault not Online**
 

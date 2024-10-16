@@ -14,8 +14,8 @@ draft: false
 
 ### **Branding Guidelines**
 
-* The logo and icon should be displayed in its original colors and proportions with sufficient clear space around it to maintain visibility and impact
-* If the primary logo or icon is not suitable, the monochrome or white version can be used
+* The logo and icon should be displayed in its original colors and proportions with sufficient clear space around it to maintain visibility and impact.
+* If the primary logo or icon is not suitable, the monochrome or white version can be used.
 
 ### **Color Palette**
 

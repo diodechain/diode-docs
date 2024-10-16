@@ -39,20 +39,18 @@ The <a href="https://diode.io/" target="_blank" rel="noopener">Diode website</a>
 
 ### **Logo**
 
-[Diode Logo](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/9jiz37sabkjfes4o/Images/diode_logo.png)
+[Diode Orange Logo](%20https://share.diode.link/drive-5u9exorgihe2vu74fpkc/stztse75kdy8arrs)
 
-[Diode White Logo](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/9jiz37sabkjfes4o/Images/diode_logo_white.png)
+[Diode White Logo](%20https://share.diode.link/drive-5u9exorgihe2vu74fpkc/t86hduherri9rvkm)
 
-[Diode Vertical Logo](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/9jiz37sabkjfes4o/Images/diode_logo_vertical.png)
+[Diode Orange Coin Logo](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/fnsctz0vdbr42ek9)
+
+[Diode White Coin Logo](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/0v6r94982hc14riu)
 
 [Diode Logo - Large Canvas](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/9jiz37sabkjfes4o/Images/diode_logo%20-%20large%20canvas.png)
 
-[Diode Logo - Monochrome](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/9jiz37sabkjfes4o/Images/diode_logo_monochrome.png)
+[Diode Block Icon](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/ad7l0i97v3nfqc94)
 
-[Diode Block Icon](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/9jiz37sabkjfes4o/Images/diode_icon.png)
-
-[Diode Icon](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/9jiz37sabkjfes4o/Images/diode_icon.png)
-
-[Diode Monochrome Icon](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/9jiz37sabkjfes4o/Images/diode_icon_monochrome.png)
+[Diode Monochrome](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/y2meyfgn7p9ngynd)
 
 &nbsp;

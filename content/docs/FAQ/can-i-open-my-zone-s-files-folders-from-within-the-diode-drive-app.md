@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Can I open my Zone's files/folders from within the Diode Drive app?
-nav_title: How do I open folders from in the Diode App?
+title: Can I open my Zone's files/folders from within Diode Collab?
+nav_title: How do I open folders from in Diode Collab?
 nav_section: FAQ
 weight: 20016
 draft: false

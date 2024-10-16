@@ -20,4 +20,4 @@ The app doesn't store any data on a server and its three main capabilities are:
 2. **Secure file sharing**: The end-to-end encrypted file sharing is like Google Drive meets a secure self-custody bit torrent.
 3. **Tunneled bookmarks**: Web bookmarks use regional-access tunnels or direct-access tunnels.
 
-{{< youtube id="slPeBLKTTEU" autoplay="true" title="Introduction to the Diode App" >}}
+{{< youtube id="slPeBLKTTEU" autoplay="true" title="Introduction to Diode Collab" >}}

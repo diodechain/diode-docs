@@ -18,6 +18,6 @@ For commercial use of the Diode Network, it is important that you have your own 
 
 If you are using the Diode Client and have not explicitly set your Fleet Contract, it will default to using the Diode Developer Fleet Contract. To see what Fleet Contract your Client is using, use: `diode config`or go to the <a href="https://diode.io/prenet/#/" target="_blank" rel="noopener"><strong>Diode Network Explorer</strong></a> and search for your Client address - the account details page will display the Fleet Contract it belongs to.
 
-To create your own Fleet Contract, use the Diode App's Network feature or use the <a href="https://diode.io/prenet/#/fleets" target="_blank" rel="noopener"><strong>Diode Network Explorer Fleets page</strong></a> (must have [**MetaMask installed**](https://network.docs.diode.io/docs/faq/configure-metamask/)).
+To create your own Fleet Contract, use the Diode Collab's Network feature or use the <a href="https://diode.io/prenet/#/fleets" target="_blank" rel="noopener"><strong>Diode Network Explorer Fleets page</strong></a> (must have [**MetaMask installed**](https://network.docs.diode.io/docs/faq/configure-metamask/)).
 
 Once you've created your Fleet Contract, you can <a href="https://network.docs.diode.io/docs/faq/change-my-fleet-perimeter/" target="_blank" rel="noopener"><strong>configure your devices to use it.</strong></a>

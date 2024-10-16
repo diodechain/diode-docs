@@ -10,7 +10,7 @@ Congratulations on your purchase of a <a href="https://diode.io/solutions/vault/
 
 ![](/uploads/image-3.png)
 
-Your Vault is a pre-configured hardware device that can interoperate with one or more <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Diode App Zones</strong></a> to give them more storage capacity, keep them available to all team members, and to provide additional <a href="https://vaults.docs.diode.io/docs/features/vault-advanced-capabilities/" target="_blank" rel="noopener"><strong>advanced capabilitie</strong></a>s.
+Your Vault is a pre-configured hardware device that can interoperate with one or more <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Diode Collab Zones</strong></a> to give them more storage capacity, keep them available to all team members, and to provide additional <a href="https://vaults.docs.diode.io/docs/features/vault-advanced-capabilities/" target="_blank" rel="noopener"><strong>advanced capabilitie</strong></a>s.
 
 This Getting Started Guide will walk you through how to setup your Vault for first-time use.
 
@@ -36,7 +36,7 @@ Unintended power outages can disrupt file storage processes on your Vault and ca
 
 **4\. Add the Vault to a Zone**
 
-Have the person whose Username was paired with the Vault to open the Diode App and navigate to the Zone you want to add the Vault to. Click the "+" next to "Team" to open the Invite Team Member dialog:
+Have the person whose Username was paired with the Vault to open Diode Collab and navigate to the Zone you want to add the Vault to. Click the "+" next to "Team" to open the Invite Team Member dialog:
 
 ![](/uploads/image-5.png)
 

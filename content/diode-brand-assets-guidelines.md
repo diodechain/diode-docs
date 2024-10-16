@@ -39,7 +39,7 @@ The <a href="https://diode.io/" target="_blank" rel="noopener">Diode website</a>
 
 ### **Logo**
 
-[Diode Orange Logo](share.diode.link/drive-5u9exorgihe2vu74fpkc/stztse75kdy8arrs%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20)
+[Diode Orange Logo](%20https://share.diode.link/drive-5u9exorgihe2vu74fpkc/stztse75kdy8arrs%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20)
 
 [Diode White Logo](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/t86hduherri9rvkm/)
 

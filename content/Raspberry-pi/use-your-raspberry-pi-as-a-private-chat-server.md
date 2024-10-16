@@ -16,9 +16,9 @@ Of course, any device (e.g. old phone, old computer, private cloud VM, etc...) c
 
 To setup your Raspberry Pi as a Bot, follow these simple instructions:
 
-1. <a href="https://support.diode.io/article/j8e4a8a59a" target="_blank" rel="noopener"><strong>Install Diode Collab on the Raspberry Pi</strong></a>
-2. <a href="https://support.diode.io/article/jkzakxo7a0" target="_blank" rel="noopener"><strong>Invite your Raspberry Pi to your Zone</strong></a>
-3. <a href="https://support.diode.io/article/smyy5mok1q" target="_blank" rel="noopener"><strong>Change the role of your Raspberry Pi to a Bot</strong></a>
+1. <a href="https://app.docs.diode.io/installation/install-diode-drive-on-linux/" target="_blank" rel="noopener"><strong>Install Diode Collab on the Raspberry Pi</strong></a>
+2. <a href="https://app.docs.diode.io/docs/using/add-a-team-member-or-additional-device/" target="_blank" rel="noopener"><strong>Invite your Raspberry Pi to your Zone</strong></a>
+3. <a href="https://app.docs.diode.io/docs/using/manage-team-member-roles/" target="_blank" rel="noopener"><strong>Change the role of your Raspberry Pi to a Bot</strong></a>
 
 If you use external storage for your Pi, just be sure you buy a fast external drive! The lowest cost ones are sometimes too slow to keep up with a Zone's activities!
 

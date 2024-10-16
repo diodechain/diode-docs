@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Diode App Overview
+title: Diode Collab Overview
 nav_title: Overview
 SEO_options:
   title: Diode App Secure Messenger

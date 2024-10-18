@@ -6,15 +6,15 @@ nav_section: Using
 weight: 204
 draft: false
 ---
-One of the key use-cases for Diode Drive is to share a file or folder without uploading the information to the cloud.
+One of the key use-cases for Diode Collab is to share a file or folder without uploading the information to the cloud.
 
-This is simple to do, and does not require others to install Diode Drive - they download the information via a web browser directly from your computer or one of the other Team Members in your Zone.
+This is simple to do, and does not require others to install Diode Collab - they download the information via a web browser directly from your computer or one of the other Team Members in your Zone.
 
-**1\.** <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Setup Diode Drive</strong></a>
+**1\.** <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Setup Diode Collab</strong></a>
 
-If you have not already setup Diode Drive, follow the instructions in <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>this article</strong></a>.
+If you have not already setup Diode Collab, follow the instructions in <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>this article</strong></a>.
 
-After you've completed those steps, you will have Diode Drive installed on your computer with your first Zone.
+After you've completed those steps, you will have Diode Collab installed on your computer with your first Zone.
 
 **2\. Add files to your Zone**
 
@@ -24,11 +24,11 @@ By default, the Zone folder uses the same name as the Zone ("mynewzonename") and
 
 ![](/uploads/image-53.png)
 
-To see the files, open the Diode Drive application, go to your Zone, and then click the "Open" icon:
+To see the files, open the Diode Collab application, go to your Zone, and then click the "Open" icon:
 
 ![](/uploads/image-54.png)
 
-Or, alternatively, you can open the folder by clicking the Zone name in the Diode Drive menu drop-down
+Or, alternatively, you can open the folder by clicking the Zone name in the Diode Collab menu drop-down
 
 ![](/uploads/image-55.png)
 
@@ -42,15 +42,15 @@ In this example, we will copy an image into the folder that we will share - you 
 
 For steps 3-5, you can either watch this video, or follow the steps below:
 
-{{< vimeo id="562684103" title="How To Share A File Using Diode Drive (Ver. 1.2.1)" >}}
+{{< vimeo id="562684103" title="How To Share A File Using Diode Collab (Ver. 1.2.1)" >}}
 
-[**How To Share A File Using Diode Drive (Ver. 1.2.1)**](https://vimeo.com/562684103) from [**Diode**](https://vimeo.com/diodechain) on [**Vimeo**](https://vimeo.com/).
+[**How To Share A File Using Diode Collab (Ver. 1.2.1)**](https://vimeo.com/562684103) from [**Diode**](https://vimeo.com/diodechain) on [**Vimeo**](https://vimeo.com/).
 
 Here are the final three steps you need to take (as shown in the video):
 
 **3\. Setup the Share**
 
-Back in the Diode Drive application, you'll now see that the "good-dog.jpg" file is listed on the Files page. First, click on the check box area to select the file and then click the "Share" icon to create a Share.
+Back in the Diode Collab application, you'll now see that the "good-dog.jpg" file is listed on the Files page. First, click on the check box area to select the file and then click the "Share" icon to create a Share.
 
 ![](/uploads/image-58.png)
 
@@ -90,7 +90,7 @@ If you are getting an "Unauthorized" response when going to the share link, it t
 
 <u>Getting-started articles:</u>
 
-* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
+* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Collab</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/linked-devices/" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>

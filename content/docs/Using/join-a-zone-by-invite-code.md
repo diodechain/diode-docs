@@ -10,7 +10,7 @@ This article describes how to join a Zone with an <a href="https://app.docs.diod
 
 You will have received either an Invite Code (a long sequence of characters) or an Invite Code Link. The instructions below show the Invite Code Link, but steps 2 and onward are the same also for the Invite Code.
 
-These instructions assume that you've already <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>setup Diode Drive</strong></a>.
+These instructions assume that you've already <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>setup Diode Collab</strong></a>.
 
 **1\. Open the Invite Code Link and copy the Invite Code**
 
@@ -26,7 +26,7 @@ The long sequence of numbers and letters in bold is the Invite Code. Double clic
 
 **2\. Join the Zone**
 
-Open Diode Drive, click the upper left Diode Drive logo, and go the Zones menu. There, you will see an orange "Join" link - click that.
+Open Diode Collab, click the upper left Diode Collab logo, and go the Zones menu. There, you will see an orange "Join" link - click that.
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/uuj9ac8eqs/1650668344829/image.png)
 
@@ -46,7 +46,7 @@ Click on your new Zone and explore. If there are files in the Zone, and you've e
 
 **<u>Getting-started articles:</u>**
 
-* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
+* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Collab</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/linked-devices/" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>

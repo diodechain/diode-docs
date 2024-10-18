@@ -6,7 +6,7 @@ nav_section: Features
 weight: 203
 draft: false
 ---
-Within every Zone, there is the option to create and name bookmarks that can be linked to various locations (Diode Drive Locations, Web2 Links, Web3 Links, and Web2 Tunneled Links). This allows for quick access to files, documents, folders, etc. without clicking through folders within the Zones to find them each time.
+Within every Zone, there is the option to create and name bookmarks that can be linked to various locations (Diode Collab Locations, Web2 Links, Web3 Links, and Web2 Tunneled Links). This allows for quick access to files, documents, folders, etc. without clicking through folders within the Zones to find them each time.
 
 #### 1\. Create a Bookmark
 
@@ -34,13 +34,13 @@ After the bookmark has been named, a screen will pop up asking for the Type, Loc
 
 ### Types and Location / Path
 
-If you would like to save a bookmark that can take you to either a file within Diode Drive or an outside source, simply change the "Type" dropdown menu to any of the ones listed and select the desired source. Each type may have additional settings, and will use a slightly different Location or Path syntax - so see the instructions for each type to understand those settings.
+If you would like to save a bookmark that can take you to either a file within Diode Collab or an outside source, simply change the "Type" dropdown menu to any of the ones listed and select the desired source. Each type may have additional settings, and will use a slightly different Location or Path syntax - so see the instructions for each type to understand those settings.
 
-#### Type: Diode Drive Location
+#### Type: Diode Collab Location
 
-These bookmarks take the user to a Diode Drive location.
+These bookmarks take the user to a Diode Collab location.
 
-To make a link to a Diode Drive location, click the "Type" dropdown menu and select "Diode Drive Location."
+To make a link to a Diode Collab location, click the "Type" dropdown menu and select "Diode Collab Location."
 
 The "Location" is the path to the file or folder within the Zone. In this example, there is a folder named "Test Folder" at the base of the Zone, which then had a subfolder named "Folder" within it. So, to add a bookmark to "Folder", we typed "Test Folder/Folder".
 

@@ -6,7 +6,7 @@ nav_section: For Your IT Admin
 weight: 306
 draft: false
 ---
-The Diode app will ignore, and will not sync, certain types of files and folders:
+Diode Collab will ignore, and will not sync, certain types of files and folders:
 
 * Any file that:
   * is 8 characters long ending in a tilde and a number. e.g. `MYFILE~1`

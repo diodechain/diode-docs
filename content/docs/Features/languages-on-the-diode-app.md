@@ -1,12 +1,12 @@
 ---
 _schema: default
-title: Languages on The Diode App
+title: Languages in Diode Collab
 nav_title: Languages
 nav_section: Features
 weight: 209
 draft: false
 ---
-If you're wondering how to get different languages on your Diode app, you're in the right place.
+If you're wondering how to get different languages on Diode Collab, you're in the right place.
 
 ### **The Initial Download**
 

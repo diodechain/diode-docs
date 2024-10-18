@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Install Diode Drive on MacOS
+title: Install Diode Collab on MacOS
 nav_title:
 SEO_options:
   title: Diode App Secure Messenger
@@ -14,15 +14,15 @@ draft: false
 
 **1\. Download**
 
-[**Download Diode Drive**](https://diode.io/download#app) for MacOS
+[**Download Diode Collab**](https://diode.io/download#app) for MacOS
 
-**2\. Install and run Diode Drive**
+**2\. Install and run Diode Collab**
 
-Double click the .dmg file and drag the Diode Drive icon into the Applications folder.
+Double click the .dmg file and drag the Diode Collab icon into the Applications folder.
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/rywr2hzmjg/1699908159410/image.png)
 
-Once installed, click "Diode Drive" in the Launcher to run it.
+Once installed, click "Diode Collab" in the Launcher to run it.
 
 If you get the following popup, you'll want to click "OK" and then you'll need to allow running apps from "Identified Developers":
 
@@ -32,7 +32,7 @@ To allow apps from Identified Developers that, go to System Settings and search 
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/rywr2hzmjg/1699908360845/image.png)
 
-Go back to Launcher and click "Diode Drive" again to open the app.
+Go back to Launcher and click "Diode Collab" again to open the app.
 
 Click "Open" when the warning box pops up (informs you that you've downloaded the app from the Internet):
 
@@ -44,17 +44,17 @@ You can watch this walk through video for more details:
 
 **3\. Verify Diode Drive is running**
 
-When Diode Drive starts up, it will load as a small orange icon in the task bar:
+When Diode Collab starts up, it will load as a small orange icon in the task bar:
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/d3eguu0pem/1615794188005/image.png)
 
-It should auto-open a sign up screen - if it does not, clicking the orange Diode Drive icon will drop-down / pop-up menu options. Click "Sign Up" to proceed with <a href="https://support.diode.io/article/gmg93l7u6y" target="_blank" rel="noopener"><strong>creating an account</strong></a>, or "Open" to open the app.
+It should auto-open a sign up screen - if it does not, clicking the orange Diode Collab icon will drop-down / pop-up menu options. Click "Sign Up" to proceed with <a href="https://support.diode.io/article/gmg93l7u6y" target="_blank" rel="noopener"><strong>creating an account</strong></a>, or "Open" to open the app.
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/rywr2hzmjg/1650666373818/image.png)
 
 ---
 
-That’s it! Diode Drive is installed and active on your system.
+That’s it! Diode Collab is installed and active on your system.
 
 **NEXT STEP:** [**Create an Account**](https://app.docs.diode.io/docs/using/getting-started/)
 
@@ -62,7 +62,7 @@ That’s it! Diode Drive is installed and active on your system.
 
 <u>Getting-started articles:</u>
 
-* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
+* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Collab</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/linked-devices/" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>

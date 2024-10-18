@@ -6,19 +6,19 @@ nav_section: Using
 weight: 221
 draft: false
 ---
-A quick and simple way to create a decentralized webpage is to use Diode Drive to publish a simple page to the Internet. Read below for how to do that!
+A quick and simple way to create a decentralized webpage is to use Diode Collab to publish a simple page to the Internet. Read below for how to do that!
 
 If you are instead looking to publish a more detailed/complex website, check out the articles on <a href="https://app.docs.diode.io/raspberry-pi/host-a-public-wordpress-website-on-raspberry-pi/" target="_blank" rel="noopener"><strong>wordpress</strong></a>, <a href="https://app.docs.diode.io/raspberry-pi/host-a-website-with-ghost/" target="_blank" rel="noopener"><strong>ghost</strong></a>, and/or the <a href="https://cli.docs.diode.io/docs/using/publish-static-content/" target="_blank" rel="noopener"><strong>Diode CLI's built-in web server</strong></a>.
 
-1\. Install Diode Drive
+1\. Install Diode Collab
 
-In order to create a simple decentralized webpage, you first have to <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>install Diode Drive</strong></a>.
+In order to create a simple decentralized webpage, you first have to <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>install Diode Collab</strong></a>.
 
-Behind the scenes, Diode Drive creates an encrypted tunnel from your device into the Diode Network that allows you to publish a webpage into the Diode Network, and from there onto the Internet.
+Behind the scenes, Diode Collab creates an encrypted tunnel from your device into the Diode Network that allows you to publish a webpage into the Diode Network, and from there onto the Internet.
 
 2\. Create a webpage folder
 
-After you've installed Diode Drive, you'll have created at least one <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Zone</strong></a>. Using the Zone Selector sidebar, choose the Zone you want to host your webpage in, and go to the Files view. Once in the Files view, click the "+" icon to create a Folder and call the folder "webpage" (you can actually call it whatever you like).
+After you've installed Diode Collab, you'll have created at least one <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Zone</strong></a>. Using the Zone Selector sidebar, choose the Zone you want to host your webpage in, and go to the Files view. Once in the Files view, click the "+" icon to create a Folder and call the folder "webpage" (you can actually call it whatever you like).
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662761042336/image.png)
 
@@ -64,7 +64,7 @@ This will show your webpage - you can copy the link in the browser to give it to
 
 7\. Remove file information from the webpage
 
-Since we want people to view [home.md](http://home.md) as a webpage, the "breadcrumbs" and "Download" and "File Details" information is not desirable. In order to remove those, go to the web link settings by clicking the web link icon to the right of your "webpage" folder in Diode Drive.
+Since we want people to view [home.md](http://home.md) as a webpage, the "breadcrumbs" and "Download" and "File Details" information is not desirable. In order to remove those, go to the web link settings by clicking the web link icon to the right of your "webpage" folder in Diode Collab.
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662762791698/image.png)
 
@@ -78,7 +78,7 @@ Your webpage will now be displayed without the other elements.
 
 8\. Add images
 
-A webpage is pretty boring without pictures! To add a picture, go back to Diode Drive and edit "[home.md](http://home.md)" as you did in Step 5. Once editing, select the Insert Image control in the edit ribbon and choose an image to add to your page and then click "Save".
+A webpage is pretty boring without pictures! To add a picture, go back to Diode Collab and edit "[home.md](http://home.md)" as you did in Step 5. Once editing, select the Insert Image control in the edit ribbon and choose an image to add to your page and then click "Save".
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662763218246/image.png)
 
@@ -86,7 +86,7 @@ The image you added is automatically added to your webpage folder in a folder na
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662763340260/image.png)
 
-Now, both your [home.md](http://home.md) preview in Diode Drive as well as your webpage will show your new image:
+Now, both your [home.md](http://home.md) preview in Diode Collab as well as your webpage will show your new image:
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662763414257/image.png)
 
@@ -108,7 +108,7 @@ This will then show up on your home page as a link that, when clicked, will show
 
 You can also customize the <a href="https://app.docs.diode.io/docs/using/how-to-customize-share-page-information/" target="_blank" rel="noopener"><strong>header and footer of your webpage</strong></a> and provide links to upload folders and <a href="https://app.docs.diode.io/docs/using/share-a-file-or-folder-via-web-browser/" target="_blank" rel="noopener"><strong>other content you've published</strong></a> - all part of a secure and fully decentralized collaboration environment made possible with Diode!
 
-If you have questions or comments, please get in touch via the Diode Drive support channel (install Diode Drive and chat there) or our [**Telegram channel**](https://t.me/diode_chain).
+If you have questions or comments, please get in touch via the Diode Collab support channel (install Diode Collab and chat there) or our [**Telegram channel**](https://t.me/diode_chain).
 
 ---
 

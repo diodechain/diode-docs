@@ -1,18 +1,18 @@
 ---
 _schema: default
-title: Take Secure Notes with Diode Drive
+title: Take Secure Notes with Diode Collab
 nav_title: Secure Notes
 nav_section: Features
 weight: 212
 draft: false
 ---
-One of the use cases for Diode Drive is <a href="https://diode.io/diode%20drive/secure-evernote-alternative-22171/" target="_blank" rel="noopener"><strong>taking secure notes</strong></a>.
+One of the use cases for Diode Collab is <a href="https://diode.io/diode%20drive/secure-evernote-alternative-22171/" target="_blank" rel="noopener"><strong>taking secure notes</strong></a>.
 
-Since Diode Drive already has an [**end-to-end encrypted synchronization mechanism**](https://cli.docs.diode.io/docs/faq/are-my-communications-via-the-diode-network-encrypted/) and [**applications for all the major platforms**](https://diode.io/download), we decided to add a <a href="https://app.docs.diode.io/docs/using/file-editors/" target="_blank" rel="noopener"><strong>note editor in June of 2022</strong></a> to allow people and teams to keep secure notes synchronized across all their devices.
+Since Diode Collab already has an [**end-to-end encrypted synchronization mechanism**](https://cli.docs.diode.io/docs/faq/are-my-communications-via-the-diode-network-encrypted/) and [**applications for all the major platforms**](https://diode.io/download), we decided to add a <a href="https://app.docs.diode.io/docs/using/file-editors/" target="_blank" rel="noopener"><strong>note editor in June of 2022</strong></a> to allow people and teams to keep secure notes synchronized across all their devices.
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/nwoi0x3d67/1655929653762/secure-note-taking-made-easy.gif)
 
-Read below for how to use Diode Drive to keep secure notes!
+Read below for how to use Diode Collab to keep secure notes!
 
 ### **Secure Note Taking Steps**
 

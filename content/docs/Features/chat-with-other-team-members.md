@@ -6,15 +6,15 @@ nav_section: Features
 weight: 211
 draft: false
 ---
-Diode Drive is collaborative software, so communication with other Team Members is important. That's why Diode Drive comes with its own chat function where you can chat with other Team Members in your shared Zone.
+Diode Collab is collaborative software, so communication with other Team Members is important. That's why Diode Collab comes with its own chat function where you can chat with other Team Members in your shared Zone.
 
-Diode Drive's chat is fully end-to-end encrypted and no messages or content is stored anywhere in the cloud.
+Diode Collab's chat is fully end-to-end encrypted and no messages or content is stored anywhere in the cloud.
 
-Check out the video below, or continue reading the article, to learn more about Diode Drive's chat functionality:
+Check out the video below, or continue reading the article, to learn more about Diode Collab's chat functionality:
 
-{{< vimeo id="563981211" title="How To Use Diode Drive’s Chat Function" >}}
+{{< vimeo id="563981211" title="How To Use Diode Collab's Chat Function" >}}
 
-[**How To Use Diode Drive's Chat Function (Ver. 1.2.1)**](https://vimeo.com/562684103) from [**Diode**](https://vimeo.com/diodechain) on [**Vimeo**](https://vimeo.com/).
+[**How To Use Diode Collab's Chat Function (Ver. 1.2.1)**](https://vimeo.com/562684103) from [**Diode**](https://vimeo.com/diodechain) on [**Vimeo**](https://vimeo.com/).
 
 **Chat message annotation**
 
@@ -36,11 +36,11 @@ When you send a message, your sent message will have either a grey check mark, a
 
 **How to start chatting**
 
-1\. <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener">Setup Diode Drive on your main computer</a>
+1\. <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener">Setup Diode Collab on your main computer</a>
 
-If you have not already setup Diode Drive, follow the instructions in <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>this article</strong></a>.
+If you have not already setup Diode Collab, follow the instructions in <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>this article</strong></a>.
 
-After you've completed those steps, you will have Diode Drive installed on your computer with your first Zone.
+After you've completed those steps, you will have Diode Collab installed on your computer with your first Zone.
 
 2\. [Invite another Team Member to a Zone](https://app.docs.diode.io/docs/using/add-a-team-member-or-additional-device/)
 

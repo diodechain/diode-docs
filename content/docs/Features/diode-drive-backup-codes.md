@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Diode Drive Backup Codes
+title: Diode Collab Backup Codes
 nav_title: Backup Codes
 nav_section: Features
 weight: 205

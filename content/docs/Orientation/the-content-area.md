@@ -6,7 +6,7 @@ nav_section: Orientation
 weight: 100
 draft: false
 ---
-The Diode Drive content area shows the content for the files, chat, settings, and other information you may be interacting with.
+The Diode Collab content area shows the content for the files, chat, settings, and other information you may be interacting with.
 
 ![](/uploads/image-9.png)
 

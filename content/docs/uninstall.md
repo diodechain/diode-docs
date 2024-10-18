@@ -10,12 +10,12 @@ To fully uninstall Diode, follow the instructions below corresponding to your op
 
 ### **Windows**
 
-1. Remove the Diode App
-   * Click "Uninstall" from the Diode Drive start menu program group
+1. Remove Diode Collab
+   * Click "Uninstall" from the Diode Collab start menu program group
 
      OR
 
-   * open an explorer window (Win-E) and go to C:\\Program Files\\Diode Drive\\ and run the "Uninstall.exe" from the Diode Drive folder.
+   * open an explorer window (Win-E) and go to C:\\Program Files\\Diode Drive\\ and run the "Uninstall.exe" from the Diode Collab folder.
 2. Remove your Diode Profile
 
    > **WARNING:** If you have not created a backup of your account, you will lose your username forever

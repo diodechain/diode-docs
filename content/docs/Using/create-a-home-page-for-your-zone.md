@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: Create a home page (About page) for Your Zone
-nav_title: Create a home page
+nav_title: Create a Home Page
 nav_section: Using
 weight: 207
 draft: false
@@ -20,7 +20,7 @@ Every Zone has an About page created by default.  If you are the Zone's owner or
 
 After you start editing, you can remove, modify, or add content and then save the file.
 
-For tips on how to add graphics, links, and other formatting to your About page, see [**Diode Drive Markdown Editing Basics**](https://app.docs.diode.io/docs/features/markdown-editing-basics/).
+For tips on how to add graphics, links, and other formatting to your About page, see [**Diode Collab Markdown Editing Basics**](https://app.docs.diode.io/docs/features/markdown-editing-basics/).
 
 ### **Turning a** About **Page on or off**
 

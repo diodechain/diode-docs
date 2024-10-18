@@ -6,7 +6,7 @@ nav_section: Troubleshooting
 weight: 10003
 draft: false
 ---
-As of July 2023, there is a bug with the Diode App in which images cannot be added to markdown files if the file has a parentheses character, either `(` or `)` , in its file name or in its file path.
+As of July 2023, there is a bug with Diode Collab in which images cannot be added to markdown files if the file has a parentheses character, either `(` or `)` , in its file name or in its file path.
 
 If the filename or the file path (e.g. Zone directory or subdirectory within the Zone) has a parentheses, images cannot be added to the markdown file.
 

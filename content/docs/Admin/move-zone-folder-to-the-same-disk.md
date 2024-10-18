@@ -16,7 +16,7 @@ You can specify a different location either when first adding a Zone, or you can
 
 **1\. Navigate to Zone Settings within a Zone**
 
-After opening Diode Drive and selecting a zone with that already contains a folder, select the zone settings icon in the upper right side of the page, as seen below.
+After opening Diode Collab and selecting a zone with that already contains a folder, select the zone settings icon in the upper right side of the page, as seen below.
 
 ![](/uploads/image-39.png)
 

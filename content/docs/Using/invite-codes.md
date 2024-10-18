@@ -12,11 +12,11 @@ If the Zone has the right <a href="https://app.docs.diode.io/docs/features/prici
 
 Be aware that anyone can join your Zone with an Invite Code. Therefore, if you'd like to limit membership, you should always disable the Invite Code once your intended invitees have signed up.
 
-These instructions assume that you've already <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>setup Diode Drive</strong></a> and have <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>created a Zone</strong></a> that you want to invite others to collaborate on.
+These instructions assume that you've already <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>setup Diode Collab</strong></a>and have <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>created a Zone</strong></a> that you want to invite others to collaborate on.
 
 **1\. Enable an Invite Code**
 
-Open Diode Drive, go to your Zone's Settings tab, and click the "Invite Code" setting.
+Open Diode Collab, go to your Zone's Settings tab, and click the "Invite Code" setting.
 
 ![](/uploads/image-93.png)
 
@@ -32,9 +32,9 @@ You can send the Invite Code Link you copied in the previous step to others (e.g
 
 ![](/uploads/image-95.png)
 
-If they haven't installed Diode Drive yet, they should first click the "Free Download" to <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>install it</strong></a>, but for their own device.
+If they haven't installed Diode Collab yet, they should first click the "Free Download" to <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>install it</strong></a>, but for their own device.
 
-Once they have installed Diode Drive, they can follow the steps in the animated GIF shown on the Invite Code Link. These steps are also described in <a href="https://app.docs.diode.io/docs/using/join-a-zone-by-invite-code/" target="_blank" rel="noopener"><strong>this article</strong></a>.
+Once they have installed Diode Collab, they can follow the steps in the animated GIF shown on the Invite Code Link. These steps are also described in <a href="https://app.docs.diode.io/docs/using/join-a-zone-by-invite-code/" target="_blank" rel="noopener"><strong>this article</strong></a>.
 
 ---
 

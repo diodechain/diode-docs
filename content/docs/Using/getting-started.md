@@ -6,9 +6,9 @@ nav_section: Using
 weight: 202
 draft: false
 ---
-You need to create an Account to start using Diode Drive so that you can collaborate with others securely.
+You need to create an Account to start using Diode Collab so that you can collaborate with others securely.
 
-An Account is simply an alias to the public address of the Diode Drive installation you are running - it is a pseudo-anonymous name, like an email address, that the application only uses for authentication.
+An Account is simply an alias to the public address of the Diode Collab installation you are running - it is a pseudo-anonymous name, like an email address, that the application only uses for authentication.
 
 Follow the three steps below to create your Account.
 
@@ -16,11 +16,11 @@ Follow the three steps below to create your Account.
 
 **1\. Click Sign Up**
 
-Locate the Diode Drive icon in your task bar. On MacOS it will look something like this:
+Locate the Diode Collab icon in your task bar. On MacOS it will look something like this:
 
 ![](/uploads/image-8.png)
 
-Click the orange Diode Drive icon, and then click Sign up
+Click the orange Diode Collab icon, and then click Sign up
 
 ![](/uploads/image-33.png)
 
@@ -46,7 +46,7 @@ You will need to wait for up to a minute for your new name to register, after wh
 
 It is very important to create a copy of your <a href="https://app.docs.diode.io/docs/navigating/diode-drive-backup-codes/" target="_blank" rel="noopener"><strong>backup code</strong></a> . If you lose access to your device for any reason, you can restore your Account on another device if you have your backup code.
 
-To print your backup code, click the Diode Drive icon in the upper left.
+To print your backup code, click the Diode Collab icon in the upper left.
 
 ![](/uploads/image-36.png)
 
@@ -58,7 +58,7 @@ This will show the Global Menu - click the "Settings" menu item. In the Settings
 
 <u>Getting-started articles:</u>
 
-* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
+* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Collab</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/linked-devices/" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>

@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Install Diode Drive on Windows
+title: Install Diode Collab on Windows
 nav_title:
 SEO_options:
   title: Diode App Secure Messenger
@@ -14,7 +14,7 @@ Follow the three steps below to get up and running on Windows.
 
 **1\. Download**
 
-[**Download Diode Drive**](https://diode.io/resources/download) for Windows.
+[**Download Diode Collab**](https://diode.io/resources/download) for Windows.
 
 Some browsers (e.g. Edge) will warn you that the file may be dangerous because it is a ".exe" file - click "See more":
 
@@ -24,9 +24,9 @@ And then click the file again and then click the three dots and then click "Keep
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/fl06iuxxe4/1699907559138/image.png)
 
-**2\. Install and run Diode Drive**
+**2\. Install and run Diode Collab**
 
-If the installation hasn't been launched, locate the downloaded installer file in your Downloads directory and double click it to launch the instaler.
+If the installation hasn't been launched, locate the downloaded installer file in your Downloads directory and double click it to launch the installer.
 
 On some Windows configuration, you will be warned about Windows Defender protecting your PC:
 
@@ -46,31 +46,31 @@ And then follow the installation process to the end by clicking "Next" etc...:
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/fl06iuxxe4/1699907371914/image.png)
 
-Once installed, double click "Diode Drive" in the start menu to run it.
+Once installed, double click "Diode Collab" in the start menu to run it.
 
 Some systems may show a firewall warning. If so, click "Allow access".
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/pdmdxj1qd6/1699979884252/image.png)
 
-**NOTE:** You must have Microsoft Edge installed because the Diode Drive application UI requires "Webview"
+**NOTE:** You must have Microsoft Edge installed because the Diode Collab application UI requires "Webview"
 
 **3\. Verify Diode Drive is running**
 
-When Diode Drive starts up, it will load as a small orange icon in the task bar:
+When Diode Collab starts up, it will load as a small orange icon in the task bar:
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/fl06iuxxe4/1699907821389/image.png)
 
 ---
 
-When Diode Drive starts on Windows, the little orange Diode Drive icon will sometimes load in a group in the task bar. To see the icon, you have to click on the up arrow ( ^ ) in the task bar to see the hidden icon group. You can drag the Diode Drive icon out of the group into the base task bar to keep it from loading there in the future.
+When Diode Collab starts on Windows, the little orange Diode Collab icon will sometimes load in a group in the task bar. To see the icon, you have to click on the up arrow ( ^ ) in the task bar to see the hidden icon group. You can drag the Diode Collab icon out of the group into the base task bar to keep it from loading there in the future.
 
-Clicking the orange Diode Drive icon will drop-down / pop-up menu options. Click "Open" to open the app.
+Clicking the orange Diode Collab icon will drop-down / pop-up menu options. Click "Open" to open the app.
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/pdmdxj1qd6/1709654365259/image.png)
 
 ---
 
-That's it! Diode Drive is installed and active on your system.
+That's it! Diode Collab is installed and active on your system.
 
 **NEXT STEP:** [**Create an Account**](https://app.docs.diode.io/docs/using/getting-started/)
 
@@ -78,7 +78,7 @@ That's it! Diode Drive is installed and active on your system.
 
 <u>Getting-started articles:</u>
 
-* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
+* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Collab</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/linked-devices/" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>

@@ -6,15 +6,15 @@ nav_section: Using
 weight: 203
 draft: false
 ---
-This article describes how to add a new Zone to your Diode Drive.
+This article describes how to add a new Zone to your Diode Collab.
 
 A Zone is a collection of Team Members and files/folders. Team members can collaborate real-time on the files in the Zone and can interact with each other via chat.
 
-These instructions assume that you've already <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>installed Diode Drive</strong></a>. Follow the steps below to create a Zone.
+These instructions assume that you've already <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>installed Diode Collab</strong></a>. Follow the steps below to create a Zone.
 
-**1\. Open Diode Drive**
+**1\. Open Diode Collab**
 
-To add a Zone, go ahead and first open Diode Drive. You can do that by clicking the task bar icon and clicking "Open".
+To add a Zone, go ahead and first open Diode Collab. You can do that by clicking the task bar icon and clicking "Open".
 
 ![](/uploads/image-47.png)
 
@@ -34,7 +34,7 @@ A good Zone name is one that is descriptive about either the organization you ar
 
 **4\. Explore!**
 
-That's it! Diode Drive will now show your new Zone in the Zone Selector Bar.
+That's it! Diode Collab will now show your new Zone in the Zone Selector Bar.
 
 ![](/uploads/image-50.png)
 
@@ -44,7 +44,7 @@ You can go to the Settings tab to customize the Zone, or just start adding files
 
 **<u>Getting-started articles:</u>**
 
-* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
+* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Collab</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/linked-devices/" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>

@@ -8,14 +8,14 @@ draft: false
 ---
 A common IT, OT, and IoT need is for team members to securely access a remote dashboard for a piece of equipment (machine or server).
 
-In the Diode App, Team Members can access a remote dashboard using a Bookmark. A Team Member's self-custody identity, or just their membership in the Zone, gives them end-to-end encrypted access to the dashboard.
+In Diode Collab, Team Members can access a remote dashboard using a Bookmark. A Team Member's self-custody identity, or just their membership in the Zone, gives them end-to-end encrypted access to the dashboard.
 
 This guide walks through an example of setting up Bookmark to launch a secure remote dashboard. It uses the following hardware and software:
 
 * **Device:** Raspberry Pi 4 (Using Raspbian 32 bit Bullseye)
 * **Dashboard:** <a href="https://cockpit-project.org/" target="_blank" rel="noopener"><strong>Cockpit</strong></a>
 * **Diode CLI:** v0.13.5
-* **Diode APP:** v1.9.4
+* **Diode Collab:** v1.9.4
 
 NOTE: If you have equipment that already has a dashboard available on its Local Area Network, you can use the $99 <a href="https://diode.io/solutions/vault" target="_blank" rel="noopener"><strong>Vault Mini</strong></a> as a gateway to establish a P2P/E2EE link to the dashboard (instead running the Diode CLI on the equipment itself).
 
@@ -51,9 +51,9 @@ Let's assume you've been able to get your Raspberry Pi up and running and connec
     * Don't forget to change the `pi` to your Raspberry Pi's actual username, if you used a different username
 * We will circle back to this step later on to make this a private linkage, instead of a public linkage (see Setup Restricted Access below)
 
-### **App Setup**
+### **Collab Setup**
 
-Let's assume you are already running the <a href="https://diode.io/download#app" target="_blank" rel="noopener"><strong>Diode App</strong></a> and <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>have a Zone</strong></a> that you own and can configure. Additionally, we will use the Brave Browser to load the tunneled dashboard - you'll need to be on a desktop/laptop system and <a href="https://brave.com/" target="_blank" rel="noopener"><strong>install Brave</strong></a> (see <a href="https://app.docs.diode.io/docs/faq/why-does-the-diode-app-use-the-brave-browser-for-some-bookmarks/" target="_blank" rel="noopener"><strong>here for an FAQ</strong></a> on why we are using Brave).
+Let's assume you are already running the <a href="https://diode.io/download#app" target="_blank" rel="noopener"><strong>Diode Collab</strong></a> and <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>have a Zone</strong></a> that you own and can configure. Additionally, we will use the Brave Browser to load the tunneled dashboard - you'll need to be on a desktop/laptop system and <a href="https://brave.com/" target="_blank" rel="noopener"><strong>install Brave</strong></a> (see <a href="https://app.docs.diode.io/docs/faq/why-does-the-diode-app-use-the-brave-browser-for-some-bookmarks/" target="_blank" rel="noopener"><strong>here for an FAQ</strong></a> on why we are using Brave).
 
 **1\.** <a href="https://app.docs.diode.io/docs/features/diode-bookmarks/" target="_blank" rel="noopener"><strong>Make a Web3 Link Bookmark to your Client Address</strong></a>
 
@@ -78,8 +78,8 @@ For this step, you'll need to modify the Device settings to restrict access to o
 
 1\. Find your App's Device ID
 
-* Every endpoint in the Diode environment has a unique identifier/address called a "Client address" or a "Device ID" - you found the Client address for your dashboard device in Step 2 of Device Setup above. Now we need to find the same identifier for your desktop/laptop device you are running the App on.
-* In the Diode App, click the profile picture/circle in the upper right corner and select "About"
+* Every endpoint in the Diode environment has a unique identifier/address called a "Client address" or a "Device ID" - you found the Client address for your dashboard device in Step 2 of Device Setup above. Now we need to find the same identifier for your desktop/laptop device you are running Collab on.
+* In Diode Collab, click the profile picture/circle in the upper right corner and select "About"
 * In the About page, find the Device ID listed under the word "Device:"
   * For this example, we'll pretend your App's Device ID is 0xebf25e5b07abd13606a7e49be693b0031d83f2b5
 
@@ -98,7 +98,7 @@ For this step, you'll need to modify the Device settings to restrict access to o
 
 3\. Try it!
 
-* In your App, click the bookmark - the Brave Browser should launch and the login to your Cockpit dashboard should be displayed!
+* In Collab, click the bookmark - the Brave Browser should launch and the login to your Cockpit dashboard should be displayed!
 * Invite another user / device to your Zone (or setup a second profile) to verify they cannot access the dashboard - their App's Device ID will be different and will be blocked
   * Have the other user try to load the dashboard by clicking on the bookmark. They will get a screen that looks like below (the network automatically blocks access from the device to anyone NOT in the allow list):
 
@@ -107,7 +107,7 @@ For this step, you'll need to modify the Device settings to restrict access to o
 4\. Explore more!
 
 * If you'd like your whole Zone to have access to the dashboard, or a sub-group from within the Zone, you can use private publishing via domain. Instead of specifying a Device ID / Client address in the private list, you instead specify a group that has been <a href="https://network.docs.diode.io/docs/features/what-is-bns/" target="_blank" rel="noopener"><strong>registered as a BNS name</strong></a>.
-* A BNS name (aka "Domain") can be associated with as many Device IDs as you like. The Diode App's Network area provides an easy way to create and configure a Domain.
+* A BNS name (aka "Domain") can be associated with as many Device IDs as you like. Diode Collab's Network area provides an easy way to create and configure a Domain.
 * The diode.service line could be modified to be, for example:
   * `ExecStart=/home/pi/opt/diode/diode publish -public 22:22 -private 9090:80,pi-authorization-01`
   * Where "pi-authorization-01" is a Domain that has an number of Device IDs associated with it

@@ -6,17 +6,17 @@ nav_section: Using
 weight: 205
 draft: false
 ---
-Diode Drive can be used to keep an offsite backup of your files up to date at all times, no matter where you are in the world, without storing your files in the cloud. If anything should happen to your device, your files will be safe.
+Diode Collab can be used to keep an offsite backup of your files up to date at all times, no matter where you are in the world, without storing your files in the cloud. If anything should happen to your device, your files will be safe.
 
 The way this works is by adding a second device to your Zone - the second device keeps a mirror of all the files stored in your Zone.
 
-These instructions assume that you've already <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>setup Diode Drive</strong></a> on your main system, and have already <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>created a Zone</strong></a> that you want to back up.
+These instructions assume that you've already <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>setup Diode Collab</strong></a>on your main system, and have already <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>created a Zone</strong></a> that you want to back up.
 
-**1\. Setup Diode Drive on a backup device**
+**1\. Setup Diode Collab on a backup device**
 
 In this example, we'll add a Raspberry Pi device to our Zone to act as an always-on, anywhere, 256bit E2E encrypted, backup system. Instead of a Raspberry Pi, you could use another computer, a server, or even an old cell phone (assuming OS is sufficiently current).
 
-<a href="https://app.docs.diode.io/raspberry-pi/use-your-raspberry-pi-as-a-remote-file-server-backup-device/" target="_blank" rel="noopener"><strong>Setup your Raspberry Pi</strong></a>, plug in a large USB drive/thumb drive to use as the storage device, and <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>install / start Diode Drive on the device</strong></a>.
+<a href="https://app.docs.diode.io/raspberry-pi/use-your-raspberry-pi-as-a-remote-file-server-backup-device/" target="_blank" rel="noopener"><strong>Setup your Raspberry Pi</strong></a>, plug in a large USB drive/thumb drive to use as the storage device, and <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>install / start Diode Collab on the device</strong></a>.
 
 In the global settings area, set the "Default Location for New Zones" to be the large USB drive you plugged in.
 
@@ -54,7 +54,7 @@ When your main system is offline, the device will synchronize updates from other
 
 <u>Getting-started articles:</u>
 
-* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
+* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Collab</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/linked-devices/" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>

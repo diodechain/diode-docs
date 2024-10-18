@@ -8,11 +8,11 @@ draft: false
 ---
 ### **Enabling the Diode API**
 
-This API runs on every Diode app instance, and is disabled by default.
+This API runs on every Diode Collab instance, and is disabled by default.
 
 The API is device-wide. To enable the API on your device:
 
-1\. Open the Diode app (version 1.10.7 or later)
+1\. Open Diode Collab (version 1.10.7 or later)
 
 2\. Navigate to any Zone and any Channel, it doesn't matter which Channel
 
@@ -42,7 +42,7 @@ There are two ways to reach the API endpoint:
 * Via the Diode Web2 Gateway (most convenient, use anywhere):<br>`https://<device_address>.diode.link/api/json_rpc`
 * Direct via Web3 (most secure, requires web3 pipe between caller and device where the API is enabled):<br>`http://<device_address>.diode/api/json_rpc`
 
-The "device\_address" can be found on the "About" page in Diode Drive, or by sending the `/info` chat command to any Channel.
+The "device\_address" can be found on the "About" page in Diode Collab, or by sending the `/info` chat command to any Channel.
 
 #### **Headers:**
 
@@ -75,7 +75,7 @@ Here is an <a href="https://app.docs.diode.io/pythonscript/diode-websocket-api-p
 
 ### **API Methods**
 
-Some of these methods required "zone\_id" and "channel\_id" parameters. To obtain these values, navigate to the target Channel in the Diode App and send the `/info` chat command to that Channel. The "zone\_id" and "channel\_id" will be printed out, amongst other helpful information. Passing a <a href="https://network.docs.diode.io/docs/faq/what-is-bns/" target="_blank" rel="noopener"><strong>bns name</strong></a> (such as a Diode username) as the "channel\_id" is also valid.
+Some of these methods required "zone\_id" and "channel\_id" parameters. To obtain these values, navigate to the target Channel in Diode Collab and send the `/info` chat command to that Channel. The "zone\_id" and "channel\_id" will be printed out, amongst other helpful information. Passing a <a href="https://network.docs.diode.io/docs/faq/what-is-bns/" target="_blank" rel="noopener"><strong>bns name</strong></a> (such as a Diode username) as the "channel\_id" is also valid.
 
 #### **"ping"**
 

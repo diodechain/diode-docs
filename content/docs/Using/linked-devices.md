@@ -6,9 +6,9 @@ nav_section: Using
 weight: 211
 draft: false
 ---
-When you sign up for Diode Drive, you create an Account Name. The Account Name is globally unique and can be used by others to invite you to collaborate in a Zone or to start a chat with you (if you have a shared Zone).
+When you sign up for Diode Collab, you create an Account Name. The Account Name is globally unique and can be used by others to invite you to collaborate in a Zone or to start a chat with you (if you have a shared Zone).
 
-As of Diode Drive 1.4.0 (January 2022), your Account can be used on multiple devices (e.g. phone and computer). Devices that you use for your Account are called "Linked Devices."
+As of Diode Collab 1.4.0 (January 2022), your Account can be used on multiple devices (e.g. phone and computer). Devices that you use for your Account are called "Linked Devices."
 
 **How To Add and Manage:**
 
@@ -18,7 +18,7 @@ To add and manage Linked Devices for your Account, go to your Profile from the d
 
 <u>Add Device</u>
 
-To add a device, download the Diode app on the new device, provide your username, and select "log in." On your original device, click the plus icon in your "Linked Devices" settings and use the code provided for your new device. Wait until your original device has you click "confirm," and then allow the new device to sync your existing Zones, chats, etc..
+To add a device, download Diode Collab on the new device, provide your username, and select "log in." On your original device, click the plus icon in your "Linked Devices" settings and use the code provided for your new device. Wait until your original device has you click "confirm," and then allow the new device to sync your existing Zones, chats, etc..
 
 <u>Delete Device</u>
 
@@ -45,7 +45,7 @@ Each Linked Device has some device-specific settings:
 
 **<u>Getting-started articles:</u>**
 
-* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
+* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Collab</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/linked-devices/" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>

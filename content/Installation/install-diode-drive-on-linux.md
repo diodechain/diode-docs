@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Install Diode Drive on Linux
+title: Install Diode Collab on Linux
 nav_title:
 SEO_options:
   title: Diode App Secure Messenger
@@ -14,9 +14,9 @@ Follow the three steps below to get up and running on Linux (Raspberry Pi/ARM sh
 
 **1\. Download**
 
-[**Download Diode Drive**](https://diode.io/download/) for Linux - pay attention to the Linux variant (x86, ARM, 32/64 bit) to ensure you download the right one for your system.
+[**Download Diode Collab**](https://diode.io/download/)for Linux - pay attention to the Linux variant (x86, ARM, 32/64 bit) to ensure you download the right one for your system.
 
-**2\. Install and run Diode Drive**
+**2\. Install and run Diode Collab**
 
 Set the File Permissions for the downloaded .run file to include "Execute".
 
@@ -38,21 +38,21 @@ If your installation is not automatically synchronizing file changes, install th
 
 If the user interface doesn't load, try installing the topicons extension from <a href="https://extensions.gnome.org/extension/495/topicons/" target="_blank" rel="noopener"><strong>https://extensions.gnome.org/extension/495/topicons/</strong></a>
 
-Recent (as of June 2021) Raspberry Pi Linux OS (Raspbian) no longer packages <a href="https://packages.debian.org/search?keywords=libglu1-mesa" target="_blank" rel="noopener"><strong>an OpenGL driver</strong></a> required by Diode Drive. If Diode Drive does not start on your Raspberry Pi, install the drive from a terminal window: `sudo apt install libglu1-mesa`
+Recent (as of June 2021) Raspberry Pi Linux OS (Raspbian) no longer packages <a href="https://packages.debian.org/search?keywords=libglu1-mesa" target="_blank" rel="noopener"><strong>an OpenGL driver</strong></a> required by Diode Collab. If Diode Collab does not start on your Raspberry Pi, install the drive from a terminal window: `sudo apt install libglu1-mesa`
 
-**3\. Verify Diode Drive is running**
+**3\. Verify Diode Collab is running**
 
-When Diode Drive starts up, it will load as a small orange icon in the task bar:
+When Diode Collab starts up, it will load as a small orange icon in the task bar:
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/d3eguu0pem/1615794188005/image.png)
 
-Clicking the orange Diode Drive icon will drop-down / pop-up menu options. Click "Open" to open the app.
+Clicking the orange Diode Collab icon will drop-down / pop-up menu options. Click "Open" to open the app.
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/rywr2hzmjg/1650666373818/image.png)
 
 ---
 
-That's it! Diode Drive is installed and active on your system.
+That's it! Diode Collab is installed and active on your system.
 
 **NEXT STEP:** [**Create an Account**](https://app.docs.diode.io/docs/using/getting-started/)
 
@@ -60,7 +60,7 @@ That's it! Diode Drive is installed and active on your system.
 
 <u>Getting-started articles:</u>
 
-* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Drive</strong></a>
+* <a href="https://app.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install Diode Collab</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/getting-started/" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
 * <a href="https://app.docs.diode.io/docs/using/linked-devices/" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>

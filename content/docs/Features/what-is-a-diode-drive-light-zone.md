@@ -1,12 +1,12 @@
 ---
 _schema: default
-title: Diode Drive Light Zone
+title: Diode Collab Light Zone
 nav_title: Light Zone
 nav_section: Features
 weight: 207
 draft: false
 ---
-A Diode Drive "Light Zone" is a term used when you set the Zone's "File Syncing" option to "Disabled" in Diode Drive.
+A Diode Collab "Light Zone" is a term used when you set the Zone's "File Syncing" option to "Disabled" in Diode Collab.
 
 To disable "File Syncing," go to the Zone Settings in the desired Zone, scroll down to "Local Settings," and click on the "File Syncing" section. From there, you can toggle the syncing setting for your Zone between "Enabled" and "Disabled." In this case, you want your syncing "Disabled."
 

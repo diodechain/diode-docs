@@ -39,4 +39,4 @@ On mobile, the Quick Access bar is frustratingly only accessible by clicking fou
 3. Open the Zone Selector AGAIN
 4. Click the Zone icon in the Zone Selector bar AGAIN to pop open the Quick Access bar for the Zone
 
-This will be fixed in an upcoming release of Diode Drive for Android / iOS
+This will be fixed in an upcoming release of Diode Collab for Android / iOS

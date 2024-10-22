@@ -6,4 +6,4 @@ nav_section: Contribute
 weight: 203
 draft: false
 ---
-Join our [Telegram channel](https://t.me/diode_chain) to keep up to date with Diode!
+Join our [Discord channel](https://discord.gg/qdGCAKJdHs) to keep up to date with Diode!

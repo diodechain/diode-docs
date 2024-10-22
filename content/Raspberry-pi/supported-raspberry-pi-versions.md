@@ -16,7 +16,7 @@ draft: false
 
 &nbsp;
 
-**Support for the** <a href="https://diode.io/solutions/app/" target="_blank" rel="noopener"><strong>App</strong></a>**\:**
+**Support for**  <a href="https://diode.io/solutions/app/" target="_blank" rel="noopener"><strong>Collab</strong></a>**\:**
 
 * Bullseye 32 bit / 64 bit
 * Bookworm not yet supported

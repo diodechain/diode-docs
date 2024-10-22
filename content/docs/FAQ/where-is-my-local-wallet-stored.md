@@ -20,7 +20,7 @@ Note that interactions with the <a href="https://diode.io/prenet/#/" target="_bl
 
 You can <a href="https://cli.docs.diode.io/docs/faq/how-do-i-use-a-different-wallet-for-the-diode-cli/" target="_blank" rel="noopener"><strong>specify a custom location for your wallet</strong></a> with the -dbpath argument.
 
-### **Diode Collab Diode Drive)**
+### **Diode Collab**
 
 **Linux** - /home/&lt;yourname&gt;/.config/ddrive/ddrive.sq3
 

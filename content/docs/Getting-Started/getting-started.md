@@ -6,7 +6,7 @@ nav_section: Using the App
 weight: 100
 draft: true
 ---
-The Diode application (aka Diode Drive) is a new take on messaging, file sharing, and secure web access. It combines all of the security and privacy of a local network, with the convenience of everywhere access for remote teams. It is a privacy-focused alternative to Slack, Discord, and Dropbox - and one that can replace your VPN!
+Diode Collab is a new take on messaging, file sharing, and secure web access. It combines all of the security and privacy of a local network, with the convenience of everywhere access for remote teams. It is a privacy-focused alternative to Slack, Discord, and Dropbox - and one that can replace your VPN!
 
 Unlike other communication platforms, there are no centralized servers in the middle - neither Diode nor any third party has access to your data or configurations. This ensures total privacy, enables compliance with regional/regulated requirements, and reduces the potential for attack on your information.
 
@@ -21,7 +21,7 @@ Please send feedback via email to support@diode.io or via our [**telegram channe
 
 <u>Getting-started articles:</u>
 
-* <a href="https://support.diode.io/article/d3eguu0pem" target="_blank" rel="noopener"><strong>Install the App</strong></a>
+* <a href="https://support.diode.io/article/d3eguu0pem" target="_blank" rel="noopener"><strong>Install Collab</strong></a>
 * <a href="https://support.diode.io/article/gmg93l7u6y" target="_blank" rel="noopener"><strong>Create an Account</strong></a>
 * <a href="https://support.diode.io/article/k1diuzadd8" target="_blank" rel="noopener"><strong>Create a Zone</strong></a>
 * <a href="https://support.diode.io/article/g3d42k5onu" target="_blank" rel="noopener"><strong>Link additional Devices to your Account</strong></a>

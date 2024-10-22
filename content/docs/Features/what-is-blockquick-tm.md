@@ -12,7 +12,7 @@ BlockQuick allows devices and application to directly interact with public block
 
 The implications of this technology are vast, ranging from the ability to <a href="https://diode.io/burning-platform-pki/why-we-cant-trust-network-time-19116/" target="_blank" rel="noopener"><strong>securely bootstrap time</strong></a> to the <a href="https://diode.io/dpki/how-decentralized-public-key-infrastructure-will-be-the-future-for-the-web-19148/" target="_blank" rel="noopener"><strong>full decentralization of Internet infrastructure</strong></a>.
 
-Blockquick is implemented in the <a href="https://cli.docs.diode.io/" target="_blank" rel="noopener"><strong>Diode CLI</strong></a> and other applications, like [**Diode Drive**](https://app.docs.diode.io/), from Diode and our partners. Visit those pages to download the applications and start interecting directly - and trustlessly - with decentralized network technology!
+Blockquick is implemented in the <a href="https://cli.docs.diode.io/" target="_blank" rel="noopener"><strong>Diode CLI</strong></a> and other applications, like [**Diode Collab**](https://app.docs.diode.io/), from Diode and our partners. Visit those pages to download the applications and start interecting directly - and trustlessly - with decentralized network technology!
 
 To learn more, check out our original <a href="https://diode.io/burning-platform-pki/blockquick-super-light-blockchain-client-for-trustless-time-19144/" target="_blank" rel="noopener"><strong>blog post</strong></a> and/or the <a href="https://eprint.iacr.org/2019/579.pdf" target="_blank" rel="noopener"><strong>BlockQuick Paper</strong></a>!
 

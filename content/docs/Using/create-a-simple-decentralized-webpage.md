@@ -20,7 +20,7 @@ Behind the scenes, Diode Collab creates an encrypted tunnel from your device int
 
 After you've installed Diode Collab, you'll have created at least one <a href="https://app.docs.diode.io/docs/using/create-a-zone/" target="_blank" rel="noopener"><strong>Zone</strong></a>. Using the Zone Selector sidebar, choose the Zone you want to host your webpage in, and go to the Files view. Once in the Files view, click the "+" icon to create a Folder and call the folder "webpage" (you can actually call it whatever you like).
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662761042336/image.png)
+![](/uploads/image-140.png)
 
 We make a webpage folder so that we can publish all files in that folder to the Internet.
 
@@ -28,27 +28,27 @@ We make a webpage folder so that we can publish all files in that folder to the 
 
 Click the checkbox on the "webpage" folder line and click the share button.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662762184244/image.png)
+![](/uploads/image-141.png)
 
 This immediately shares the folder and its contents and will show a message prompting you to copy or configure the link. Click where it says "Click here to copy link to clipboard".
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662762086200/image.png)
+![](/uploads/image-142.png)
 
 4\. Create a home file
 
 Click the "webpage" folder to go into it, and again use the "+" button to create a Markdown file and call the file "home" (again, you can call it whatever you like).
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662761278951/image.png)
+![](/uploads/image-143.png)
 
 5\. Add some text to your webpage
 
 Click the "[home.md](http://home.md)" file, and then click the "edit" (pencil) button to edit the page.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662762313738/image.png)
+![](/uploads/image-144.png)
 
 Type some text and click Save.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662762383491/image.png)
+![](/uploads/image-145.png)
 
 6\. View your webpage!
 
@@ -56,39 +56,39 @@ Paste the URL you copied in step 3 into a web browser and then click the "[home.
 
 &nbsp;
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662762534780/image.png)
+![](/uploads/image-146.png)
 
 This will show your webpage - you can copy the link in the browser to give it to anyone you like to view your webpage.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662762630737/image.png)
+![](/uploads/image-147.png)
 
 7\. Remove file information from the webpage
 
 Since we want people to view [home.md](http://home.md) as a webpage, the "breadcrumbs" and "Download" and "File Details" information is not desirable. In order to remove those, go to the web link settings by clicking the web link icon to the right of your "webpage" folder in Diode Collab.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662762791698/image.png)
+![](/uploads/image-148.png)
 
 In the Link Details page, select Style and set to "Minimal styling"
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662762905110/image.png)
+![](/uploads/image-149.png)
 
 Your webpage will now be displayed without the other elements.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662763003325/image.png)
+![](/uploads/image-150.png)
 
 8\. Add images
 
 A webpage is pretty boring without pictures! To add a picture, go back to Diode Collab and edit "[home.md](http://home.md)" as you did in Step 5. Once editing, select the Insert Image control in the edit ribbon and choose an image to add to your page and then click "Save".
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662763218246/image.png)
+![](/uploads/image-151.png)
 
 The image you added is automatically added to your webpage folder in a folder named "home.md-assets".
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662763340260/image.png)
+![](/uploads/image-152.png)
 
 Now, both your [home.md](http://home.md) preview in Diode Collab as well as your webpage will show your new image:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662763414257/image.png)
+![](/uploads/image-153.png)
 
 9\. Add other pages
 
@@ -96,13 +96,13 @@ You can quickly add other pages by using the "+" button while inside the "webpag
 
 After adding content to [about.md](http://about.md) (like Steps 5 and 8), create a link to it from your home page by editing the [home.md](http://home.md) file, adding some text that will link to your about page, and then clicking the "Link" icon, and typing "[about.md](http://about.md)" in the box provided.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662763719498/image.png)
+![](/uploads/image-154.png)
 
 This will then show up on your home page as a link that, when clicked, will show your about page.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662763947246/image.png)
+![](/uploads/image-155.png)
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/oy0plvilfj/1662764004755/image.png)
+![](/uploads/image-156.png)
 
 10\. Next steps
 

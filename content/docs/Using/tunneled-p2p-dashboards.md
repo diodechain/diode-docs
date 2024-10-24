@@ -30,19 +30,19 @@ Let's assume you've been able to get your Raspberry Pi up and running and connec
 * Verify it is working by opening a browser on your Pi and going to [http://localhost:9090](http://localhost:9090)
   * You should see a login screen - you can type your Pi's username / password there to load Cockpit
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/h0nqbyzwa2/1707336576588/image.png)
+![](/uploads/image-157.png)
 
-**2\.** <a href="https://diode.io/download#cli" target="_blank" rel="noopener"><strong>Install the Diode CLI</strong></a> (recommend using the curl command)
+**2\.** <a href="https://cli.docs.diode.io/docs/" target="_blank" rel="noopener"><strong>Install the Diode CLI</strong></a> (recommend using the curl command)
 
 * Verify it is working by opening a terminal window and typing "diode time"
   * You should see output with "Minimum Time" and "Maximum Time" like this:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/h0nqbyzwa2/1707336654830/image.png)
+![](/uploads/image-158.png)
 
 * Copy your Client address - you will need this in the App Setup below
   * For this example, let's pretend the Client address is 0xa5c8ee625db628b493b1d084afe25e962a570cd9
 
-**3\.** <a href="https://support.diode.io/article/gmo8f1f4ys" target="_blank" rel="noopener"><strong>Configure the Diode CLI to run at startup</strong></a>
+**3\.** <a href="https://cli.docs.diode.io/raspberry-pi/start-diode-on-boot/" target="_blank" rel="noopener"><strong>Configure the Diode CLI to run at startup</strong></a>
 
 * After you've followed the instructions in that <a href="https://cli.docs.diode.io/raspberry-pi/start-diode-on-boot/" target="_blank" rel="noopener"><strong>guide</strong></a>, you'll want to further modify the diode.service file to publish the Cockpit port
 * Change this line: `ExecStart=/home/pi/opt/diode/diode publish -public 22:22,80:80,3030:3030`
@@ -68,9 +68,7 @@ Let's assume you are already running the <a href="https://diode.io/download#app"
 * Click the bookmark - a message should flash across the top of your screen saying "Launching Brave" - the Brave Browser should launch and the login to your Cockpit dashboard should be displayed!
 * Use your Pi's username and password to login - you should then see a screen that looks the same as the screen you saw on the localhost browser in Device Setup step 1:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/h0nqbyzwa2/1707425399934/image.png)
-
-&nbsp;
+![](/uploads/image-159.png)
 
 ### **Setup Restricted Access**
 
@@ -83,7 +81,7 @@ For this step, you'll need to modify the Device settings to restrict access to o
 * In the About page, find the Device ID listed under the word "Device:"
   * For this example, we'll pretend your App's Device ID is 0xebf25e5b07abd13606a7e49be693b0031d83f2b5
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/h0nqbyzwa2/1707425924207/image.png)
+![](/uploads/image-160.png)
 
 2\. Change your diode.service file on your device to privately publish ONLY to your App's Device ID
 
@@ -102,11 +100,11 @@ For this step, you'll need to modify the Device settings to restrict access to o
 * Invite another user / device to your Zone (or setup a second profile) to verify they cannot access the dashboard - their App's Device ID will be different and will be blocked
   * Have the other user try to load the dashboard by clicking on the bookmark. They will get a screen that looks like below (the network automatically blocks access from the device to anyone NOT in the allow list):
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/h0nqbyzwa2/1707427018580/image.png)
+![](/uploads/image-161.png)
 
 4\. Explore more!
 
-* If you'd like your whole Zone to have access to the dashboard, or a sub-group from within the Zone, you can use private publishing via domain. Instead of specifying a Device ID / Client address in the private list, you instead specify a group that has been <a href="https://network.docs.diode.io/docs/features/what-is-bns/" target="_blank" rel="noopener"><strong>registered as a BNS name</strong></a>.
+* If you'd like your whole Zone to have access to the dashboard, or a sub-group from within the Zone, you can use private publishing via domain. Instead of specifying a Device ID / Client address in the private list, you instead specify a group that has been <a href="https://network.docs.diode.io/docs/faq/what-is-bns/" target="_blank" rel="noopener"><strong>registered as a BNS name</strong></a>.
 * A BNS name (aka "Domain") can be associated with as many Device IDs as you like. Diode Collab's Network area provides an easy way to create and configure a Domain.
 * The diode.service line could be modified to be, for example:
   * `ExecStart=/home/pi/opt/diode/diode publish -public 22:22 -private 9090:80,pi-authorization-01`

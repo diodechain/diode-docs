@@ -6,7 +6,7 @@ nav_section: Features
 weight: 208
 draft: false
 ---
-[**Diode Collab**](https://diode.io/products/d-drive) ** ** is a peer to peer collaboration, file sharing, and backup system that relies on the computers, servers, and other storage devices that you, or a trusted collaborator, control (an information "self custody" solution).
+[**Diode Collab**](https://diode.io/products/d-drive) is a peer to peer collaboration, file sharing, and backup system that relies on the computers, servers, and other storage devices that you, or a trusted collaborator, control (an information "self custody" solution).
 
 Since it's a peer to peer system, there are no 3rd party servers storing any of your data. So, storage is unlimited from the perspective of Diode Collab - it doesn't meter storage - it is limited only by the capacity of whatever systems you include in your Zone.
 

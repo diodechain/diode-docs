@@ -14,7 +14,7 @@ Follow the three steps below to get up and running on Linux (Raspberry Pi/ARM sh
 
 **1\. Download**
 
-[**Download Diode Collab**](https://diode.io/download/) ** ** for Linux - pay attention to the Linux variant (x86, ARM, 32/64 bit) to ensure you download the right one for your system.
+[**Download Diode Collab**](https://diode.io/download/) \*\* \*\* for Linux - pay attention to the Linux variant (x86, ARM, 32/64 bit) to ensure you download the right one for your system.
 
 **2\. Install and run Diode Collab**
 

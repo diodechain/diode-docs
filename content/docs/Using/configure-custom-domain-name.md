@@ -26,7 +26,7 @@ No static IP address or paid web host is required!
 
 [**porkbun.com**](https://porkbun.com/) example:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/6pctb40wj8/1605501604227/image.png)
+![](/uploads/image-29.png)
 
 That's it! It will take up to an hour for your DNS changes to apply. So, don't forget to [**bring up your website**](https://cli.docs.diode.io/raspberry-pi/host-a-website-with-ghost/) and start serving your decentralized web!
 

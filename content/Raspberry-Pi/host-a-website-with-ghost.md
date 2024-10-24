@@ -58,11 +58,11 @@ cd ghost
 ghost install local
 ```
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/mdelbna1u7/1599914827733/image.png)
+![](/uploads/image-123.png)
 
 * Type "ghost ls" to see your ghost configuration
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/mdelbna1u7/1599914848203/image.png)
+![](/uploads/image-124.png)
 
 3\. Try Ghost Out
 

@@ -14,21 +14,21 @@ Follow the three steps below to get up and running on Linux (Raspberry Pi/ARM sh
 
 **1\. Download**
 
-[**Download Diode Collab**](https://diode.io/download/)for Linux - pay attention to the Linux variant (x86, ARM, 32/64 bit) to ensure you download the right one for your system.
+[**Download Diode Collab**](https://diode.io/download/) ** ** for Linux - pay attention to the Linux variant (x86, ARM, 32/64 bit) to ensure you download the right one for your system.
 
 **2\. Install and run Diode Collab**
 
 Set the File Permissions for the downloaded .run file to include "Execute".
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/d3eguu0pem/1615810674835/image.png)
+![](/uploads/image-110.png)
 
 Open a terminal window and run the installer - it will extract to ~/dDrive
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/d3eguu0pem/1615810812636/image.png)
+![](/uploads/image-111.png)
 
 You can then either run it from a terminal window from the ~/dDrive folder with: `./dDrive start_iex` , or click the "Diode Drive Decentralized Storage" icon from the UI and select "Execute".
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/d3eguu0pem/1615811022243/image.png)
+![](/uploads/image-112.png)
 
 Some Linux installations <a href="https://github.com/diodechain/diode_drive_feedback/issues/14" target="_blank" rel="noopener"><strong>have a bug with the UI and file updates</strong></a> (last checked: March 15, 2021)
 
@@ -44,11 +44,11 @@ Recent (as of June 2021) Raspberry Pi Linux OS (Raspbian) no longer packages <a 
 
 When Diode Collab starts up, it will load as a small orange icon in the task bar:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/d3eguu0pem/1615794188005/image.png)
+![](/uploads/image-113.png)
 
 Clicking the orange Diode Collab icon will drop-down / pop-up menu options. Click "Open" to open the app.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/rywr2hzmjg/1650666373818/image.png)
+![](/uploads/image-114.png)
 
 ---
 

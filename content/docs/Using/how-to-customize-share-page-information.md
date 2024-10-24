@@ -14,11 +14,11 @@ For an example customized share page, look at this <a href="https://share.diode.
 
 The default Share Page branding is shown in the Zone's Settings page:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/ssnzo09rzv/1650431446628/image.png)
+![](/uploads/image-132.png)
 
 These settings can be edited to create a custom branded file sharing portal as shown below:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/ssnzo09rzv/1650570635157/image.png)
+![](/uploads/image-133.png)
 
 ---
 

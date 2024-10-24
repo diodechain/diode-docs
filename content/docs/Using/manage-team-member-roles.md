@@ -24,26 +24,26 @@ In order to manage the Role of a Team Member, follow the following steps:
 * Go to the Zone
 * Click the Zone Settings icon (gear icon):
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/smyy5mok1q/1701809466157/image.png)
+![](/uploads/image-126.png)
 
 * You will be take to the Zone Settings area. Click the Team Members setting item:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/smyy5mok1q/1701809530825/image.png)
+![](/uploads/image-127.png)
 
 * You will be take to the Team Member list. Click on the Team Member you want to update the Role for:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/smyy5mok1q/1701809574736/image.png)
+![](/uploads/image-128.png)
 
 * You will be take to the Team Member details page. Click the Role setting item:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/smyy5mok1q/1701809642385/image.png)
+![](/uploads/image-129.png)
 
 * Choose the type of Role you want to change their Role to:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/smyy5mok1q/1701809690861/image.png)
+![](/uploads/image-130.png)
 
 * Click "Update". You will see a triangular alert icon in the top menu bar, indicating that the Role change is in progress. When this triangle disappears, it means the Role change has completed!
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/smyy5mok1q/1701809804471/image.png)
+![](/uploads/image-131.png)
 
 That's it! If you need further help / support, please <a href="https://t.me/diode_chain" target="_blank" rel="noopener"><strong>join our Telegram Channel</strong></a> and ask away!

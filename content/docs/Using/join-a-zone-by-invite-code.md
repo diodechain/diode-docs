@@ -16,27 +16,25 @@ These instructions assume that you've already <a href="https://app.docs.diode.io
 
 Click on the Invite Code Link - it will open a web page that looks like this:
 
-&nbsp;
-
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/uuj9ac8eqs/1650667986269/image.png)
+![](/uploads/image-134.png)
 
 The long sequence of numbers and letters in bold is the Invite Code. Double click the Invite Code, right click (or long press) the highlighted text, and select "Copy".
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/uuj9ac8eqs/1650668269716/image.png)
+![](/uploads/image-135.png)
 
 **2\. Join the Zone**
 
 Open Diode Collab, click the upper left Diode Collab logo, and go the Zones menu. There, you will see an orange "Join" link - click that.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/uuj9ac8eqs/1650668344829/image.png)
+![](/uploads/image-136.png)
 
 It will open a dialog asking you for the Invite Code - right click (or long press) in the field and "Paste" the Invite Code into the field and click "Join"
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/uuj9ac8eqs/1650668399029/image.png)
+![](/uploads/image-138.png)
 
 If the Invite Code was valid, you'll see a message that says "Success!" After waiting for about a minute, you'll see a notification that says "You've joined a Zone!" and you will notice a new Zone in your Zone Selector Bar with a red dot - indicating that it is a new Zone:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/uuj9ac8eqs/1650668781280/image.png)
+![](/uploads/image-139.png)
 
 **3\. Start collaborating!**
 

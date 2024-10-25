@@ -27,7 +27,7 @@ Although we are going to demonstrate how to tunnel IoT APIs, this same approach 
 
 There are four basic components when tunneling IoT communications:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/q58kk9q178/1690497691763/image.png)
+![](/uploads/image-182.png)
 
 1. The IoT Device<br>Sends data to IoT Server via the tunnel created by the Entry/Exit Nodes
 2. The Entry Node<br>Establishes a secure tunnel with the Exit Node and sends IoT data to the tunnel. Sometimes the Entry Node is actually located on the IoT Device (as a piece of software).
@@ -56,7 +56,7 @@ The Entry Node in this example is a Linux device, like a Raspberry Pi or other g
 
 On the Entry Node, use a terminal window to type `diode time` , and you'll see it print out its Diode Client address of 0xa2371412a83bfcb23e0ac9a5c82ed026a1b31ef. This will be needed in \#3 to configure the Exit Node:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/q58kk9q178/1690499362989/image.png)
+![](/uploads/image-183.png)
 
 We want to forward all traffic from the LAN port 1080 to the Exit Node. We will use the Diode `bind` command to do that. However, `diode -bind` only operates on localhost ports, so we have to first create a route from the external LAN port 1080 to the localhost port 1080. We use Linux' iptables to do this:
 
@@ -77,7 +77,7 @@ The Exit Node in this example is also a Linux device, like a Raspberry Pi or oth
 
 On the Exit Node, use a terminal window to type `diode time` , and you'll see it print out its Diode Client address of 0x139ad2e6fsc2377e0f03abc232ea9a83f2eaff371. This is needed in \#2 above to configure the Entry Node:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/q58kk9q178/1690499407382/image.png)
+![](/uploads/image-184.png)
 
 We want to create a tunnel with the Entry Node (Diode Client address 0xa2371412a83bfcb23e0ac9a5c82ed026a1b31ef) and send all the data from the tunnel out via a Socks Proxy server egress route. We will use `publish -private` to create a precisely connected tunnel, and use `-socksd `to fire up Diode CLI's built-in Socks Proxy server:
 
@@ -89,31 +89,31 @@ This exposes the Exit Node's Diode Client address and published port precisely O
 
 Create an account at https://exosite.io and create an IoT Connector:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/q58kk9q178/1690500098729/image.png)
+![](/uploads/image-185.png)
 
 Then, add a device by clicking:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/q58kk9q178/1690500150753/image.png)
+![](/uploads/image-186.png)
 
 Give it an arbitrary (but unique!) identity and click "Add".
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/q58kk9q178/1690500228472/image.png)
+![](/uploads/image-187.png)
 
 Click the little three-dot menu on the device and click "Manually Set Credentials" (we could auto-provision, but that is an extra step):
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/q58kk9q178/1690500279034/image.png)
+![](/uploads/image-188.png)
 
 Accept whatever key is given to you - you need that key in \#1 above!
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/q58kk9q178/1690500330523/image.png)
+![](/uploads/image-189.png)
 
 Finally, click the "Settings" menu item on the left and copy the IoT Connector's FQDN (e.g. a32ktas21gcas0000.m2.exosite.io) - you'll also need that in \#1 above!
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/q58kk9q178/1690500434842/image.png)
+![](/uploads/image-190.png)
 
 Once that is setup, if you go back up to \#1 and execute the `curl` command, you should be able to go to the Logs menu item and see data flow in!
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/q58kk9q178/1690500724797/image.png)
+![](/uploads/image-191.png)
 
 ---
 

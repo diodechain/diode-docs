@@ -24,15 +24,15 @@ When you send a message, your sent message will have either a grey check mark, a
 
   &nbsp;
 
-  ![](https://files.helpdocs.io/qwk5dmv7m8/articles/plonz51666/1695320955137/image.png)
+  ![](/uploads/image-162.png)
 
 * Orange check mark - a single orange check mark means that at least one other device has received your message - it has been "sent". Even if you go offline, the message can be read or distributed by someone else in your zone.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/plonz51666/1695321169966/image.png)
+![](/uploads/image-163.png)
 
 * Double orange check mark - a double orange check mark means at least one other person has actually read the message. Remember, in a group channel, it may be that only one other person has read the message!
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/plonz51666/1695321446045/image.png)
+![](/uploads/image-164.png)
 
 **How to start chatting**
 
@@ -52,19 +52,19 @@ If you have not yet invited another Team Member, follow the instructions in [**t
 
 Click on a Zone that you have invited another Team Member to.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/plonz51666/1623900141785/vlcsnap-2021-06-17-11-h-20-m-15-s-399.png)
+![](/uploads/image-165.png)
 
 4\. Click on the name of a Team Member
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/plonz51666/1623900316375/vlcsnap-2021-06-17-11-h-24-m-29-s-429.png)
+![](/uploads/image-166.png)
 
 Clicking on the name of a Team Member will open a window with a chat session for that user.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/plonz51666/1623900414832/vlcsnap-2021-06-17-11-h-26-m-23-s-416.png)
+![](/uploads/image-167.png)
 
 5\. In order to start chatting, click on the message input box at the bottom of the app and start typing your message. To send your message, hit the Enter (Windows) or Return (Mac) key, or click the orange arrow icon on the right.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/plonz51666/1623900612363/vlcsnap-2021-06-17-11-h-29-m-45-s-575.png)
+![](/uploads/image-168.png)
 
 * Please note that at least one other Zone team member needs to be online in order to ensure your message will get delivered (see above "Chat Message Annotation"). If you only have two team members in your Zone, you will both need to be online at the same time in order to chat.
 

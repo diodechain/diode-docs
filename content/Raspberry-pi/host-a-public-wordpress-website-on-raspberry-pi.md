@@ -22,7 +22,7 @@ This article will walk you through the details of getting Wordpress running on a
 
 This is the setup used in this article. Your setup may be different - if so, some steps may not be exactly the same.
 
-* Raspberry Pi 4 Model B with keyboard/mouse/LCD panel attached (<a href="https://support.diode.io/article/ad7s45khyq" target="_blank" rel="noopener"><strong>or VNC enabled</strong></a>)
+* Raspberry Pi 4 Model B with keyboard/mouse/LCD panel attached (<a href="https://cli.docs.diode.io/raspberry-pi/use-your-raspberry-pi-as-a-remote-file-server-backup-device/" target="_blank" rel="noopener"><strong>or VNC enabled</strong></a>)
   * [**Clean install of Raspbian via NOOBs**](https://projects.raspberrypi.org/en/projects/noobs-install)
   * Connected to WiFi, new password for Pi user
   * [**Enable SSH on the rPi**](https://chronicle.diode.link/enable-ssh-rpi/)
@@ -142,19 +142,19 @@ sudo service apache2 restart
 
 Now that Wordpress is running, we can configure it via a browser. While you could got to [http://localhost](http://localhost) from the browser on the Raspberry Pi, it is more convenient to use the browser on your PC to set it up - just open your browser on your computer and go to your Raspberry Pi's IP address - it will show the Wordpress configuration screen.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/r62bhcnax0/1646204340009/image.png)
+![](/uploads/image-32.png)
 
 Choose your language and click Continue. Next, you'll get the database configuration screen:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/r62bhcnax0/1646204396835/image.png)
+![](/uploads/image-33.png)
 
 Fill it in with the credentials you created on the MySQL command line in step 3. If you've managed to input the right info, you'll see something like this message:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/r62bhcnax0/1646204679538/image.png)
+![](/uploads/image-34.png)
 
 Finally, you'll be given a configuration screen to setup basic information, and your first user, for the Wordpress website:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/r62bhcnax0/1646204578515/image.png)
+![](/uploads/image-35.png)
 
 Fill it in as desired - don't forget to write down / save the Username and Password you give it - you'll login to Wordpress with those credentials.
 
@@ -196,11 +196,11 @@ INFO HTTP Gateway Enabled : https://0x212336d3f56040685340643159670858c4581121.d
 
 &nbsp;
 
-Your website is now publicly live at [https://0x212336d3f56040685340643159670858c4581121.diode.link/](https://0x212336d3f56040685340643159670858c4581121.diode.link/)! This URL is not super attractive, however, so you can <a href="https://support.diode.io/article/6pctb40wj8" target="_blank" rel="noopener"><strong>register a BNS name and even point a full domain name at the BNS</strong></a> so your website can be found at, for example, [https://mydecentralizedwebsite.com](https://mydecentralizedwebsite.com).
+Your website is now publicly live at [https://0x212336d3f56040685340643159670858c4581121.diode.link/](https://0x212336d3f56040685340643159670858c4581121.diode.link/)! This URL is not super attractive, however, so you can <a href="https://network.docs.diode.io/docs/using/configure-custom-domain-name/" target="_blank" rel="noopener"><strong>register a BNS name and even point a full domain name at the BNS</strong></a> so your website can be found at, for example, [https://mydecentralizedwebsite.com](https://mydecentralizedwebsite.com).
 
 The final step here is setting your Wordpress Address and Site Address to your remote URL so the admin page will render. To do that, go to your [https://locahost/wp-admin](https://locahost/wp-admin) page on the machine's browser, and go to Settings and set those fields to the Gateway Enabled link (note the client address below has been shortened - it should be the full address or the BNS name you've registered):
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/r62bhcnax0/1652204202680/image.png)
+![](/uploads/image-36.png)
 
 **Private publishing via Diode**
 
@@ -226,7 +226,7 @@ If you have more than one user, just add successive commas and client addresses.
 
 In order for your users to access your website, they will have to type `diode socksd` in their terminal, and then configure their browser to use their Diode CLI as a proxy to access your website. For example, in Firefox, they would need to go to Preferences -&gt; Network Settings and select `manual proxy configuration`. Set as proxy server `localhost` and port `1080`. Ensure it’s using `SOCKS v5` and check `Proxy DNS when using SOCKS v5`.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/r62bhcnax0/1646281465512/image.png)
+![](/uploads/image-37.png)
 
 Then, they can access your website by typing in the &lt;client address&gt;.diode (e.g. 0x212336d3f56040685340643159670858c4581121.diode from the example above), or, if you've registered a BNS name (e.g. mydecentralizedwebsite), they can type mydecentralizedwebsite.diode to see your website. Only the users who have the client addresses you've published privately to will be able to see your website!
 

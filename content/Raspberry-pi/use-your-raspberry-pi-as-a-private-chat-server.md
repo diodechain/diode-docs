@@ -10,7 +10,7 @@ draft: false
 ---
 Although <a href="https://diode.io/solutions/app" target="_blank" rel="noopener"><strong>Diode Collab</strong></a> is a decentralized messaging / chat app that doesn't need a chat server, a Zone with just a few team members will often benefit from having a "Bot" as part of the Zone in order to relay encrypted messages to a team member who may have been offline when the message was originally sent.
 
-You can make your Raspberry Pi into a Bot to ensure your chat messages are always delivered and <a href="https://support.diode.io/article/ad7s45khyq" target="_blank" rel="noopener"><strong>your files are always available</strong></a>, no matter the online/offline state of one or all of the other team members. This creates a highly available collaboration tool that is fully "<a href="https://diode.io/blog/self-custody-for-data" target="_blank" rel="noopener"><strong>self custody</strong></a>."
+You can make your Raspberry Pi into a Bot to ensure your chat messages are always delivered and <a href="https://cli.docs.diode.io/raspberry-pi/use-your-raspberry-pi-as-a-remote-file-server-backup-device/" target="_blank" rel="noopener"><strong>your files are always available</strong></a>, no matter the online/offline state of one or all of the other team members. This creates a highly available collaboration tool that is fully "<a href="https://diode.io/blog/self-custody-for-data" target="_blank" rel="noopener"><strong>self custody</strong></a>."
 
 Of course, any device (e.g. old phone, old computer, private cloud VM, etc...) can be used as a Bot, not just a Raspberry Pi!
 

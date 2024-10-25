@@ -20,7 +20,7 @@ Read below for how to use Diode Collab to keep secure notes!
 
 We find it handy to have a Zone dedicated to notes. To make a new Zone, click the + button on your Zone picker and name the Zone something like "My Notes".
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/nwoi0x3d67/1655930398078/image.png)
+![](/uploads/image-169.png)
 
 Of course, you can just create a note in an existing Zone (next step) and/or interspersed along side of other files or folders in any Zone (e.g. if you are taking meeting notes or annotating other topics).
 
@@ -28,18 +28,18 @@ Of course, you can just create a note in an existing Zone (next step) and/or int
 
 To create a note, click the "+" button in your Zone's file view, select "Markdown" (a <a href="https://www.markdownguide.org/getting-started/" target="_blank" rel="noopener"><strong>markdown file </strong></a>is a type of text file that includes formatting information), and enter the name of your note.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/nwoi0x3d67/1655931098299/image.png)
+![](/uploads/image-170.png)
 
 3\. Edit the Note
 
 Click the note file name to read your note (you must click the orange name of the note to view it - just clicking the row selects the note for other actions). Click the pencil icon to edit the note.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/nwoi0x3d67/1655931218521/image.png)
+![](/uploads/image-171.png)
 
 4\. Enter notes and Save
 
 Once you've clicked the edit button, you can immediately begin enter the notes. You can use the formatting ribbon to add text formatting or to add things like tables or bullets. When you are done adding notes, click "Save" to save the note. As soon as the note is saved, it will be synchronized to your other <a href="https://app.docs.diode.io/docs/using/linked-devices/" target="_blank" rel="noopener"><strong>Linked Devices </strong></a>and/or other <a href="https://app.docs.diode.io/docs/using/add-a-team-member-or-additional-device/" target="_blank" rel="noopener"><strong>Team Members</strong></a> in your Zone!
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/nwoi0x3d67/1655931316773/image.png)
+![](/uploads/image-172.png)
 
 ---

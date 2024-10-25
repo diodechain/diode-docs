@@ -38,7 +38,7 @@ systemctl start ssh
 
 * Find your IP address by opening a terminal window on the Pi and typing "ifconfig" - if you're using WiFI, the inet address under the wlan0 interface will show your IP address - mine is 192.168.50.21
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/knnulxk898/1600955342024/image.png)
+![](/uploads/image-27.png)
 
 3\. SSH into your Pi
 
@@ -52,8 +52,8 @@ ssh pi@192.168.50.21
 
 * It may show you a warning (type yes) and will ask for your password. Once you've entered your password, you'll get a "pi@raspberry:~ $" prompt - you're in!
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/knnulxk898/1600955364662/image.png)
+![](/uploads/image-28.png)
 
 That's it - you can now access your rPi remotely (as long as you are on the same LAN).
 
-**NOTE:** If you want to access your rPi over SSH even when you are not on the same LAN, see the article about [**enabling SSH over the Diode Network**](https://support.diode.io/article/ub9xrruimv)
+**NOTE:** If you want to access your rPi over SSH even when you are not on the same LAN, see the article about [**enabling SSH over the Diode Network**](https://cli.docs.diode.io/docs/using/remote-ssh/)

@@ -28,7 +28,7 @@ If you don't have a webserver already running, checkout the <a href="https://cli
 
 The &lt;client\_address&gt; can be found in the terminal output, as shown boxed in red below, when the command is ran. The line "Http Gateway Enabled" shows the full external URL - in the case shown below, it is `http://0x70114a27f3d1b549012498c69a4120ca4ea11e21.diode.link/` You can use that URL to share your website with others.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/ss32engxlq/1599823313774/image.png)
+![](/uploads/image-38.png)
 
 If you don't yet have a web server, [**Ghost**](https://ghost.org/) is a good option - see the article about [**running Ghost on a Raspberry Pi**](https://cli.docs.diode.io/raspberry-pi/host-a-website-with-ghost/).
 

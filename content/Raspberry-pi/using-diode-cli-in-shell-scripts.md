@@ -15,7 +15,7 @@ $ diode config 2>&1 | awk '/<address>/ { print $(NF) }'
 0x55c8ee625db628b493b1d084afe25e962a570cdf
 ```
 
-If you want to use the [**Diode CLI**](https://support.diode.io/article/lsr4tkzz8t) in shell scripts be aware that most `[INFO]` output is written to **stderr** which by default is not catched by pipes. So if you want to use Diode CLI output in your script you might want to redirect **stderr** to **stdout**
+If you want to use the [**Diode CLI**](https://cli.docs.diode.io/docs/using/developers-network-cli-start-here/) in shell scripts be aware that most `[INFO]` output is written to **stderr** which by default is not catched by pipes. So if you want to use Diode CLI output in your script you might want to redirect **stderr** to **stdout**
 
 ### **For example extracting the client id:**
 

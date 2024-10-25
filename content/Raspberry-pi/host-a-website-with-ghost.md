@@ -58,17 +58,17 @@ cd ghost
 ghost install local
 ```
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/mdelbna1u7/1599914827733/image.png)
+![](/uploads/image-30.png)
 
 * Type "ghost ls" to see your ghost configuration
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/mdelbna1u7/1599914848203/image.png)
+![](/uploads/image-31.png)
 
 3\. Try Ghost Out
 
 Ghost is now running on your rPi, but you can't yet see it from your computer - it is running on the rPi's localhost. If available, switch over to your rPi keyboard/mouse/LCD setup and pull up a browser and type "[http://localhost:2368](http://localhost:2368)" to setup and view your Ghost website.
 
-To interact with it remotely, you can either reconfigure the URL to be the rPi's IP address (it will then be available on your local network), or [**you can run the Diode Client on the rPi to view and manage the website anywhere in the world**](https://support.diode.io/article/ss32engxlq).
+To interact with it remotely, you can either reconfigure the URL to be the rPi's IP address (it will then be available on your local network), or [**you can run the Diode Client on the rPi to view and manage the website anywhere in the world**](https://cli.docs.diode.io/docs/using/publish-a-local-webserver/).
 
 IMPORTANT NOTE: make sure to configure your URL or your images won't work correctly!
 

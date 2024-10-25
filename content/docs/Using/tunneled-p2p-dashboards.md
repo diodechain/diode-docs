@@ -10,7 +10,7 @@ With this tutorial, you can "Map Network Drive" on Windows, or "Connect to serve
 
 This is handy if you want to provide multi-user access to the same files - such as in the case of a MS Access database.
 
-If you have any questions, connect with us in our <a href="https://t.me/diode_chain" target="_blank" rel="noopener"><strong>telegram group</strong></a>!
+If you have any questions, connect with us in our <a href="https://t.me/diode_chain" target="_blank" rel="noopener"><strong>Telegram group</strong></a>!
 
 ### **The moving pieces**
 

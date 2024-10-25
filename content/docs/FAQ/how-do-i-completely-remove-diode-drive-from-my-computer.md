@@ -1,17 +1,17 @@
 ---
 _schema: default
-title: How do I completely remove Diode Drive from my computer?
-nav_title: 'How do I remove Diode Drive? '
+title: How do I completely remove Diode Collab from my computer?
+nav_title: 'How do I remove Diode Collab? '
 nav_section: FAQ
 weight: 20009
 draft: false
 ---
 ### **MacOS**
 
-1\. Remove the Diode App
+1\. Remove Diode Collab
 
 * Open the Applications folder in Finder
-* Move the "dDrive" or "Diode Drive" application in the Applications folder to the Trash (or delete it)
+* Move the "dDrive" or "Diode Collab" application in the Applications folder to the Trash (or delete it)
 
 2\. Remove your Diode Profile
 
@@ -31,7 +31,7 @@ draft: false
 
 ### **Linux**
 
-1\. Remove the Diode App
+1\. Remove Diode Collab
 
 * Remove the "dDrive" installation directory (by default, this is located at ~/dDrive)
   * Do this from the File Manager
@@ -58,13 +58,13 @@ draft: false
 
 ### **Windows**
 
-1\. Remove the Diode App
+1\. Remove Diode Collab
 
-* Click "Uninstall" from the Diode Drive start menu program group
+* Click "Uninstall" from Diode Collab start menu program group
 
 OR
 
-* open an explorer window (Win-E) and go to C:\\Program Files\\Diode Drive\\ and run the "Uninstall.exe" from the Diode Drive folder.
+* open an explorer window (Win-E) and go to C:\\Program Files\\Diode Drive\\ and run the "Uninstall.exe" from Diode Collab folder.
 
 2\. Remove your Diode Profile
 

@@ -101,7 +101,7 @@ This will ensure that if the Pi reboots, the Diode CLI interface will be up and 
   * sudo systemctl start diode
   * systemctl status diode
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/ad7s45khyq/1633338713375/image.png)
+![](/uploads/image-29.png)
 
 * Stop it
   * systemctl stop diode

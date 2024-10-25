@@ -26,7 +26,7 @@ diode publish -public 22:22
 
 4\. Copy the presented Client Address (see red box below). This is the primary identifier of your target device and will never change. You will need it in the next step.
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/ub9xrruimv/1599728705235/image.png)
+![](/uploads/image-40.png)
 
 That's it - once Diode is running and publishing your port, you can now SSH into the system from anywhere in the world.
 

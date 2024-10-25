@@ -11,3 +11,5 @@ Yes, you can open your folder or Zone in your file explorer from Diode Collab di
 To do this, simply click on the orange box icon located on the far right of a Zone's File.
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/rqob24m8ao/1623812848474/open-folder.gif)
+
+![](/uploads/open-folder-2.gif)

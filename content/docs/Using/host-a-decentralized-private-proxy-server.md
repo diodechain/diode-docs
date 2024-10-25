@@ -28,16 +28,14 @@ This article assumes you are using Linux, but it will pretty much work the same 
 
 This will print out something like:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/uvmsbqnlqi/1692840199292/image.png)
+![](/uploads/image-39.png)
 
 The "Client Address" is your proxy server's decentralized address - you will need to direct all the proxy client connections to that address. Let's pretend this example's Client Address is `0x6900000000000000000000079`
 
 1. Make it persistent on your system by adding the Diode command to systemd (assuming Linux)
 
 * You can follow the <a href="/raspberry-pi/start-diode-on-boot/" target="_blank" rel="noopener"><strong>instructions here</strong></a>
-
 * Modify the ExecStart line to `ExecStart=/home/pi/opt/diode/diode publish -public 1080:1080 -socksd`
-
 * Some people find it handy to force-restart the service every day by adding the line `RuntimeMaxSec=86400`
 
 ### **Proxy Client Instructions**

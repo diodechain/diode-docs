@@ -22,7 +22,7 @@ This article will walk you through the details of getting Wordpress running on a
 
 This is the setup used in this article. Your setup may be different - if so, some steps may not be exactly the same.
 
-* Raspberry Pi 4 Model B with keyboard/mouse/LCD panel attached (<a href="https://support.diode.io/article/ad7s45khyq" target="_blank" rel="noopener"><strong>or VNC enabled</strong></a>)
+* Raspberry Pi 4 Model B with keyboard/mouse/LCD panel attached (<a href="https://cli.docs.diode.io/raspberry-pi/use-your-raspberry-pi-as-a-remote-file-server-backup-device/" target="_blank" rel="noopener"><strong>or VNC enabled</strong></a>)
   * [**Clean install of Raspbian via NOOBs**](https://projects.raspberrypi.org/en/projects/noobs-install)
   * Connected to WiFi, new password for Pi user
   * [**Enable SSH on the rPi**](https://chronicle.diode.link/enable-ssh-rpi/)

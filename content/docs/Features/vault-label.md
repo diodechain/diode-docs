@@ -10,7 +10,7 @@ Each Vault has a label on the bottom of it with a QR code and its model number a
 
 The Vault label looks like this:
 
-![](https://files.helpdocs.io/qwk5dmv7m8/articles/1i6csk9xn4/1704228169963/image.png)
+![](/uploads/image-10.png)
 
 The model number is to the right of "M:" - in the label above, the model number is "2312-1T". See the <a href="https://vaults.docs.diode.io/docs/vault-model-numbers/" target="_blank" rel="noopener"><strong>Model Numbers</strong></a> article for information contained in the Model Number.
 

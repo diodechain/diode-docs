@@ -2,7 +2,7 @@
 _schema: default
 title: License Management
 nav_title: License Management
-nav_section: Use Cases
+nav_section: Use Cases - License Management
 weight: 1
 draft: false
 ---

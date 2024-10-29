@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Secure OT Connections
-nav_title: Secure OT Connections
+title: Equipment Access
+nav_title: Remote Equipment Access
 nav_section: Use Cases
 weight: 1
 draft: false

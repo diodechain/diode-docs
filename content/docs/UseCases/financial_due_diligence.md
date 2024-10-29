@@ -2,7 +2,7 @@
 _schema: default
 title: Due Dilligence
 nav_title: Due Dilligence
-nav_section: Use Cases
+nav_section: Use Cases - Sensitive Data
 weight: 1
 draft: false
 ---

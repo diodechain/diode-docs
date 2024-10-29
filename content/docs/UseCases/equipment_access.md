@@ -2,7 +2,7 @@
 _schema: default
 title: Remote Equipment Access
 nav_title: Remote Equipment Access
-nav_section: Use Cases
+nav_section: Use Cases - OT and IoT
 weight: 1
 draft: false
 ---

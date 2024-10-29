@@ -2,7 +2,7 @@
 _schema: default
 title: Teams in Sensitive Regions
 nav_title: Teams in Sensitive Regions
-nav_section: Use Cases - Collaboration
+nav_section: Use Cases
 weight: 1
 draft: false
 ---

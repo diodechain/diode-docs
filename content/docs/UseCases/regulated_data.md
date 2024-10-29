@@ -2,7 +2,7 @@
 _schema: default
 title: Regulated Data
 nav_title: Regulated Data
-nav_section: Use Cases - Sensitive Data
+nav_section: Use Cases
 weight: 1
 draft: false
 ---

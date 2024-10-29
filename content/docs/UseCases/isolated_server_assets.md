@@ -2,7 +2,7 @@
 _schema: default
 title: Isolated Server Systems
 nav_title: Isolated Server Systems
-nav_section: Use Cases
+nav_section: Use Cases - IT Systems
 weight: 1
 draft: false
 ---

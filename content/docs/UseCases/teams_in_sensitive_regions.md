@@ -1,13 +1,9 @@
 ---
 _schema: default
-title: Equipment Access
-nav_title: Remote Equipment Access
+title: Teams in Sensitive Regions
+nav_title: Teams in Sensitive Regions
 nav_section: Use Cases
 weight: 1
 draft: false
 ---
-Diode's mission is to transform the Internet into everyone's private network.
-
-We believe that privacy is an inherit human trait and that the broken state of today's Internet (e.g. [public Certificate Authorities](https://diode.io/blog/why-there-are-3652-organizations-that-can-read-everyones-encrypted-traffic)) makes retaining digital sovereignty really hard.  This is surmountable for some enterprises and nation-states, but at high cost.  It is not typically within the reach of medium size organizations, and certainly not individuals.
-
-Diode makes secure communications accessible to everyone.
+Diode Collab is a secure replacement for Slack and Discord - it stores no data on a server and includes "ZTN" access for your team.  No self hosting required.

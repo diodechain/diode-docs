@@ -6,7 +6,7 @@ nav_section: Use Cases
 weight: 1
 draft: false
 ---
-![](/uploads/image.png)
+![](/uploads/image-1.png)
 
 ***Maintain remote equipment over 256-bit E2EE connections.***
 

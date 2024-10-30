@@ -6,7 +6,7 @@ nav_section: Use Cases
 weight: 1
 draft: false
 ---
-#### Access and maintain remote equipment through easy to manage 256-bit end to end encrypted connections.
+***Easily maintain remote equipment over 256-bit E2EE connections.***
 
 With Diode, every asset gets its own unique identity and secure self-custody credentials.  It can be connected to from anywhere in the world, but only by users (or devices) with authorized Zero Trust blockchain identities.  Devices can be remotely accessed via SSH, VNC, or any API-driven interface.  If the device has a local web configuration dashboard, it is simple to provide secure end-to-end encrypted access to team members.
 
@@ -25,6 +25,7 @@ With Diode, every asset gets its own unique identity and secure self-custody cre
 ### Articles
 
 * <a href="https://app.docs.diode.io/docs/features/network-add-on/" target="_blank" rel="noopener">Network management Add On in Diode Collab</a>
+* <a href="https://app.docs.diode.io/docs/features/diode-bookmarks#type-web3-link" target="_blank" rel="noopener">Web3 dashboards</a>
 * <a href="https://cli.docs.diode.io/docs/using/raspberry-pi/" target="_blank" rel="noopener">Connecting Linux based equipment</a>
 * <a href="https://cli.docs.diode.io/faq/how-to-start-diode-cli-at-boot-with-microsoft-windows/" target="_blank" rel="noopener">Connected Windows machines</a>
 * <a href="https://cli.docs.diode.io/docs/using/remote-ssh/" target="_blank" rel="noopener">Remote SSH</a>

@@ -6,9 +6,11 @@ nav_section: Use Cases
 weight: 1
 draft: false
 ---
-***Easily maintain remote equipment over 256-bit E2EE connections.***
+***Maintain remote equipment over 256-bit E2EE connections.***
 
-With Diode, every asset gets its own unique identity and secure self-custody credentials.  It can be connected to from anywhere in the world, but only by users (or devices) with authorized Zero Trust blockchain identities.  Devices can be remotely accessed via SSH, VNC, or any API-driven interface.  If the device has a local web configuration dashboard, it is simple to provide secure end-to-end encrypted access to team members.
+With Diode, it is simple to manage remote access to assets for your team, or your various suppliers.  Blockchain-anchored self-custody credentials ensure the integrity of each Zero Trust connection.
+
+Devices can be remotely accessed via SSH, VNC, or any API-driven interface.  If the device has a local web configuration dashboard, it is simple to provide secure end-to-end encrypted access to team members.
 
 ### Applications
 

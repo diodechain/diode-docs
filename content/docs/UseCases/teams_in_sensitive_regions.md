@@ -15,7 +15,8 @@ When using Diode Collab in sensitive regions, no VPN is required to maintain con
 ### Applications
 
 * Traveling expats
-* In country team communication
+* Physical security and risk management
+* In-country team communication
 * Hybrid corporate and supplier teams
 * Maintain communications with foreign suppliers
 

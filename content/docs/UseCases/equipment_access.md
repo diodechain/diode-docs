@@ -27,6 +27,7 @@ Devices can be remotely accessed via SSH, VNC, or any API-driven interface.  If 
 
 * <a href="https://exosite.com" target="_blank" rel="noopener">Exosite</a> (USA, Taiwan)
 * <a href="https://www.miraiwindow.co.jp/" target="_blank" rel="noopener">Mirai Window</a> (Japan)
+* <a href="https://derateknoloji.com/" target="_blank" rel="noopener">Dera Technologies</a> (Turkey)
 
 ### Articles
 

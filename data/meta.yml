@@ -2,7 +2,7 @@ project_name: Diode Docs
 product_name: About
 default_og_image: /uploads/diode-coin-social-canvas.png
 favicon:
-  small_icon: /uploads/favicon-16x16.png
-  large_icon: /uploads/favicon-32x32.png
-  apple_touch_icon: /uploads/apple-touch-icon.png
+  small_icon: /uploads/favicon-16x16-1.png
+  large_icon: /uploads/favicon-32x32-1.png
+  apple_touch_icon: /uploads/apple-touch-icon-1.png
   shortcut_icon: /meta/favicon.ico

@@ -22,6 +22,7 @@ Devices can be remotely accessed via SSH, VNC, or any API-driven interface.  If 
 * Manufacturing line configuration and OEE
 * Remote OEM equipment maintenance
 * Regional equipment access regulations
+* Blockchain DePIN systems
 
 ### Related Partner Solutions
 

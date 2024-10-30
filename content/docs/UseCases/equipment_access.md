@@ -16,9 +16,11 @@ Devices can be remotely accessed via SSH, VNC, or any API-driven interface.  If 
 
 ### Applications
 
-* OEM equipment management
+* Air handling units
+* Building management
+* Power monitoring systems
 * Manufacturing line configuration and OEE
-* Remote site intelligence
+* Remote OEM equipment maintenance
 * Regional equipment access regulations
 
 ### Related Partner Solutions

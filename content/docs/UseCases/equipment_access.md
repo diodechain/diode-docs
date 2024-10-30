@@ -6,11 +6,23 @@ nav_section: Use Cases
 weight: 1
 draft: false
 ---
-Diode makes it easy to access and maintain remote equipment through easy to manage 256-bit end to end encrypted connections.
+#### Access and maintain remote equipment through easy to manage 256-bit end to end encrypted connections.
 
-&nbsp;
+With Diode, every asset gets its own unique identity and secure self-custody credentials.  It can be connected to from anywhere in the world, but only by users (or devices) with authorized Zero Trust blockchain identities.  Devices can be remotely accessed via SSH, VNC, or any API-driven interface.  If the device has a local web configuration dashboard, it is simple to provide secure end-to-end encrypted access to team members.
 
-### Related articles
+### Applications
+
+* OEM equipment management
+* Manufacturing line configuration and OEE
+* Remote site intelligence
+* Regional equipment access regulations
+
+### Related Partner Solutions
+
+* <a href="https://exosite.com" target="_blank" rel="noopener">Exosite</a> (USA, Taiwan)
+* <a href="https://www.miraiwindow.co.jp/" target="_blank" rel="noopener">Mirai Window</a> (Japan)
+
+### Articles
 
 * <a href="https://app.docs.diode.io/docs/features/network-add-on/" target="_blank" rel="noopener">Network management Add On in Diode Collab</a>
 * <a href="https://cli.docs.diode.io/docs/using/raspberry-pi/" target="_blank" rel="noopener">Connecting Linux based equipment</a>

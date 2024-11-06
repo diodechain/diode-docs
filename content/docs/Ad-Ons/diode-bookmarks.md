@@ -4,7 +4,7 @@ title: Create Bookmarks
 nav_title: Bookmarks
 nav_section: Features
 weight: 203
-draft: false
+draft: true
 ---
 Within every Zone, there is the option to create and name bookmarks that can be linked to various locations (Diode Collab Locations, Web2 Links, Web3 Links, and Web2 Tunneled Links). This allows for quick access to files, documents, folders, etc. without clicking through folders within the Zones to find them each time.
 

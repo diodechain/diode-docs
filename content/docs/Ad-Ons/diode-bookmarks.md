@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: Create Bookmarks
-nav_title: Bookmarks
-nav_section: Features
+title: Network - Contracts
+nav_title: Contracts
+nav_section: Ad-Ons
 weight: 203
 draft: true
 ---

@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: Chat Commands
-nav_title: Chat Commands
-nav_section: Features
+title: Network - Domains
+nav_title: Domains
+nav_section: Ad-Ons
 weight: 204
 draft: true
 ---

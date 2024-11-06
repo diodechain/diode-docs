@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: ZTN - Regional Tunnels
-nav_title: ZTN - Regional Tunnels
-nav_section: Features
+title: Network - Endpoints
+nav_title: Endpoints
+nav_section: Ad-Ons
 weight: 200
 draft: true
 ---

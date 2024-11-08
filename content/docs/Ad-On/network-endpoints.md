@@ -2,15 +2,10 @@
 _schema: default
 title: Network Endpoints
 nav_title: Network Endpoints
-nav_section: Add On
+nav_section: Add Ons
 weight: 202
 draft: false
 ---
-* **Endpoints**
-  * **Endpoints can be any Diode address and may of type “Generic” or “Exit Node”**
-  * **Markdown endpoint descriptions is supported**
-  * **Auto-launch endpoint dashboards**
-
 See the Network Ad-Ons to article to enable the Network feature in your Zone.
 
 To view Endpoints, go to the Network settings as seen in the quick access bar of your Zone.

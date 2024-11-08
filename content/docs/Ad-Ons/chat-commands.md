@@ -4,7 +4,7 @@ title: Network Domains
 nav_title: Network Domains
 nav_section: Ad On
 weight: 204
-draft: true
+draft: false
 ---
 See the Network Ad-Ons to article to enable the Network feature in your Zone.
 
@@ -14,8 +14,10 @@ To view Domains, go to the Network settings as seen in the quick access bar of y
 
 ![](/uploads/screenshot-2024-11-07-at-8-47-52-pm-1.png)
 
-&nbsp;
+![](/uploads/screenshot-2024-11-07-at-9-17-18-pm.png)
 
-&nbsp;
+From inside of the Network settings, you can click on Domains and view or search for Domains within the Zone.
+
+![](/uploads/screenshot-2024-11-07-at-9-20-21-pm.png)
 
 &nbsp;

@@ -1,12 +1,12 @@
 ---
 _schema: default
-title: Network Add On
-nav_title: Network Add On
+title: Network Add Ons
+nav_title: Network Add Ons
 nav_section: Add Ons
 weight: 199
 draft: false
 ---
-Diode Collab has a "Network" Add On that is fully enabled in Enterprise Plans.  The Network Add On supports managing endpoints, domains, and contracts.
+Diode Collab has a "Network" Add Ons that is fully enabled in Enterprise Plans.  The Network Add Ons support managing endpoints, domains, and contracts.
 
 To access Networks in Zones, you must be the owner or an Admin within that Zone.
 

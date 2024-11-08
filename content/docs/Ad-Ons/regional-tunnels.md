@@ -23,5 +23,3 @@ From there, you can search for existing Endpoints in the Zone, add more by using
 ![](/uploads/network-4-2.png)
 
 Enable auto-launch for endpoint dashboards as needed.
-
-See the rest of

@@ -2,7 +2,7 @@
 _schema: default
 title: Network Domain
 nav_title: 'Network Domain '
-nav_section:
+nav_section: Ad-On
 weight:
 draft: false
 ---

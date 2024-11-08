@@ -10,7 +10,7 @@ See the Network Ad-Ons to article to enable the Network feature in your Zone.
 
 Endpoints, a Network ad-on, can be any Diode address and may by any type of "Generic" or "Exit Node."
 
-To add an Endpoint, go to the Network settings as seen in the quick access bar.
+To add an Endpoint, go to the Network settings as seen in the quick access bar of your Zone.
 
 ![](/uploads/screenshot-2024-11-07-at-8-47-52-pm.png)
 

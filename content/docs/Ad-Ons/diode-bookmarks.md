@@ -14,7 +14,7 @@ To search for or view a Contract, go to the Network settings as seen in the quic
 
 ![](/uploads/screenshot-2024-11-07-at-8-47-52-pm.png)
 
-![](/uploads/screenshot-2024-11-07-at-9-05-05-pm.png)
+![](/uploads/screenshot-2024-11-07-at-9-05-05-pm-1.png)
 
 Once in the Contract section of the Network settings in your Zone, you can view all contracts within that Zone.
 

@@ -34,9 +34,9 @@ See our other articles on the contents of the Network Ad-Ons:
 
 View our ad-on articles:
 
-* [Network Contracts](https://app.docs.diode.io/docs/ad-ons/diode-bookmarks/)
-* Network Domains
-* Network Endpoints
+* [Network Contracts](https://app.docs.diode.io/docs/ad-on/network-contracts/)
+* [Network Domains](https://app.docs.diode.io/docs/ad-on/network-domains/)
+* [Network Endpoints](https://app.docs.diode.io/docs/ad-on/network-endpoints/)
 
 &nbsp;
 

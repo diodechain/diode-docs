@@ -6,33 +6,21 @@ nav_section: Add Ons
 weight: 215
 draft: false
 ---
-Diode Collab has a "Network" Add Ons that is fully enabled in Enterprise Plans.  The Network Add Ons support managing endpoints, domains, and contracts.
+Diode Collab has a "Network" Add Ons that is fully enabled in Enterprise Plans.  The Network Add Ons support managing [Endpoints](https://app.docs.diode.io/docs/ad-on/network-endpoints/), [Domains](https://app.docs.diode.io/docs/ad-on/network-domains/), and [Contracts](https://app.docs.diode.io/docs/ad-on/network-contracts/).
 
-To access Networks in Zones, you must be the owner or an Admin within that Zone.
+> To access Network settings in any Zone, you must be the owner or an Admin within that Zone.
 
-First, to enable the Network, go into your Zone's settings and scroll to "Features and Ad-Ons."
+To enable the Network, go into your Zone's settings and scroll to "Features and Ad-Ons."
 
 ![](/uploads/network1-1.png)
 
 ![](/uploads/network2-1.png)
 
-Once there' click into the Network setting and select "Enable."
+Once there, click into the Network setting and select "Enable."
 
-See our other articles on the contents of the Network Ad-Ons:
+If the only button available is "Upgrade," your plan does not support Network Add Ons. Read more about our pricing and plans [here](https://app.docs.diode.io/docs/features/pricing-and-plans/).
 
-&nbsp;
-
-&nbsp;
-
-![](/uploads/screenshot-2024-11-06-at-11-04-20-am.png)
-
-![](/uploads/screenshot-2024-11-06-at-11-04-37-am.png)
-
-![](/uploads/screenshot-2024-11-06-at-11-04-50-am.png)
-
-![](/uploads/screenshot-2024-11-06-at-11-05-05-am.png)
-
-View our ad-on articles:
+See our other articles on the contents of the Network Add Ons:
 
 * [Network Contracts](https://app.docs.diode.io/docs/ad-on/network-contracts/)
 * [Network Domains](https://app.docs.diode.io/docs/ad-on/network-domains/)

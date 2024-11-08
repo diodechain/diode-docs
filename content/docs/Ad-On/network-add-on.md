@@ -2,7 +2,7 @@
 _schema: default
 title: Network Add On
 nav_title: Network Add On
-nav_section: Ad On
+nav_section: Add Ons
 weight: 199
 draft: false
 ---

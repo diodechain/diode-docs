@@ -20,6 +20,10 @@ From inside of the Network settings, you can click on Domains and view or search
 
 **![](https://app.docs.diode.io/uploads/screenshot-2024-11-07-at-9-20-21-pm.png)**
 
+If you select a specific Domain  you will be able to view details such as its name and address. By clicking on the name in this area of the settings, it will direct you to its Endpoint, which you can read about [here](https://app.docs.diode.io/docs/ad-on/network-endpoints/).
+
+![](/uploads/screenshot-2024-11-07-at-10-12-13-pm.png)
+
 &nbsp;
 
 &nbsp;

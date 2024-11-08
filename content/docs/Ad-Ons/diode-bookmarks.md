@@ -4,7 +4,7 @@ title: Network Contracts
 nav_title: Network Contracts
 nav_section: Ad On
 weight: 203
-draft: true
+draft: false
 ---
 See the Network Ad-Ons to article to enable the Network feature in your Zone.
 

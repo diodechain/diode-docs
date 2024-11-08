@@ -16,6 +16,12 @@ To add an Endpoint, go to the Network settings as seen in the quick access bar o
 
 ![](/uploads/screenshot-2024-11-07-at-8-45-47-pm.png)
 
-From there, you can search for existing Endpoints in the Zone or add more by using the plus icon. Selected Endpoints can also be deleted with the trash icon. You can use markdown to format endpoint descriptions. Enable auto-launch for endpoint dashboards as needed.
+From there, you can search for existing Endpoints in the Zone, add more by using the plus icon, or delete selected Endpoints with the trash icon.
 
-&nbsp;
+![](/uploads/network-3.png)
+
+![](/uploads/network-4-2.png)
+
+Enable auto-launch for endpoint dashboards as needed.
+
+See the rest of

@@ -6,7 +6,7 @@ nav_section: Add Ons
 weight: 202
 draft: false
 ---
-See the Network Ad-Ons to article to enable the Network feature in your Zone.
+See the [Network Add Ons to article](https://app.docs.diode.io/docs/ad-on/network-add-on/) to enable the Network feature in your Zone.
 
 To view Endpoints, go to the Network settings as seen in the quick access bar of your Zone.
 

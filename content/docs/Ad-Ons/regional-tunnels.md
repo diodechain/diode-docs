@@ -19,9 +19,3 @@ To add an Endpoint, go to the Network settings as seen in the quick access bar.
 From there, you can search for existing Endpoints in the Zone or add more by using the plus icon. Selected Endpoints can also be deleted with the trash icon. You can use markdown to format endpoint descriptions. Enable auto-launch for endpoint dashboards as needed.
 
 &nbsp;
-
-1. * Endpoints can be any Diode address and may of type "Generic" or "Exit Node"
-   * Markdown endpoint descriptions is supported
-   * Auto-launch endpoint dashboards
-
-&nbsp;

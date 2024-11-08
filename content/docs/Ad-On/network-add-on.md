@@ -14,9 +14,9 @@ To enable the Network, go into your Zone's settings and scroll to "Features and 
 
 ![](/uploads/network1-1.png)
 
-![](/uploads/network2-1.png)
-
 Once there, click into the Network setting and select "Enable."
+
+![](/uploads/network2-1.png)
 
 If the only button available is "Upgrade," your plan does not support Network Add Ons. Read more about our pricing and plans [here](https://app.docs.diode.io/docs/features/pricing-and-plans/).
 

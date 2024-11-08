@@ -4,14 +4,22 @@ title: Network Add On
 nav_title: Network Add On
 nav_section: Ad-Ons
 weight: 214
-draft: true
+draft: false
 ---
-Diode Collab has a "Network" Add On that is fully enabled in Enterprise Plans.  The Network Add On supports managing:
+Diode Collab has a "Network" Add On that is fully enabled in Enterprise Plans.  The Network Add On supports managing endpoints, domains, and contracts.
 
-* Endpoints
-  * Endpoints can be any Diode address and may of type "Generic" or "Exit Node"
-  * Markdown endpoint descriptions is supported
-  * Auto-launch endpoint dashboards
+To access Networks in Zones, you must be the owner or an Admin within that Zone.
+
+First, to enable the Network, go into your Zone's settings and scroll to "Features and Ad-Ons."
+
+![](/uploads/network1-1.png)
+
+![](/uploads/network2-1.png)
+
+Once there' click into the Network setting and select "Enable."
+
+See our other articles on the contents of the Network Ad-Ons:
+
 * Domains
   * Domains are "BNS" names that can be associated with one or more endpoints
   * A common use case for a Domain is to create a private publication group that is used to manage Team member access to specific assets
@@ -19,9 +27,9 @@ Diode Collab has a "Network" Add On that is fully enabled in Enterprise Plans.  
   * Contracts are Fleet Contracts that can be used to manage and underwrite traffic for independent fleets of devices
   * A Contract is often deployed when creating a new IoT product, OT deployment, or application that leverages the Diode Network
 
-![](/uploads/screenshot-2024-11-06-at-10-56-36-am.png)
+&nbsp;
 
-![](/uploads/screenshot-2024-11-06-at-11-04-02-am.png)
+&nbsp;
 
 ![](/uploads/screenshot-2024-11-06-at-11-04-20-am.png)
 

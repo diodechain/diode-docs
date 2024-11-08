@@ -3,7 +3,7 @@ _schema: default
 title: Network Domains
 nav_title: Network Domains
 nav_section: Add Ons
-weight: 200
+weight: 217
 draft: false
 ---
 See the [Network Add Ons article](https://app.docs.diode.io/docs/ad-on/network-add-on/) to enable the Network feature in your Zone.

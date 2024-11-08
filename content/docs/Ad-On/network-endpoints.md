@@ -16,6 +16,10 @@ To view Endpoints, go to the Network settings as seen in the quick access bar of
 
 Once you've entered the Endpoints settings, you can search for existing endpoints in the Zone, add Endpoints with the plus icon, or delete Endpoints with the trash icon. You can use Markdown to format endpoint descriptions and can enable auto-launch for endpoint dashboards as needed.
 
-![](/uploads/network-3.png)
+![](/uploads/screenshot-2024-11-07-at-10-13-31-pm.png)
 
-![](/uploads/network-4-1.png)
+![](/uploads/screenshot-2024-11-07-at-10-14-09-pm.png)
+
+If you select a specific Endpoint, you will be able to view and edit further information of that Endpoint such as its active Contract (read more [here](https://app.docs.diode.io/docs/ad-on/network-contracts/)), the description, its type (either a Generic or Exit Node), the name, and its resource.
+
+![](/uploads/screenshot-2024-11-07-at-10-17-01-pm.png)

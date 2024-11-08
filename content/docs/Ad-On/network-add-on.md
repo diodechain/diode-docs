@@ -3,7 +3,7 @@ _schema: default
 title: Network Add Ons
 nav_title: Network Add Ons
 nav_section: Add Ons
-weight: 199
+weight: 215
 draft: false
 ---
 Diode Collab has a "Network" Add Ons that is fully enabled in Enterprise Plans.  The Network Add Ons support managing endpoints, domains, and contracts.

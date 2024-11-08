@@ -3,8 +3,8 @@ _schema: default
 title: Network Add On
 nav_title: Network Add On
 nav_section: Ad On
-weight: 214
-draft: true
+weight: 199
+draft: false
 ---
 Diode Collab has a "Network" Add On that is fully enabled in Enterprise Plans.  The Network Add On supports managing endpoints, domains, and contracts.
 
@@ -33,6 +33,10 @@ See our other articles on the contents of the Network Ad-Ons:
 ![](/uploads/screenshot-2024-11-06-at-11-05-05-am.png)
 
 View our ad-on articles:
+
+* [Network Contracts](https://app.docs.diode.io/docs/ad-ons/diode-bookmarks/)
+* Network Domains
+* Network Endpoints
 
 &nbsp;
 

@@ -3,7 +3,7 @@ _schema: default
 title: Network Endpoints
 nav_title: Network Endpoints
 nav_section: Add Ons
-weight: 202
+weight: 218
 draft: false
 ---
 See the [Network Add Ons to article](https://app.docs.diode.io/docs/ad-on/network-add-on/) to enable the Network feature in your Zone.

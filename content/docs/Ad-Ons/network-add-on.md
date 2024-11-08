@@ -2,7 +2,7 @@
 _schema: default
 title: Network Add On
 nav_title: Network Add On
-nav_section: Ad-Ons
+nav_section: Ad-On
 weight: 214
 draft: false
 ---
@@ -23,11 +23,8 @@ See our other articles on the contents of the Network Ad-Ons:
 * Domains
   * Domains are "BNS" names that can be associated with one or more endpoints
   * A common use case for a Domain is to create a private publication group that is used to manage Team member access to specific assets
-* Contracts
-  * Contracts are Fleet Contracts that can be used to manage and underwrite traffic for independent fleets of devices
-  * A Contract is often deployed when creating a new IoT product, OT deployment, or application that leverages the Diode Network
 
-&nbsp;
+  &nbsp;
 
 &nbsp;
 

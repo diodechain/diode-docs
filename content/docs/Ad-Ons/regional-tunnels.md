@@ -1,14 +1,16 @@
 ---
 _schema: default
-title: Network - Endpoints
-nav_title: Endpoints
-nav_section: Ad-Ons
+title: Network Endpoints
+nav_title: Network Endpoints
+nav_section: Ad On
 weight: 200
 draft: true
 ---
-See the Network Ad-Ons to article to turn on the Network feature in your Zone.
+See the Network Ad-Ons to article to enable the Network feature in your Zone.
 
-Endpoints, a Network ad-on, can be any Diode address and may by any type of "Generic" or "Exit Node." To add an Endpoint, go to the Network settings as seen in the quick access bar.
+Endpoints, a Network ad-on, can be any Diode address and may by any type of "Generic" or "Exit Node."
+
+To add an Endpoint, go to the Network settings as seen in the quick access bar.
 
 ![](/uploads/screenshot-2024-11-07-at-8-47-52-pm.png)
 

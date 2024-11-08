@@ -2,11 +2,11 @@
 _schema: default
 title: Network Domains
 nav_title: Network Domains
-nav_section: Ad On
+nav_section: Add Ons
 weight: 200
 draft: false
 ---
-See the Network Ad-Ons to article to enable the Network feature in your Zone.
+See the [Network Add Ons article](https://app.docs.diode.io/docs/ad-on/network-add-on/) to enable the Network feature in your Zone.
 
 Domains are “BNS” names that can be associated with one or more endpoints. A common use case for a Domain is to create a private publication group that is used to manage Team member access to specific assets.
 

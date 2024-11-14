@@ -20,9 +20,9 @@ When a Zone is created, it automatically starts at the Nomad plan and can be upg
 
 All plans get you <a href="https://app.docs.diode.io/docs/features/chat-with-other-team-members/" target="_blank" rel="noopener"><strong>group and direct E2EE chat</strong></a>, <a href="https://app.docs.diode.io/docs/using/add-a-team-member-or-additional-device/" target="_blank" rel="noopener"><strong>E2EE file collaboration</strong></a>, <a href="https://cli.docs.diode.io/docs/using/remote-ssh/" target="_blank" rel="noopener"><strong>E2EE asset connectivity</strong></a>, <a href="https://app.docs.diode.io/docs/using/file-editors/" target="_blank" rel="noopener"><strong>secure markdown file editing</strong></a>, <a href="https://app.docs.diode.io/docs/using/share-a-file-or-folder-via-web-browser/" target="_blank" rel="noopener"><strong>link sharing</strong></a>, and as much storage as your devices can handle (aka "<a href="https://app.docs.diode.io/docs/features/is-diode-drive-unlimited-storage/" target="_blank" rel="noopener"><strong>Unlimited Storage</strong></a>"). We want everyone to have the core capabilities needed to protect their assets and operate securely at the pace of innovation. See the table below for details on other features that vary from plan to plan.
 
-| &nbsp; | ### **Nomad** | ### **Business** |
+| &nbsp; | \### **Nomad** | \### **Business** |
 | --- | --- | --- |
-| <a href="https://app.docs.diode.io/docs/using/add-a-team-member-or-additional-device/" target="_blank" rel="noopener"><strong>Team Members</strong></a> | 5 | 20+ |
+| <a href="https://app.docs.diode.io/docs/using/add-a-team-member-or-additional-device/" target="_blank" rel="noopener"><strong>Team Members</strong></a> | 3 | 20+ |
 | [**Roles**](https://app.docs.diode.io/docs/using/manage-team-member-roles/) | Owner, Member, Bot | Owner, Admin, Member, Bot |
 | <a href="https://app.docs.diode.io/docs/using/create-a-group-chat/" target="_blank" rel="noopener"><strong>Group Chat Channels</strong></a> | 1 | 10 |
 | <a href="https://app.docs.diode.io/docs/using/share-a-file-or-folder-via-web-browser/" target="_blank" rel="noopener"><strong>Web Links</strong></a> | 3 | 20 |
@@ -32,7 +32,7 @@ All plans get you <a href="https://app.docs.diode.io/docs/features/chat-with-oth
 
 &nbsp;
 
-| #### **Feature** | #### **Description** |
+| \#### **Feature** | \#### **Description** |
 | --- | --- |
 | <a href="https://app.docs.diode.io/docs/using/add-a-team-member-or-additional-device/" target="_blank" rel="noopener"><strong>Team Members</strong></a> | Team Members can chat with each other in an integrated environment that has access to their work content. Work content can include files, devices/assets, and dashboards/web content. Members can also publish web links and edit notes/files. Chat can be direct messages (1:1) or group chat channels. |
 | [**Roles**](https://app.docs.diode.io/docs/using/manage-team-member-roles/) | Team Members can be assigned different roles, that give them different permissions. Each Zone may only have one Owner. |
@@ -48,7 +48,7 @@ All plans get you <a href="https://app.docs.diode.io/docs/features/chat-with-oth
 
 The following features are in the Enterprise plans:
 
-| <a href="https://app.docs.diode.io/docs/using/how-to-customize-share-page-information/" target="_blank" rel="noopener"><strong>Web Link Branding</strong></a> | **A Zone's web link landing page (aka** <a href="https://app.docs.diode.io/docs/using/how-to-customize-share-page-information/" target="_blank" rel="noopener"><strong>Share Page</strong></a>**) can be customized to use a custom logo, company name, and footer message.** |
+| <a href="https://app.docs.diode.io/docs/using/how-to-customize-share-page-information/" target="_blank" rel="noopener"><strong>Web Link Branding</strong></a> | **A Zone's web link landing page (aka**<a href="https://app.docs.diode.io/docs/using/how-to-customize-share-page-information/" target="_blank" rel="noopener"><strong>Share Page</strong></a>**) can be customized to use a custom logo, company name, and footer message.** |
 | --- | --- |
 | **Secure Browsing** | A Zone can provide bookmarks to websites or webpages that can be loaded in the Diode Collab over a secure link. These links can either be via regional proxy (e.g. load the page as if you are in the USA or other region) or via direct connection to the web page. This provides the Zone Team Members with a VPN solution for their Zone-related websites without requiring them to run VPN themselves. |
 | **Network Management** | The powerful DIode Network is "under the hood" of the DIode Collab and is the core system that allows end-to-end encrypted communications without using . The Network Management feature allows an IT or technically-minded person to manage network routing of web pages, APIs, or other assets that you want your team to have access to. |

@@ -1,9 +1,9 @@
 ---
 _schema: default
-title: Affiliate Program
-nav_title: Affiliate Program
+title: Overview
+nav_title: Overview
 nav_section: Affiliate Program
-weight: 1
+weight: 200
 draft: false
 ---
-# Affilate Program Overview
+Overview of the Affiliate Program blah blah

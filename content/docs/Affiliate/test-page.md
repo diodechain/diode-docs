@@ -1,9 +1,15 @@
 ---
 _schema: default
-title: Test Page
-nav_title: Test Page
+title: Referral Codes
+nav_title: Referral Codes
 nav_section: Affiliate Program
-weight: 200
+weight: 201
 draft: false
 ---
-Test Page Creation
+Referral Codes are ...  They give you the ability to...
+
+&nbsp;
+
+### Getting your own code
+
+Follow these steps to get your own referral code:

@@ -4,6 +4,6 @@ title: New Project
 nav_title: New Project
 nav_section: Projects
 weight: 103
-draft: false
+draft: true
 ---
 New Project

@@ -11,3 +11,11 @@ The mission of the Diode Affiliate Program is to expand the use of <a href="http
 Diode Collab is the leading team collaboration solution for teams who work in sensitive regions or with sensitive data. It is a high security collaboration application organized like Slack, but with better digital protections than Signal. It also includes secure file sharing, regional Internet access (like VPN), and private dashboards – everything organizations need to support protected team collaborations around the world.
 
 Organizations who use Diode Collab get a higher security, lower cost alternative to centralized solutions on the market. Further, organizational users can easily create their own Zones for other walks of life - therefore organizational adoption represents a mutually beneficial sticky network effect for Diode and the Diode Network.
+
+###### Affiliate Activities
+
+The following shows the steps that a full participant in the Diode Affiliate Program will go through.
+
+![](/uploads/affiliate-flow.png "Affiliate Activity Flow")
+
+&nbsp;

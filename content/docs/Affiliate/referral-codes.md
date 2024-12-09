@@ -6,9 +6,7 @@ nav_section: Affiliate Program
 weight: 201
 draft: false
 ---
-Referral Codes are your key to  ...  They give you the ability to...
-
-&nbsp;
+Referral Codes are your key to the Diode Affiliate Program.  Each referral code is a unique identifier to your affiliate activity.  They give you the ability to register leads, record rewards and introduce other affiliates to Diode.
 
 ### Getting your own code
 

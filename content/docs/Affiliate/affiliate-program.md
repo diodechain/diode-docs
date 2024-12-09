@@ -12,7 +12,7 @@ Diode Collab is the leading team collaboration solution for teams who work in se
 
 Organizations who use Diode Collab get a higher security, lower cost alternative to centralized solutions on the market. Further, organizational users can easily create their own Zones for other walks of life - therefore organizational adoption represents a mutually beneficial sticky network effect for Diode and the Diode Network.
 
-###### Affiliate Activities
+### Affiliate Activities
 
 The following shows the steps that a full participant in the Diode Affiliate Program will go through.
 

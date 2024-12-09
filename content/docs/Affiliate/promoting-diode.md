@@ -3,7 +3,7 @@ _schema: default
 title: Promoting Diode
 nav_title: Promoting Diode
 nav_section: Affiliate Program
-weight: 202
+weight: 203
 draft: false
 ---
 Here are some tips on how to promote Diode:

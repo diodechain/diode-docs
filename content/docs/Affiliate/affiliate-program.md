@@ -18,4 +18,8 @@ The following shows the steps that a full participant in the Diode Affiliate Pro
 
 ![](/uploads/affiliate-flow.png "Affiliate Activity Flow")
 
+### Join the Affiliate Program
+
+If you are interested in joining the Diode Affiliate Program, start by filling out this <a href="https://nidese6v.paperform.co" title="Interest Form" target="_blank" rel="noopener">interest form</a>.
+
 &nbsp;

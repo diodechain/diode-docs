@@ -10,7 +10,7 @@ Referral Codes are your key to the Diode Affiliate Program.  Each referral code 
 
 ### Getting your own code
 
-First, fill out an <a href="https://nidese6v.paperform.co/" target="_blank" rel="noopener">interest form</a> and receive a link that you can use in <a href="https://diode.io/download/#app" target="_blank" rel="noopener">Diode Collab</a> to join the Diode Affiliate Zone.
+First, fill out the <a href="https://nidese6v.paperform.co/" target="_blank" rel="noopener">interest form</a> - we will respond with questions or with a link that you can use in <a href="https://diode.io/download/#app" target="_blank" rel="noopener">Diode Collab</a> to join the Diode Affiliate Zone.
 
 Once you are in the Zone, follow these steps to get your own referral code:
 

@@ -10,13 +10,13 @@ Become an Affiliate and get paid for helping expand the use of <a href="https://
 
 Read more about [how and why to promote Diode](/affiliate/promoting-diode/).
 
-### Join the Affiliate Program
+### Join
 
 If you are interested in becoming an Affiliate, start by filling out this <a href="https://nidese6v.paperform.co" title="Interest Form" target="_blank" rel="noopener">interest form</a>.
 
 ### Activities
 
-The following is an outline of Affiliate activities:
+Once you are accepted as an Affiliate, you can join the Affiliate Zone, register for a Referral Code, and begin helping customers use Diode Collab!
 
 ![](/uploads/affiliate-flow.png "Affiliate Activity Flow")
 

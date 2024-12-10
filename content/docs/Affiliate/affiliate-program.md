@@ -8,7 +8,7 @@ draft: false
 ---
 Become an Affiliate and get paid for helping expand the use of <a href="https://diode.io/products/collab/" title="Diode Collab" target="_blank" rel="noopener">Diode Collab</a> in organizations!
 
-Read more about [how and why to promote Diode](/affiliate/promoting-diode/).
+Read more about [how and why to promote Diode](/docs/affiliate/promoting-diode/).
 
 ### Join
 

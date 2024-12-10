@@ -6,11 +6,13 @@ nav_section: Affiliate Program
 weight: 202
 draft: false
 ---
-Referral Codes are your key to the Diode Affiliate Program.  Each referral code is a unique identifier to your affiliate activity.  They give you the ability to register leads, record rewards and introduce other affiliates to Diode.
+Referral Codes are your key to the Diode Affiliate Program.  Each referral code is a unique identifier to your affiliate activity.  They give you the ability to register leads, record rewards, and introduce other affiliates to Diode.
 
 ### Getting your own code
 
-Follow these steps to get your own referral code in the Diode Affiliate Zone:
+First, fill out an <a href="https://nidese6v.paperform.co/" target="_blank" rel="noopener">interest form</a> and receive a link that you can use in <a href="https://diode.io/download/#app" target="_blank" rel="noopener">Diode Collab</a> to join the Diode Affiliate Zone.
+
+Once you are in the Zone, follow these steps to get your own referral code:
 
 1. Wait for the zone to appear and until it is fully initialized (can take a few minutes)
 2. Navigate to the Registrar (or “registrar.diode”) and initiate a chat with it by sending “hello”

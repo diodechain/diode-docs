@@ -8,7 +8,7 @@ draft: false
 ---
 Become an Affiliate and get paid for helping expand the use of <a href="https://diode.io/products/collab/" title="Diode Collab" target="_blank" rel="noopener">Diode Collab</a> in organizations!
 
-Read more
+Read more about [how and why to promote Diode](/affiliate/promoting-diode/).
 
 ### Join the Affiliate Program
 
@@ -16,7 +16,7 @@ If you are interested in becoming an Affiliate, start by filling out this <a hre
 
 ### Activities
 
-The following shows an diagram of Affiliate activities.
+The following is an outline of Affiliate activities:
 
 ![](/uploads/affiliate-flow.png "Affiliate Activity Flow")
 

@@ -16,7 +16,7 @@ If you are interested in becoming an Affiliate, start by filling out this <a hre
 
 ### Activities
 
-Once you are accepted as an Affiliate, you can join the Affiliate Zone, register for a Referral Code, and begin helping customers use Diode Collab!
+After you fill out the interest form, you can [join the Affiliate Zone, register for a Referral Code, and begin helping customers use Diode Collab](/docs/affiliate/referral-codes/)!
 
 ![](/uploads/affiliate-flow.png "Affiliate Activity Flow")
 

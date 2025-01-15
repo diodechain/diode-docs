@@ -6,7 +6,7 @@ nav_section: Using
 weight: 223
 draft: true
 ---
-Standard OS notifications are delivered as push notifications on mobile devices.
+Standard OS notifications are delivered as push notifications on mobile devices. You are prompted to choose whether you want to enable Push notifications when first configuring a new phone. You can disable this feature at a profile level (all Zones) in your profile settings.
 
 To enable them, simply click on your icon at the top right corner of your app and select "Profile" from the drop down.
 
@@ -14,16 +14,20 @@ To enable them, simply click on your icon at the top right corner of your app an
 
 ![](/uploads/2nd.png)
 
-From there, you can scroll down to the "Local Settings" section and select "Notification Preferences."
+From there, scroll down to the "Local Settings" section and select "Notification Preferences."
 
 ![](/uploads/3rd.png)
 
-You have the option to enable push notifications from here, and if at any point you would like to disable them, you can do so in the same place.
+Here you have the option to enable the push notifications, and if at any point you would like to disable them, you can do so in the same place.
 
 ![](/uploads/4th.png)
 
-![](/uploads/5th.png)
+Your push notifications will look something like this in your notifications center on your phone:
 
-For those concerned about any privacy implications with push notifications, please visit our [FAQ page](https://app.docs.diode.io/docs/faq/how-do-notifications-impact-privacy/#push-notifications).
+![](/uploads/push-notifications.png)
+
+Enjoy!
+
+If you have any questions about the privacy implications or just want to know more about Diode Collab's push notifications, please visit our [FAQ page](https://app.docs.diode.io/docs/faq/how-do-notifications-impact-privacy/#push-notifications).
 
 &nbsp;

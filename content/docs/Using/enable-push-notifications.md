@@ -4,7 +4,7 @@ title: Enable Push Notifications
 nav_title: Push Notifications
 nav_section: Using
 weight: 223
-draft: false
+draft: true
 ---
 Standard OS notifications are delivered as push notifications on mobile devices. You are prompted to choose whether you want to enable Push notifications when first configuring a new phone. You can disable this feature at a profile level (all Zones) in your profile settings.
 

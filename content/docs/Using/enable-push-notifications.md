@@ -10,17 +10,17 @@ Standard OS notifications are delivered as push notifications on mobile devices.
 
 To enable them, simply click on your icon at the top right corner of your app and select "Profile" from the drop down.
 
-![](/uploads/1st.png)
+![](/uploads/1st-2.png)
 
-![](/uploads/2nd.png)
+![](/uploads/2nd-1.png)
 
 From there, scroll down to the "Local Settings" section and select "Notification Preferences."
 
-![](/uploads/3rd.png)
+![](/uploads/3rd-1.png)
 
 Here you have the option to enable the push notifications, and if at any point you would like to disable them, you can do so in the same place.
 
-![](/uploads/4th.png)
+![](/uploads/4th-1.png)
 
 Your push notifications will look something like this in your notifications center on your phone:
 

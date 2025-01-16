@@ -10,7 +10,7 @@ Standard OS notifications are delivered as push notifications on mobile devices.
 
 To enable them, simply click on your icon at the top right corner of your app and select "Profile" from the drop down.
 
-![](/uploads/1st-2.png)
+![](/uploads/push-notifications-4.png)
 
 ![](/uploads/2nd-1.png)
 

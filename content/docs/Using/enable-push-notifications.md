@@ -12,19 +12,19 @@ To enable them, simply click on your icon at the top right corner of your app an
 
 ![](/uploads/push-notifications-4.png)
 
-![](/uploads/2nd-1.png)
+![](/uploads/push-notifications-2-1.png)
 
 From there, scroll down to the "Local Settings" section and select "Notification Preferences."
 
-![](/uploads/3rd-1.png)
+![](/uploads/push-notifications-3.png)
 
 Here you have the option to enable the push notifications, and if at any point you would like to disable them, you can do so in the same place.
 
-![](/uploads/4th-1.png)
+![](/uploads/push-notifications-5.png)
 
 Your push notifications will look something like this in your notifications center on your phone:
 
-![](/uploads/push-notifications-2.png)
+![](/uploads/push-notifications-6.png)
 
 Enjoy!
 

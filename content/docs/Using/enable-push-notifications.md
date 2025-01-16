@@ -24,7 +24,7 @@ Here you have the option to enable the push notifications, and if at any point y
 
 Your push notifications will look something like this in your notifications center on your phone:
 
-![](/uploads/push-notifications-6.png)
+![](/uploads/push-notifications-6-1.png)
 
 Enjoy!
 

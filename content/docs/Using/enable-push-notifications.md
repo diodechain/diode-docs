@@ -20,7 +20,7 @@ From there, scroll down to the "Local Settings" section and select "Notification
 
 Here you have the option to enable the push notifications, and if at any point you would like to disable them, you can do so in the same place.
 
-![](/uploads/push-notifications-5.png)
+![](/uploads/push-notifications-5-1.png)
 
 Your push notifications will look something like this in your notifications center on your phone:
 

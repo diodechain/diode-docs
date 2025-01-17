@@ -45,10 +45,14 @@ The <a href="https://diode.io/" target="_blank" rel="noopener">Diode website</a>
 
 [Diode Orange Coin Logo](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/fnsctz0vdbr42ek9)
 
+[Diode Orange Square Logo](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/ad7l0i97v3nfqc94)
+
 [Diode White Coin Logo](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/0v6r94982hc14riu)
 
 [Diode Block Icon](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/ad7l0i97v3nfqc94)
 
 [Diode Monochrome](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/y2meyfgn7p9ngynd)
+
+&nbsp;
 
 &nbsp;

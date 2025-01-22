@@ -54,6 +54,8 @@ Clicking the orange Diode Collab icon will drop-down / pop-up menu options. Clic
 
 That's it! Diode Collab is installed and active on your system.
 
+**Note for Linux users:** Copy and paste of media does not work on GNOME; however, text copy/paste works fine, and you can use drag-and-drop for media. Additionally, spell check is not available at this time.
+
 **NEXT STEP:** [**Create an Account**](https://app.docs.diode.io/docs/using/getting-started/)
 
 ---

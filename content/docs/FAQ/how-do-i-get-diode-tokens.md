@@ -6,8 +6,6 @@ nav_section: FAQ
 weight: 20020
 draft: false
 ---
-Please contact us if you are interested in learning more about DIODE. If you would like to get involved with Diode's ecosystem expansion, please check out our [Airlyft campaign for Diode Ambassadors](https://airlyft.one/diode).
+The Diode Network is a DePIN network operated by the <a href="https://diode.foundation" target="_blank" rel="noopener">Diode Foundation</a>.  In the network, certain supplies and demands of bandwidth are rewarded with the DIODE token.
 
-In all cases, you need a wallet to receive DIODE - follow the <a href="https://network.docs.diode.io/docs/faq/configure-metamask/" target="_blank" rel="noopener">Configure Metamask</a> article to get going with using the Metamask wallet.
-
-&nbsp;
+Please join the <a href="https://discord.gg/qdGCAKJdHs" target="_blank" rel="noopener">Diode and Diode Foundation Discord channel</a> to participate in building the future of Internet communications.

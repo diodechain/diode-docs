@@ -13,9 +13,9 @@ The DIODE token is a utility token that must be staked to obtain bandwidth on th
 * Relay nodes for getting better routing preference
 * DIDs for retaining access to short names
 * Diode L1 validators (see below)
-* Other to-be-announced<br>
+* Other to-be-announced
 
-  **<u>Fleet Contracts</u>**
+**<u>Fleet Contracts</u>**
 
 All communication on the Diode Network must be sponsored by a [**Fleet Contract**](https://network.docs.diode.io/docs/faq/what-is-a-fleet-contract/) (entities communicating must be listed in a Fleet Contract). The Fleet Contract has a Stake associated with it - this Stake is an amount of DIODE that is locked for one epoch (approx. one month), and provides a pool of value that determines how much Relays, that have transacted traffic on behalf of the Fleet Contract, are paid at the end of the epoch. Without Stake in the Fleet Contract, it is unlikely the Relays will accept the traffic - or, if they do, that the QoS of the traffic will be very high.
 

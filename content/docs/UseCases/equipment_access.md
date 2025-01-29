@@ -26,22 +26,25 @@ Devices can be remotely accessed via SSH, VNC, or any API-driven interface.  If 
 
 ### Applications
 
-* Air handling units
-* Building management
-* Power monitoring systems
-* Manufacturing line configuration and OEE
-* Remote OEM equipment maintenance
-* Regional equipment access regulations
-* Blockchain DePIN systems
+* Remote OEM equipment maintenance (e.g. air handling, lift stations, engine monitoring, regionally-restricted connections, etc.)
+* Secure server access (on-premise, private-cloud, isolated public cloud)
+* Blockchain DePIN node communication and management
+* Building and facility management (factory floor, vendor access controls, BAM systems)
+* Manufacturing line configuration, MES, and OEE
+* Regulatory audit and compliance information sharing and support
+* Remote file storage and intranet resource access
+* Isolated IoT sensor communication and management tunnels (power and energy monitoring)
 
 ### Related Partner Solutions
 
-* <a href="https://exosite.com" target="_blank" rel="noopener">Exosite</a> (USA, Taiwan)
+* <a href="https://exosite.com" target="_blank" rel="noopener">Exosite</a> (USA-Minneapolis, Taiwan)
 * <a href="https://www.miraiwindow.co.jp/" target="_blank" rel="noopener">Mirai Window</a> (Japan)
 * <a href="https://derateknoloji.com/" target="_blank" rel="noopener">Dera Technologies</a> (Turkey)
+* <a href="https://www.imprimis-inc.com/" target="_blank" rel="noopener">Imprimis</a> (USA-Colorado Springs)
 
 ### Articles
 
+* <a href="https://app.docs.diode.io/docs/admin/api-tunnels-for-iot/" target="_blank" rel="noopener">API tunnels for IoT</a>
 * <a href="https://app.docs.diode.io/docs/features/network-add-on/" target="_blank" rel="noopener">Network management Add On in Diode Collab</a>
 * <a href="https://app.docs.diode.io/docs/features/diode-bookmarks#type-web3-link" target="_blank" rel="noopener">Web3 dashboards</a>
 * <a href="https://cli.docs.diode.io/docs/using/raspberry-pi/" target="_blank" rel="noopener">Connecting Linux based equipment</a>

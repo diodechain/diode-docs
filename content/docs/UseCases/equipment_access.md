@@ -10,7 +10,7 @@ draft: false
 
 ***Maintain remote equipment over 256-bit E2EE connections.***
 
-With Diode, it is simple to manage remote access to assets for your team, or your various suppliers.  Blockchain-anchored self-custody credentials ensure the integrity of each Zero Trust connection.
+With Diode, it is simple to manage remote access to assets for your team and your suppliers.  Blockchain-anchored self-custody credentials ensure the integrity of each Zero Trust connection.
 
 Devices can be remotely accessed via SSH, VNC, or any API-driven interface.  If the device has a local web configuration dashboard, it is simple to provide secure end-to-end encrypted access to team members.
 

@@ -45,7 +45,7 @@ Devices can be remotely accessed via SSH, VNC, or any API-driven interface.  If 
 
 ### Articles
 
-* <a href="https://app.docs.diode.io/docs/features/network-add-on/" target="_blank" rel="noopener">Network management Add On in Diode Collab</a>
+* <a href="https://app.docs.diode.io/docs/ad-on/network-add-on/" target="_blank" rel="noopener">Network management Add On in Diode Collab</a>
 * <a href="https://app.docs.diode.io/docs/features/diode-bookmarks#type-web3-link" target="_blank" rel="noopener">Web3 dashboards</a>
 * <a href="https://cli.docs.diode.io/docs/using/raspberry-pi/" target="_blank" rel="noopener">Connecting Linux based equipment</a>
 * <a href="https://cli.docs.diode.io/faq/how-to-start-diode-cli-at-boot-with-microsoft-windows/" target="_blank" rel="noopener">Connected Windows machines</a>

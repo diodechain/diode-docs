@@ -38,3 +38,4 @@ Devices can be remotely accessed via SSH, VNC, or any API-driven interface.  If 
 * <a href="https://cli.docs.diode.io/faq/how-to-start-diode-cli-at-boot-with-microsoft-windows/" target="_blank" rel="noopener">Connected Windows machines</a>
 * <a href="https://cli.docs.diode.io/docs/using/remote-ssh/" target="_blank" rel="noopener">Remote SSH</a>
 * <a href="https://cli.docs.diode.io/docs/using/remote-vnc-articles/" target="_blank" rel="noopener">Remote VNC</a>
+* <a href="https://cli.docs.diode.io/docs/using/working-with-blockchain-names/#how-to-use-bns-names" target="_blank" rel="noopener">Using blockchain names to manage access via DevOps tooling</a>

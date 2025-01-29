@@ -26,6 +26,8 @@ Read below for details!
 
 > diode bns -register &lt;name&gt;=&lt;address(es)&gt;
 
+Note that registering a name will take at least one block time (more than 10 seconds and less than 5 minutes).  The messages printed in the terminal will provide updates.
+
 Example - register one address to a name:
 
 > diode bns -register mynewname=0x123229542c4afe8cd39da33f81bf698d57d3cb2a
@@ -39,6 +41,8 @@ Example - register two addresses to a name:
 To update a BNS name, your Diode CLI's address must be the owner of the name already.  If it is not, you must transfer ownership of the name to your CLI's address.
 
 > diode bns -register &lt;name&gt;=&lt;updated address(es)&gt;
+
+Note that updating a name will take at least one block time (more than 10 seconds and less than 5 minutes).  The messages printed in the terminal will provide updates.
 
 Example - update  a name with a single address:
 
@@ -64,6 +68,8 @@ If you no longer want to own a name, use "unregister".
 
 This will release the name and someone else will be able to register it.
 
+Note that unregistering a name will take at least one block time (more than 10 seconds and less than 5 minutes). The messages printed in the terminal will provide updates.
+
 ### transfer name
 
 If you want to give someone else the name, use "transfer".
@@ -71,3 +77,5 @@ If you want to give someone else the name, use "transfer".
 > diode bns -transfer &lt;name&gt;=&lt;new owner&gt;
 
 This will transfer ownership of the name to the new owner address.
+
+Note that transferring a name will take at least one block time (more than 10 seconds and less than 5 minutes). The messages printed in the terminal will provide updates.

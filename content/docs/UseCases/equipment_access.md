@@ -14,6 +14,16 @@ With Diode, it is simple to manage remote access to assets for your team, or you
 
 Devices can be remotely accessed via SSH, VNC, or any API-driven interface.  If the device has a local web configuration dashboard, it is simple to provide secure end-to-end encrypted access to team members.
 
+### Advantages
+
+* No server supplier risk
+* Every team member uses self-custody keys (no account management risk)
+* Easy to manage access groups (UI and/or DevOps tooling)
+* Integrated web configurator dashboard access controls
+* Access on-premise and off-cloud assets
+* Auditable access control lists
+* OT/service team communications available in all regions at highest security
+
 ### Applications
 
 * Air handling units

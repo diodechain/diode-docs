@@ -34,7 +34,7 @@ Devices can be remotely accessed via SSH, VNC, or any API-driven interface.  If 
 * Manufacturing line configuration, MES, and OEE
 * Regulatory audit and compliance information sharing and support
 * Remote file storage and intranet resource access
-* Isolated IoT sensor communication and management tunnels (power and energy monitoring)
+* Isolated IoT sensor communication and management tunnels (tunnel existing APIs from sensors in contested regions)
 
 ### Related Partner Solutions
 
@@ -45,7 +45,6 @@ Devices can be remotely accessed via SSH, VNC, or any API-driven interface.  If 
 
 ### Articles
 
-* <a href="https://app.docs.diode.io/docs/admin/api-tunnels-for-iot/" target="_blank" rel="noopener">API tunnels for IoT</a>
 * <a href="https://app.docs.diode.io/docs/features/network-add-on/" target="_blank" rel="noopener">Network management Add On in Diode Collab</a>
 * <a href="https://app.docs.diode.io/docs/features/diode-bookmarks#type-web3-link" target="_blank" rel="noopener">Web3 dashboards</a>
 * <a href="https://cli.docs.diode.io/docs/using/raspberry-pi/" target="_blank" rel="noopener">Connecting Linux based equipment</a>
@@ -53,3 +52,4 @@ Devices can be remotely accessed via SSH, VNC, or any API-driven interface.  If 
 * <a href="https://cli.docs.diode.io/docs/using/remote-ssh/" target="_blank" rel="noopener">Remote SSH</a>
 * <a href="https://cli.docs.diode.io/docs/using/remote-vnc-articles/" target="_blank" rel="noopener">Remote VNC</a>
 * <a href="https://cli.docs.diode.io/docs/using/working-with-blockchain-names/#how-to-use-bns-names" target="_blank" rel="noopener">Using blockchain names to manage access via DevOps tooling</a>
+* <a href="https://app.docs.diode.io/docs/admin/api-tunnels-for-iot/" target="_blank" rel="noopener">API tunnels for IoT</a>

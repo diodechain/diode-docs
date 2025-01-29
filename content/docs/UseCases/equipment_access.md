@@ -16,7 +16,8 @@ Devices can be remotely accessed via SSH, VNC, or any API-driven interface.  If 
 
 ### Advantages
 
-* No server supplier risk
+* No server or network supplier risk
+* No additional IT Admin or self-hosting burden
 * Every team member uses self-custody keys (no account management risk)
 * Easy to manage access groups (UI and/or DevOps tooling)
 * Integrated web configurator dashboard access controls

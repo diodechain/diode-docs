@@ -8,10 +8,6 @@ draft: false
 ---
 BNS names are "blockchain name system" names (akak blockchain names).  You can register one or more addresses under a name, and every name has an owner.  The Diode CLI can be used to [register](https://cli.docs.diode.io/docs/using/working-with-blockchain-names/#register-name), [update](https://cli.docs.diode.io/docs/using/working-with-blockchain-names/#update-name), [lookup](https://cli.docs.diode.io/docs/using/working-with-blockchain-names/#lookup-name), inspect, [unregister](https://cli.docs.diode.io/docs/using/working-with-blockchain-names/#unregister-name), and [transfer](https://cli.docs.diode.io/docs/using/working-with-blockchain-names/#transfer-name) ownership of a blockchain name on the Diode Network.
 
-Diode Collab can also register and manage BNS names - in Diode Collab, they are called "Domains".
-
-Please node that the Diode CLI has partial support for Moonbeam BNS names, but some functionality may be limited.
-
 The Diode CLI command to manage BNS names is:
 
 > bns
@@ -21,6 +17,16 @@ invoked as:
 > diode bns &lt;command&gt;
 
 Read below for details!
+
+## How to use BNS names
+
+Blockchain names can be used to give any Ethereum address a human readable name.  While this is just generally helpful for recognizing an address, it is also helpful for the following use cases:
+
+* **Decentralized website name** - if you host a website at your Ethereum address, your BNS name is your website's name - anyone can type it into a Diode-enabled browser and view your website
+* **Failover for resource publication** \- you can register multiple addresses to a Domain name and the network will automatically handle fail-over in case the primary address is not available.
+* **Group management** - BNS names are convenient to register multiple addresses to in order to set publication perimeters.  For example, the "diode publish" command can publish to a BNS name as its publication context/perimeter.  In this way, the BNS name address list becomes an allow-list for private publication, allowing CI/CD and on/offboarding automation for OT, IT, and IoT systems.
+
+## Commands
 
 ### register name
 

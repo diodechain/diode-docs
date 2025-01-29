@@ -36,6 +36,11 @@ Devices can be remotely accessed via SSH, VNC, or any API-driven interface.  If 
 * Remote file storage and intranet resource access
 * Isolated IoT sensor communication and management tunnels (tunnel existing APIs from sensors in contested regions)
 
+### Videos
+
+* [Direct-tunnel and regional-tunnel dashboards](https://www.loom.com/share/fe8e6f7579a5493e93df727752dfb398)
+* Permission orchestration with blockchain-secured access control lists
+
 ### Related Partner Solutions
 
 * <a href="https://exosite.com" target="_blank" rel="noopener">Exosite</a> (USA-Minneapolis, Taiwan)

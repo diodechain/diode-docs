@@ -6,7 +6,7 @@ nav_section: Using
 weight: 5
 draft: false
 ---
-BNS names are "blockchain name system" names (akak blockchain names).  You can register one or more addresses under a name, and every name has an owner.  The Diode CLI can be used to register, update, lookup, inspect, unregister, and transfer ownership of a blockchain name on the Diode Network.
+BNS names are "blockchain name system" names (akak blockchain names).  You can register one or more addresses under a name, and every name has an owner.  The Diode CLI can be used to [register](https://cli.docs.diode.io/docs/using/working-with-blockchain-names/#register-name), [update](https://cli.docs.diode.io/docs/using/working-with-blockchain-names/#update-name), [lookup](https://cli.docs.diode.io/docs/using/working-with-blockchain-names/#lookup-name), inspect, [unregister](https://cli.docs.diode.io/docs/using/working-with-blockchain-names/#unregister-name), and [transfer](https://cli.docs.diode.io/docs/using/working-with-blockchain-names/#transfer-name) ownership of a blockchain name on the Diode Network.
 
 Diode Collab can also register and manage BNS names - in Diode Collab, they are called "Domains".
 

@@ -10,19 +10,19 @@ Anyone can run a Diode Network node (a Diode Point of Presence) and help expand 
 
 > If you just want to use Diode, you don't need to run your own node (see the off-the-shelf [Diode Collab](https://diode.io/solutions/app) and the [CLI](https://diode.io/solutions/cli) ). However, if you DO want to run a node in the Diode Network, you've come to the right place!
 
-## Three steps to run a node:
+### Three steps to run a node:
 
-### 1) Get a Linux box
+#### 1) Get a Linux box
 
-* You must have a Linux box or virtual machine (preferably running Ubuntu or <a href="https://forum.diode.io/t/lite-node-installation/33/3?u=hansr77" target="_blank" rel="noopener">Windows and wsl</a>)
+You must have a Linux box or virtual machine (preferably running Ubuntu or <a href="https://forum.diode.io/t/lite-node-installation/33/3?u=hansr77" target="_blank" rel="noopener">Windows and wsl</a>)
 
-### **2) Install the node**
+#### **2) Install the node**
 
-* Open a terminal and run "snap install diode-node" (<a href="https://forum.diode.io/t/lite-node-installation/33" target="_blank" rel="noopener">many more details here</a>)
+Open a terminal and run "snap install diode-node" (<a href="https://forum.diode.io/t/lite-node-installation/33" target="_blank" rel="noopener">many more details here</a>)
 
-### 3) Verify it is working
+#### 3) Verify it is working
 
-* In the terminal, type "diode-node.info" (or "sudo diode-node.info") and your dashboard link will be printed out - you can put that in your browser and see your node's progress (<a href="https://diode.io/network/#/node/0x8f7d822ab91370880c9a0d5c467653a456a3f165" target="_blank" rel="noopener">for example</a>)
+In the terminal, type "diode-node.info" (or "sudo diode-node.info") and your dashboard link will be printed out - you can put that in your browser and see your node's progress (<a href="https://diode.io/network/#/node/0x8f7d822ab91370880c9a0d5c467653a456a3f165" target="_blank" rel="noopener">for example</a>)
 
 That's it!  If your node is positioned near to users or devices, it will start handling traffic and earning rewards!
 

@@ -48,7 +48,7 @@ When Diode Collab starts up, it will load as a small orange icon in the task bar
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/d3eguu0pem/1615794188005/image.png)
 
-It should auto-open a sign up screen - if it does not, clicking the orange Diode Collab icon will drop-down / pop-up menu options. Click "Sign Up" to proceed with <a href="https://support.diode.io/article/gmg93l7u6y" target="_blank" rel="noopener"><strong>creating an account</strong></a>, or "Open" to open the app.
+It should auto-open a sign up screen - if it does not, clicking the orange Diode Collab icon will drop-down / pop-up menu options. Click "Sign Up" to proceed with <a href="https://app.docs.diode.io/docs/using/getting-started/" target="_blank" rel="noopener"><strong>creating an account</strong></a>, or "Open" to open the app.
 
 ![](https://files.helpdocs.io/qwk5dmv7m8/articles/rywr2hzmjg/1650666373818/image.png)
 

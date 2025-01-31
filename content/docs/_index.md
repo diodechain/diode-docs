@@ -12,7 +12,7 @@ Anyone can run a node in 3 steps (less than 5 minutes!):
 
 **That's it!  If your node is positioned near to users or devices, it will start handling traffic and [earning rewards](https://diode.foundation/docs/programs/bandwidth_growth_program.html)!**
 
-If you want more motivation, [here are some reasons you may want to run a node](/docs/faq/why-host-a-node/)!
+If you want more motivation, [here are some additional reasons you may want to run a node](/docs/faq/why-host-a-node/)!
 
 **More tips:**
 

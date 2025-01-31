@@ -8,9 +8,23 @@ draft: false
 ---
 Anyone can run a Diode Network node (a Diode Point of Presence) and help expand the reach of the Diode Network.
 
-<a href="https://forum.diode.io/t/lite-node-installation/33" target="_blank" rel="noopener">See here for instructions on installing/running a Lite Node the forum</a> - it can take <a href="https://medium.com/@hansrempel_27543/first-deployment-of-a-diode-node-48c8a18f8e2d" target="_blank" rel="noopener">less than two minutes</a> to setup a node and start relaying traffic!
+> If you just want to use Diode, you don't need to run your own node (see the off-the-shelf [Diode Collab](https://diode.io/solutions/app) and the [CLI](https://diode.io/solutions/cli) ). However, if you DO want to run a node in the Diode Network, you've come to the right place!
 
-> To use Diode, you can use [Diode Collab](https://diode.io/solutions/app) or the [CLI](https://diode.io/solutions/cli) off the shelf - you don't need to run your own node. However, if you DO want to run a node in the Diode Network, you've come to the right place!
+### Three steps to run a node (<a href="https://medium.com/@hansrempel_27543/first-deployment-of-a-diode-node-48c8a18f8e2d" target="_blank" rel="noopener">&lt; 5 minutes</a>):
+
+1. **Get a Linux box:** You must have a Linux box or virtual machine (preferably running Ubuntu or <a href="https://forum.diode.io/t/lite-node-installation/33/3?u=hansr77" target="_blank" rel="noopener">Windows and wsl</a>)
+2. **Install the node:** Open a terminal and run "snap install diode-node" (<a href="https://forum.diode.io/t/lite-node-installation/33" target="_blank" rel="noopener">many more details here</a>)
+3. **Verify it is working:** In the terminal, type "diode-node.info" (or "sudo diode-node.info") and your dashboard link will be printed out - you can put that in your browser and see your node's progress (<a href="https://diode.io/network/#/node/0x8f7d822ab91370880c9a0d5c467653a456a3f165" target="_blank" rel="noopener">for example</a>)
+
+That's it!  If your node is positioned near to users or devices, it will start handling traffic and earning rewards!
+
+* You can see your node on the <a href="https://diode.io/network" target="_blank" rel="noopener">overall network map</a>.
+* For debugging, visit the <a href="https://forum.diode.io/c/lite-node-category/7" target="_blank" rel="noopener">forum's lite node category</a>, or <a href="https://discord.gg/qdGCAKJdHs" target="_blank" rel="noopener">reach out via Discord</a>.
+* To boost your node's rewards from the Diode Foundation, check out the foundation's <a href="https://diode.foundation/docs/programs/bandwidth_growth_program.html" target="_blank" rel="noopener">bandwidth growth program</a>.
+* **System requirements**
+  * OS that can run <a href="https://snapcraft.io/" target="_blank" rel="noopener">Snap packages </a>(Ubuntu supports Snap by default)
+  * Publicly accessible IPv5 or IPv6 address with <a href="https://forum.diode.io/t/lite-node-ports/80" target="_blank" rel="noopener">open ports</a> (most data center VMs have this by default)
+  * 2GB of RAM (some providers, like Linode, run OK on 1GB of RAM)
 
 {{< youtube id="tVyptO7prf0" autoplay="true" title="Diode Network Nodes" >}}
 

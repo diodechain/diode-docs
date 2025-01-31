@@ -6,19 +6,21 @@ nav_section: Installation
 weight: 2
 draft: false
 ---
-Anyone can run a node in 3 steps (less than 5 minutes!):
+You can run a node in 3 steps (less than 5 minutes!):
 
-<table><tbody><tr><td><h2 style="text-align:center;">1</h2></td><td><h2 style="text-align:center;">2</h2></td><td><h2 style="text-align:center;">3</h2></td></tr><tr><td style="text-align:center;">Get a Linux box</td><td style="text-align:center;">Install the node</td><td style="text-align:center;">Use it!</td></tr><tr><td>You must have a Linux box or virtual machine (preferably running Ubuntu or <a href="https://forum.diode.io/t/lite-node-installation/33/3?u=hansr77" target="_blank" rel="noopener">Windows and wsl</a>)</td><td>Open a terminal and run "snap install diode-node" (<a href="https://forum.diode.io/t/lite-node-installation/33" target="_blank" rel="noopener">many more details here</a>)</td><td>Type "diode-node.info" to see your dashboard link and watch your node's progress! (<a href="https://diode.io/network/#/node/0x8f7d822ab91370880c9a0d5c467653a456a3f165" target="_blank" rel="noopener">for example</a>)</td></tr></tbody></table>
+<table><tbody><tr><td><h2 style="text-align:center;">1</h2></td><td><h2 style="text-align:center;">2</h2></td><td><h2 style="text-align:center;">3</h2></td></tr><tr><td style="text-align:center;">Get a Linux box</td><td style="text-align:center;">Install the node</td><td style="text-align:center;">Use it!</td></tr><tr><td>You must have a Linux box or virtual machine (preferably running Ubuntu or <a href="https://forum.diode.io/t/lite-node-installation/33/3?u=hansr77" target="_blank" rel="noopener">Windows and wsl</a>)</td><td>Open a terminal and run "snap install diode-node" (<a href="https://forum.diode.io/t/lite-node-installation/33" target="_blank" rel="noopener">more details here</a>)</td><td>Type "diode-node.info" to see your dashboard link and watch your node's progress! (<a href="https://diode.io/network/#/node/0x8f7d822ab91370880c9a0d5c467653a456a3f165" target="_blank" rel="noopener">for example</a>)</td></tr></tbody></table>
 
 **That's it!  If your node is positioned near to users or devices, it will start handling traffic and [earning rewards](https://diode.foundation/docs/programs/bandwidth_growth_program.html)!**
 
-If you want more motivation, [here are some additional reasons you may want to run a node](/docs/faq/why-host-a-node/)!
+**Not convinced?** [Read here](/docs/faq/why-host-a-node/) for some reasons why you might want to run a node.
+
+**Want to learn more?** [Read here](https://network.docs.diode.io/docs/features/lite-nodes-vs-full-nodes/) for the differences between Lite Nodes and Full Nodes.
 
 **More tips:**
 
 * You can see your node on the <a href="https://diode.io/network" target="_blank" rel="noopener">overall network map</a>.  Nodes that are nearest to users and devices will attract more bandwidth.
 * To boost your node's rewards from the Diode Foundation, check out the foundation's <a href="https://diode.foundation/docs/programs/ambassador_registration_program.html" target="_blank" rel="noopener">referral program</a> and, importantly, its <a href="https://diode.foundation/docs/programs/bandwidth_growth_program.html" target="_blank" rel="noopener">bandwidth growth program</a>.
-* * For debugging, visit the <a href="https://forum.diode.io/c/lite-node-category/7" target="_blank" rel="noopener">forum's lite node category</a>, or <a href="https://discord.gg/qdGCAKJdHs" target="_blank" rel="noopener">reach out via Discord</a>.
+* For debugging, visit the <a href="https://forum.diode.io/c/lite-node-category/7" target="_blank" rel="noopener">forum's lite node category</a>, or <a href="https://discord.gg/qdGCAKJdHs" target="_blank" rel="noopener">reach out via Discord</a>.
 
 **System recommendations:**
   * OS that can run <a href="https://snapcraft.io/" target="_blank" rel="noopener">Snap packages </a>(Ubuntu supports Snap by default)
@@ -33,6 +35,3 @@ If you want more motivation, [here are some additional reasons you may want to r
 
 {{< youtube id="Klh6KK_wNAM" title="Run a Diode Node in 3 Minutes" >}}
 
-**Not convinced?** [Read here](/docs/faq/why-host-a-node/) for some reasons why you might want to run a node.
-
-**Want to learn more?** [Read here](https://network.docs.diode.io/docs/features/lite-nodes-vs-full-nodes/) for the differences between Lite Nodes and Full Nodes.

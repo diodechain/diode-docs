@@ -10,7 +10,7 @@ Anyone can run a node in 3 steps (less than 5 minutes!):
 
 <table><tbody><tr><td><h2 style="text-align:center;">1</h2></td><td><h2 style="text-align:center;">2</h2></td><td><h2 style="text-align:center;">3</h2></td></tr><tr><td style="text-align:center;">Get a Linux box</td><td style="text-align:center;">Install the node</td><td style="text-align:center;">Use it!</td></tr><tr><td>You must have a Linux box or virtual machine (preferably running Ubuntu or <a href="https://forum.diode.io/t/lite-node-installation/33/3?u=hansr77" target="_blank" rel="noopener">Windows and wsl</a>)</td><td>Open a terminal and run "snap install diode-node" (<a href="https://forum.diode.io/t/lite-node-installation/33" target="_blank" rel="noopener">many more details here</a>)</td><td>Type "diode-node.info" to see your dashboard link and watch your node's progress! (<a href="https://diode.io/network/#/node/0x8f7d822ab91370880c9a0d5c467653a456a3f165" target="_blank" rel="noopener">for example</a>)</td></tr></tbody></table>
 
-**That's it!  If your node is positioned near to users or devices, it will start handling traffic and earning rewards!**
+**That's it!  If your node is positioned near to users or devices, it will start handling traffic and [earning rewards](https://diode.foundation/docs/programs/bandwidth_growth_program.html)!**
 
 If you want more motivation, [here are some reasons you may want to run a node](/docs/faq/why-host-a-node/)!
 

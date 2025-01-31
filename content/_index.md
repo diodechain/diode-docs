@@ -10,7 +10,9 @@ draft: false
 ---
 Diode's blockchain-anchored Zero Trust DePIN network is the only open, permissionless "ZTNA" in the world.
 
-Anyone can create their own application on top of the Diode Network. As opposed to other ZTNA solutions, the Diode Network:
+Anyone can <a href="/docs/" target="_blank" rel="noopener">run a node</a> and anyone can create their own application on top of the Diode Network.
+
+As opposed to other ZTNA solutions, the Diode Network:
 
 1. Has global routing and identities - anyone can create and use a new device without registration
 2. Is permissionless - anyone can contribute a routing / relay node
@@ -21,4 +23,9 @@ Anyone can create their own application on top of the Diode Network. As opposed 
 {{< youtube id="6_-r1ARlivs" autoplay="true" title="Diode Network Introduction" >}}
 
 Network Map:
+
 <iframe src="https://diode.io/network" style="width:100%;min-height:400px;"></iframe>
+
+&nbsp;
+
+&nbsp;

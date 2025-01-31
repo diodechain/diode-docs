@@ -12,15 +12,17 @@ Anyone can run a Diode Network node (a Diode Point of Presence) and help expand 
 
 ## Three steps to run a node:
 
-1. ### Get a Linux box
+### 1) Get a Linux box
 
-   * You must have a Linux box or virtual machine (preferably running Ubuntu or <a href="https://forum.diode.io/t/lite-node-installation/33/3?u=hansr77" target="_blank" rel="noopener">Windows and wsl</a>)
-2. ### **Install the node**
+* You must have a Linux box or virtual machine (preferably running Ubuntu or <a href="https://forum.diode.io/t/lite-node-installation/33/3?u=hansr77" target="_blank" rel="noopener">Windows and wsl</a>)
 
-   * Open a terminal and run "snap install diode-node" (<a href="https://forum.diode.io/t/lite-node-installation/33" target="_blank" rel="noopener">many more details here</a>)
-3. ### Verify it is working
+### **2) Install the node**
 
-   * In the terminal, type "diode-node.info" (or "sudo diode-node.info") and your dashboard link will be printed out - you can put that in your browser and see your node's progress (<a href="https://diode.io/network/#/node/0x8f7d822ab91370880c9a0d5c467653a456a3f165" target="_blank" rel="noopener">for example</a>)
+* Open a terminal and run "snap install diode-node" (<a href="https://forum.diode.io/t/lite-node-installation/33" target="_blank" rel="noopener">many more details here</a>)
+
+### 3) Verify it is working
+
+* In the terminal, type "diode-node.info" (or "sudo diode-node.info") and your dashboard link will be printed out - you can put that in your browser and see your node's progress (<a href="https://diode.io/network/#/node/0x8f7d822ab91370880c9a0d5c467653a456a3f165" target="_blank" rel="noopener">for example</a>)
 
 That's it!  If your node is positioned near to users or devices, it will start handling traffic and earning rewards!
 

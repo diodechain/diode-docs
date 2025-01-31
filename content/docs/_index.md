@@ -20,7 +20,7 @@ That's it!  If your node is positioned near to users or devices, it will start h
 
 * You can see your node on the <a href="https://diode.io/network" target="_blank" rel="noopener">overall network map</a>.
 * For debugging, visit the <a href="https://forum.diode.io/c/lite-node-category/7" target="_blank" rel="noopener">forum's lite node category</a>, or <a href="https://discord.gg/qdGCAKJdHs" target="_blank" rel="noopener">reach out via Discord</a>.
-* To boost your node's rewards from the Diode Foundation, check out the foundation's <a href="https://diode.foundation/docs/programs/bandwidth_growth_program.html" target="_blank" rel="noopener">bandwidth growth program</a>.
+* To boost your node's rewards from the Diode Foundation, check out the foundation's <a href="https://diode.foundation/docs/programs/ambassador_registration_program.html" target="_blank" rel="noopener">referral program</a> and, importantly, its <a href="https://diode.foundation/docs/programs/bandwidth_growth_program.html" target="_blank" rel="noopener">bandwidth growth program</a>.
 * **System requirements**
   * OS that can run <a href="https://snapcraft.io/" target="_blank" rel="noopener">Snap packages </a>(Ubuntu supports Snap by default)
   * Publicly accessible IPv5 or IPv6 address with <a href="https://forum.diode.io/t/lite-node-ports/80" target="_blank" rel="noopener">open ports</a> (most data center VMs have this by default)

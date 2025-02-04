@@ -12,8 +12,12 @@ For a primer on the privacy implications of push notifications, <a href="https:/
 
 You can tell the difference between push notifications and in-app notifications because they are displayed a little bit differently:
 
-* **In app notifications have two lines:** the first line displays "\[Zone name\] - \[Nickname of sender\]", the second line displays a snippet from the notification message.
-* **Push notifications also have two lines**: the first line displays "\[Nickname of sender\] sent you a message", the second line displays a snippet from the notification message.
+* **In app notifications have two lines:**
+  * the first line displays "\[Zone name\] - \[Nickname of sender\]"
+  * the second line displays a snippet from the notification message.
+* **Push notifications also have two lines**:
+  * the first line displays "\[Nickname of sender\] sent you a message"
+  * the second line displays a snippet from the notification message.
 
 If you are trying to tell if push notifications are working on your device, look for the "\[Nickname of sender\] sent you a message" at the beginning/top of the notification bubble.  You can also tell if they are working because they will arrive even if your app is not running in the foreground or the background.
 

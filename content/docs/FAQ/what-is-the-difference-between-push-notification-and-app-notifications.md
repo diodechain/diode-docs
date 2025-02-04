@@ -19,8 +19,8 @@ You can tell the difference between push notifications and in-app notifications 
   * the first line displays "\[Nickname of sender\] sent you a message"
   * the second line displays a snippet from the notification message.
 
-If you are trying to tell if push notifications are working on your device, look for the "\[Nickname of sender\] sent you a message" at the beginning/top of the notification bubble.  You can also tell if they are working because they will arrive even if your app is not running in the foreground or the background.
-
 The following image shows the same message as a push notifications and an in-app notifications on Android.  The top message is a push notification, and the second message is an in-app notification:
 
 ![](/uploads/image-196.png)
+
+If you are trying to tell if push notifications are working on your device, look for the "\[Nickname of sender\] sent you a message" at the beginning/top of the notification bubble. You can also tell if they are working because they will arrive even if your app is not running in the foreground or the background.

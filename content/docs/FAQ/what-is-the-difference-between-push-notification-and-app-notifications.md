@@ -19,7 +19,7 @@ You can tell the difference between push notifications and in-app notifications 
   * the first line displays "\[Nickname of sender\] sent you a message"
   * the second line displays a snippet from the notification message.
 
-The following image shows the same message as a push notifications and an in-app notifications on Android.  The top message is a push notification, and the second message is an in-app notification:
+The following image shows the same message as a push notifications and an in-app notifications on Android.  The top message is an in-app notification, and the second message is a push notification:
 
 ![](/uploads/image-196.png)
 

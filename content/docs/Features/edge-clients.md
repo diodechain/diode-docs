@@ -1,7 +1,7 @@
 ---
 _schema: default
-title: Edge Clients
-nav_title: Edge Clients
+title: Clients
+nav_title: Clients
 nav_section: Features
 weight: 101
 draft: false

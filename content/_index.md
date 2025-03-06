@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Diode Network Overview
+title: <a href="https://diodenetwork.io">Diode Network Overview</a>
 nav_title: Overview
 SEO_options:
   title: Diode Network
@@ -25,6 +25,10 @@ As opposed to other ZTNA solutions, the Diode Network:
 Network Map:
 
 <iframe src="https://diode.io/network" style="width:100%;min-height:400px;"></iframe>
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 

@@ -6,9 +6,11 @@ nav_section: Installation
 weight: 2
 draft: false
 ---
-<table><tbody><tr><td><h2 style="text-align:center;">1</h2></td><td><h2 style="text-align:center;">2</h2></td><td><h2 style="text-align:center;">3</h2></td></tr><tr><td style="text-align:center;">Get a Linux box</td><td style="text-align:center;">Install the node</td><td style="text-align:center;">Use it!</td></tr><tr><td>You must have a Linux box or virtual machine (preferably running Ubuntu or <a href="https://forum.diode.io/t/lite-node-installation/33/3?u=hansr77" target="_blank" rel="noopener">Windows and wsl</a>)</td><td>Open a terminal and run "snap install diode-node" (<a href="https://forum.diode.io/t/lite-node-installation/33" target="_blank" rel="noopener">more details here</a>)</td><td>Type "diode-node.info" to see your dashboard link and watch your node's progress! (<a href="https://diode.io/network/#/node/0x8f7d822ab91370880c9a0d5c467653a456a3f165" target="_blank" rel="noopener">for example</a>)</td></tr></tbody></table>
+<table><tbody><tr><td><h2>1</h2></td><td><h2>2</h2></td><td><h2>3</h2></td></tr><tr><td>Get a Linux box</td><td>Install the node</td><td>Use it!</td></tr><tr><td>You must have a Linux box or virtual machine (preferably running Ubuntu or <a href="https://forum.diode.io/t/lite-node-installation/33/3?u=hansr77" target="_blank" rel="noopener">Windows and wsl</a>)</td><td>Open a terminal and run "snap install diode-node" (<a href="https://forum.diode.io/t/lite-node-installation/33" target="_blank" rel="noopener">more details here</a>)</td><td>Type "diode-node.info" to see your dashboard link and watch your node's progress! (<a href="https://diode.io/network/#/node/0x8f7d822ab91370880c9a0d5c467653a456a3f165" target="_blank" rel="noopener">for example</a>)</td></tr></tbody></table>
 
-**That's it!  If your node is positioned near to users or devices, it will start handling traffic and [earning rewards](https://diode.foundation/docs/programs/bandwidth_growth_program.html)!**
+**That's it!  If your node is positioned near to users or devices, it will start handling traffic and** [**earning rewards**](https://diode.foundation/docs/programs/bandwidth_growth_program.html)**!**
+
+Checkout the <a href="https://diodenetwork.io" target="_blank" rel="noopener">Diode Network site</a> to learn more about the network and to see your node come online.
 
 **Not convinced?** [Read here](/docs/faq/why-host-a-node/) for some reasons why you might want to run a node.
 
@@ -21,9 +23,10 @@ draft: false
 * For debugging, visit the <a href="https://forum.diode.io/c/lite-node-category/7" target="_blank" rel="noopener">forum's lite node category</a>, or <a href="https://discord.gg/qdGCAKJdHs" target="_blank" rel="noopener">reach out via Discord</a>.
 
 **System recommendations:**
-  * OS that can run <a href="https://snapcraft.io/" target="_blank" rel="noopener">Snap packages </a>(Ubuntu supports Snap by default)
-  * Publicly accessible IPv5 or IPv6 address with <a href="https://forum.diode.io/t/lite-node-ports/80" target="_blank" rel="noopener">open ports</a> (most data center VMs have this by default)
-  * 2GB of RAM (some providers, like Linode, run OK on 1GB of RAM)
+
+* OS that can run <a href="https://snapcraft.io/" target="_blank" rel="noopener">Snap packages </a>(Ubuntu supports Snap by default)
+* Publicly accessible IPv5 or IPv6 address with <a href="https://forum.diode.io/t/lite-node-ports/80" target="_blank" rel="noopener">open ports</a> (most data center VMs have this by default)
+* 2GB of RAM (some providers, like Linode, run OK on 1GB of RAM)
 
 > If you just want to use Diode, you don't need to run your own node (see the off-the-shelf [Diode Collab](https://diode.io/solutions/app) and the [CLI](https://diode.io/solutions/cli) ). However, if you DO want to run a node in the Diode Network, you've come to the right place!
 
@@ -32,4 +35,3 @@ draft: false
 &nbsp;
 
 {{< youtube id="Klh6KK_wNAM" title="Run a Diode Node in 3 Minutes" >}}
-

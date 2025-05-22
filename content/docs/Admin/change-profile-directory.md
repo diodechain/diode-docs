@@ -4,8 +4,10 @@ title: Change Profile Directory
 nav_title: Change Profile Directory
 nav_section: For Your IT Admin
 weight: 304
-draft: false
+draft: true
 ---
+## **THIS IS NOT LONGER SUPPORTED - SEE https://github.com/diodechain/ddrive/issues/2411**
+
 Diode Collab supports changing the <a href="https://app.docs.diode.io/docs/faq/how-do-i-change-my-diode-drive-account-profile/" target="_blank" rel="noopener"><strong>profile directory</strong></a> away from the default location by using one of the following methods:
 
 **Use a file**

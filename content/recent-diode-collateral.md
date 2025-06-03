@@ -6,16 +6,16 @@ SEO_options:
     title:
     image:
     description:
-draft: false
+draft: true
 ---
-Diode Banner: ![](/uploads/2023-diode-banner-1.svg)
+Diode Banner:
 
-Diode Business Card (Dark - Back): ![](/uploads/2023-diode-business-card-dark-back.svg)
+Diode Business Card (Dark - Back):
 
-Diode Business Card (Font - Dark - Back): ![](/uploads/2023-diode-business-card-dark-front.svg)
+Diode Business Card (Font - Dark - Back):
 
-Diode Business Card (Light - Back): ![](/uploads/2023-diode-business-card-light-back.svg)
+Diode Business Card (Light - Back):
 
-Diode Business Card (Font - Light - Back): ![](/uploads/2023-diode-business-card-light-front.svg)
+Diode Business Card (Font - Light - Back):
 
-Diode Background: ![](/uploads/2024-07-polka-diode-bg.png)
+Diode Background: /2023-Diode-Banner.svg

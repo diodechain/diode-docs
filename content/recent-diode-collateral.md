@@ -20,10 +20,6 @@ Diode Business Card (Font - Light - Back):
 
 Diode Background: /2023-Diode-Banner.svg
 
-&nbsp;
-
-```yaml
-_inputs:
-  /2023-Diode-Banner.svg:
-    type: file
+```markdown
+example_css: /2023-Diode-Banner.svg
 ```

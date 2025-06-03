@@ -18,7 +18,7 @@ Diode Business Card (Light - Back):
 
 Diode Business Card (Font - Light - Back):
 
-Diode Background:[/2023-Diode-Banner.svg]()
+Diode Background: [/2023-Diode-Banner.svg](/2023-Diode-Banner.svg)
 
 &nbsp;
 

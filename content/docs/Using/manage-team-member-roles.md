@@ -13,7 +13,7 @@ Diode Collab supports Team Members of a few different Roles, as shown here:
 | Owner | Owners have all permissions in a Zone. |
 | Admin | Admins have all the permissions of an Owner, but cannot transfer ownership to another user and cannot add or remove another Admin. |
 | Member | Members cannot interact with most administrative settings, and cannot add or remove Team Members, Channels, or Bookmarks. |
-| Read Only | Read Only team members cannot add or remove files, see any public/private Channels or Member DMs, or access any global Zone Settings. They can read files, can view the feed in Broadcast Channels, and can interact with Admins and Owner DMs. |
+| In Moderation | In Moderation team members cannot add, see or remove files, see any public/private Channels or Member DMs, or access any global Zone Settings. They can can view the feed in Broadcast Channels and can interact with Admins and Owner DMs. |
 | Bot | Bots are the same as Members, but are not shown as Team Members in Channels. |
 
 &nbsp;

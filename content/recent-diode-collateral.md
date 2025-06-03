@@ -6,7 +6,7 @@ SEO_options:
     title:
     image:
     description:
-draft: true
+draft: false
 ---
 Diode Banner:
 

@@ -12,11 +12,11 @@ draft: false
 
 [Diode Business Card (Dark - Back)](/uploads/2023-diode-business-card-dark-back.svg)
 
-[Diode Business Card (Font - Dark - Back)](/uploads/2023-diode-business-card-dark-front.svg)
+[Diode Business Card (Front - Dark - Back)](/uploads/2023-diode-business-card-dark-front.svg)
 
 [Diode Business Card (Light - Back)](/uploads/2023-diode-business-card-light-back.svg)
 
-[Diode Business Card (Font - Light - Back)](/uploads/2023-diode-business-card-light-front.svg)
+[Diode Business Card (Front - Light - Back)](/uploads/2023-diode-business-card-light-front.svg)
 
 [Diode Background](/uploads/2024-07-polka-diode-bg.png)
 

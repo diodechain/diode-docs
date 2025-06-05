@@ -8,7 +8,7 @@ SEO_options:
     description:
 draft: false
 ---
-Diode Banner:
+[Diode Banner](/uploads/2023-diode-banner.svg)
 
 Diode Business Card (Dark - Back):
 

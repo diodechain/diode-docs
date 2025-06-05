@@ -35,7 +35,7 @@ Other: <a href="https://en.wikipedia.org/wiki/Arial" target="_blank" rel="noopen
 
 The <a href="https://diode.io/" target="_blank" rel="noopener">Diode website</a>
 
-[Recent Diode collateral](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/9jiz37sabkjfes4o/Example%20Collateral)
+[Recent Diode Collateral](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/9jiz37sabkjfes4o/Example%20Collateral)
 
 ### **Logo**
 

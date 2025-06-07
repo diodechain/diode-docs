@@ -41,17 +41,13 @@ The <a href="https://diode.io/" target="_blank" rel="noopener">Diode website</a>
 
 [Diode Orange Logo](https://download.diode.io/downloads/collab/diode-orange.png)
 
-/content/downloads/collab/Map Globe 640x200-cc65c595.png
+[Diode White Logo](https://download.diode.io/downloads/collab/diode-white.png)
 
-/content/downloads/collab/diode-orange.png
+[Diode Orange Coin Logo](https://download.diode.io/downloads/collab/diode-coin-512x512%20.png)
 
-[Diode White Logo](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/t86hduherri9rvkm/)
+[Diode Orange Square Logo](https://download.diode.io/downloads/collab/diode-icon-square.png)
 
-[Diode Orange Coin Logo](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/fnsctz0vdbr42ek9)
-
-[Diode Orange Square Logo](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/ad7l0i97v3nfqc94)
-
-[Diode White Coin Logo](https://share.diode.link/drive-5u9exorgihe2vu74fpkc/0v6r94982hc14riu)
+[Diode White Coin Logo](https://download.diode.io/downloads/collab/diode-coin-whitebg.png)
 
 &nbsp;
 

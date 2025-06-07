@@ -8,17 +8,19 @@ SEO_options:
     description:
 draft: false
 ---
-[Diode Banner](/uploads/2023-diode-banner.svg)
+[Diode Banner](https://download.diode.io/downloads/collab/2023-Diode-Banner.svg)
 
-[Diode Business Card (Dark - Back)](/uploads/2023-diode-business-card-dark-back.svg)
+[Diode Business Card (Dark - Back)](https://download.diode.io/downloads/collab/2023-Diode-Business-Card-Dark-Back.svg)
 
-[Diode Business Card (Front - Dark - Back)](/uploads/2023-diode-business-card-dark-front.svg)
+[Diode Business Card (Dark-Front)](https://download.diode.io/downloads/collab/2023-Diode-Business-Card-Dark-Front.svg)
 
-[Diode Business Card (Light - Back)](/uploads/2023-diode-business-card-light-back.svg)
+[Diode Business Card (Light - Back)](https://download.diode.io/downloads/collab/2023-Diode-Business-Card-Light-Back.svg)
 
-[Diode Business Card (Front - Light - Back)](/uploads/2023-diode-business-card-light-front.svg)
+[Diode Business Card (Light - Front)](https://download.diode.io/downloads/collab/2023-Diode-Business-Card-Light-Front.svg)
 
-[Diode Background](/uploads/2024-07-polka-diode-bg.png)
+[Diode Background](https://download.diode.io/downloads/collab/2024-07-polka-diode-bg.png)
+
+&nbsp;
 
 &nbsp;
 

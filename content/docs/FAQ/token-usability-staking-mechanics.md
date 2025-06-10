@@ -3,7 +3,7 @@ _schema: default
 title: Token Usability & Staking Mechanics
 nav_title: Token Usability & Staking Mechanics
 nav_section: FAQ
-weight: 20035
+weight: 20038
 draft: false
 ---
 **Q: What can I do with my tokens?**

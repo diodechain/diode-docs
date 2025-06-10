@@ -3,7 +3,7 @@ _schema: default
 title: If I open a screen and simulate traffic to boost bandwidth, is that allowed?
 nav_title: Simulated Traffic Rules
 nav_section: FAQ
-weight: 20018
+weight: 20031
 draft: false
 ---
 Short answer: No, it doesn't align with the intended use of the network.

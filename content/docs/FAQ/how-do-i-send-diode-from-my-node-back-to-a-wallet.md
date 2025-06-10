@@ -3,7 +3,7 @@ _schema: default
 title: How do I send DIODE from my node back to a wallet?
 nav_title: Move DIODE from Node
 nav_section: FAQ
-weight: 20018
+weight: 20030
 draft: false
 ---
 At the moment, you can't. You’ll need to wait for the upcoming “accountant” feature (expected within 30 days) to enable withdrawals.

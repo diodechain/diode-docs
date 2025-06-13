@@ -16,23 +16,23 @@ A Device PIN can be set both on mobile and desktop. If set, it will be required 
 
 ![](/uploads/screenshot-2025-06-13-at-2-49-02-pm.png)
 
-5\. Select "enable"
+3\. Select "enable"
 
 ![](/uploads/screenshot-2025-06-13-at-2-51-35-pm.png)
 
-6\. Enter your desired code and store somewhere safe
+4\. Enter your desired code and store somewhere safe
 
 ![](/uploads/screenshot-2025-06-13-at-2-52-45-pm.png)
 
-7\. Confirm your new code
+5\. Confirm your new code
 
 ![](/uploads/screenshot-2025-06-13-at-2-53-18-pm.png)
 
-8\. Wait for encryption
+6\. Wait for encryption
 
 ![](/uploads/screenshot-2025-06-13-at-2-53-42-pm.png)
 
-9\. Your new code has now been enabled
+7\. Your new code has now been enabled
 
 ![](/uploads/screenshot-2025-06-13-at-2-53-53-pm.png)
 

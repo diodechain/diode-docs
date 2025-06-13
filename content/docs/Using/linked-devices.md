@@ -14,15 +14,23 @@ As of Diode Collab 1.4.0 (January 2022), your Account can be used on multiple de
 
 <u>Go to Profile Settings</u>
 
-To add and manage Linked Devices for your Account, go to your Profile from the drop-down menu in the upper right corner of your App under your username. Once in Profile, you can click into your "Linked Devices" settings and add or delete a device by using the plus or trash icon in the upper right hand corner.
+**Step 1:**<br>Go to your **Profile** by selecting it from the drop-down menu in the upper right corner of your app (under your username).
 
-<u>Add Device</u>
+**Step 2:**<br>In your Profile, click on **"Linked Devices"** settings.
 
-To add a device, download Diode Collab on the new device, provide your username, and select "log in." On your original device, click the plus icon in your "Linked Devices" settings and use the code provided for your new device. Wait until your original device has you click "confirm," and then allow the new device to sync your existing Zones, chats, etc..
+**Step 3:**<br>To **add** a device, tap the **plus icon** in the upper right corner.<br>To **remove** a device, tap the **trash icon** in the same location.
+
+<u>Add New Device</u>
+
+**Step 1:**<br>On the **new device**, download **Diode Collab**, enter your **username**, and select **"Log In."** A code will appear on the new device.
+
+**Step 2:**<br>On your **original device**, go to your **"Linked Devices"** settings and tap the **plus icon**. Enter the **code** from the new device.
+
+**Step 3:**<br>When prompted on your original device, click **"Confirm."** The new device will then begin syncing your existing **Zones, chats**, and other data.
 
 <u>Delete Device</u>
 
-To delete a device, simply select the device you wish to delete, press the trash icon, and confirm.
+To delete a device, simply select the device you wish to delete, press the **trash icon**, and confirm.
 
 **Backup Codes**
 

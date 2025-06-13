@@ -28,7 +28,7 @@ A Device PIN can be set both on mobile and desktop. If set, it will be required 
 
 **6\. Wait for encryption**
 
-![](/uploads/screenshot-2025-06-13-at-2-53-42-pm.png)
+![](/uploads/screenshot-2025-06-13-at-3-01-40-pm.png)
 
 **7\. Your new code has now been enabled**
 
@@ -36,4 +36,4 @@ A Device PIN can be set both on mobile and desktop. If set, it will be required 
 
 **<u>Note</u>**: To disable or change the PIN, follow the same steps as above to get to the "Device PIN" setting, and then select "Disable" or "Change PIN." You will be prompted to provide your current PIN in order to change the PIN.
 
-![](/uploads/screenshot-2025-06-13-at-2-55-50-pm.png)
+![](/uploads/screenshot-2025-06-13-at-3-01-54-pm.png)

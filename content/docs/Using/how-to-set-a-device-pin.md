@@ -8,6 +8,8 @@ draft: false
 ---
 A Device PIN can be set both on mobile and desktop. If set, it will be required to be entered when opening Diode Collab.
 
+> **Note:** On mobile, data is already encrypted on disk by default.
+
 **<u>To set:</u>**
 
 **1\. Go to your Profile by selecting it from the drop-down menu in the upper right corner of your app (under your username).**
@@ -34,6 +36,6 @@ A Device PIN can be set both on mobile and desktop. If set, it will be required 
 
 ![](/uploads/screenshot-2025-06-13-at-2-53-53-pm.png)
 
-**<u>Note</u>**: To disable or change the PIN, follow the same steps as above to get to the "Device PIN" setting, and then select "Disable" or "Change PIN." You will be prompted to provide your current PIN in order to change the PIN.
+> **<u>Note</u>**: To disable or change the PIN, follow the same steps as above to get to the "Device PIN" setting, and then select "Disable" or "Change PIN." You will be prompted to provide your current PIN in order to change the PIN.
 
 ![](/uploads/decrypted-pin-1.png)

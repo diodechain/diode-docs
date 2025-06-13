@@ -36,6 +36,6 @@ A Device PIN can be set both on mobile and desktop. If set, it will be required 
 
 ![](/uploads/screenshot-2025-06-13-at-2-53-53-pm.png)
 
-> **<u>Note</u>**: To disable or change the PIN, follow the same steps as above to get to the "Device PIN" setting, and then select "Disable" or "Change PIN." You will be prompted to provide your current PIN in order to change the PIN.
+> **<u>Note</u>**: To disable or change your PIN later, follow the same steps and select **“Disable”** or **“Change PIN.”** You’ll need to enter your current PIN to make changes.
 
 ![](/uploads/decrypted-pin-1.png)

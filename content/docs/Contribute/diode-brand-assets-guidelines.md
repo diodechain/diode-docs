@@ -39,7 +39,7 @@ The <a href="https://diode.io/" target="_blank" rel="noopener">Diode website</a>
 
 [Diode Orange Logo](/content/branding/diode-orange.png)
 
-/content/branding/diode-orange.png
+https://docs.diode.io/docs/content/branding/diode-orange.png
 
 https://docs.diode.io/content/branding/diode-orange.png
 

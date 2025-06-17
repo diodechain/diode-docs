@@ -41,11 +41,17 @@ The <a href="https://diode.io/" target="_blank" rel="noopener">Diode website</a>
 
 https://docs.diode.io/content/branding/diode-orange.png
 
-https://docs.diode.io/content/branding/diode-orange.png
+https://docs.diode.io/branding/diode-orange.png
 
 https://download.diode.io/downloads/collab/diode-white.png
 
 /content/branding/diode-orange.png
+
+https://download.diode.io/downloads/collab/diode-white.png
+
+https://download.diode.io/downloads/collab/diode-white.png
+
+&nbsp;
 
 [Diode White Logo](https://download.diode.io/downloads/collab/diode-white.png)
 

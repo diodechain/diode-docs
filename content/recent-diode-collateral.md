@@ -8,17 +8,17 @@ SEO_options:
     description:
 draft: false
 ---
-[Diode Banner](https://download.diode.io/downloads/collab/2023-Diode-Banner.svg)
+[Diode Banner](https://docs.diode.io/branding/2023-Diode-Banner.svg)
 
-[Diode Business Card (Dark - Back)](https://download.diode.io/downloads/collab/2023-Diode-Business-Card-Dark-Back.svg)
+[Diode Business Card (Dark - Back)](https://docs.diode.io/branding/2023-Diode-Business-Card-Dark-Back.svg)
 
-[Diode Business Card (Dark-Front)](https://download.diode.io/downloads/collab/2023-Diode-Business-Card-Dark-Front.svg)
+[Diode Business Card (Dark-Front)](https://docs.diode.io/branding/2023-Diode-Business-Card-Dark-Front.svg)
 
-[Diode Business Card (Light - Back)](https://download.diode.io/downloads/collab/2023-Diode-Business-Card-Light-Back.svg)
+[Diode Business Card (Light - Back)](https://docs.diode.io/branding/2023-Diode-Business-Card-Light-Back.svg)
 
-[Diode Business Card (Light - Front)](https://download.diode.io/downloads/collab/2023-Diode-Business-Card-Light-Front.svg)
+[Diode Business Card (Light - Front)](https://docs.diode.io/branding/2023-Diode-Business-Card-Light-Front.svg)
 
-[Diode Background](https://download.diode.io/downloads/collab/2024-07-polka-diode-bg.png)
+[Diode Background](https://docs.diode.io/branding/2024-07-polka-diode-bg.png)
 
 &nbsp;
 

@@ -37,27 +37,13 @@ The <a href="https://diode.io/" target="_blank" rel="noopener">Diode website</a>
 
 ### **Logo**
 
-[Diode Orange Logo](/content/branding/diode-orange.png)
+[Diode Orange Logo](https://docs.diode.io/branding/diode-orange.png)
 
-https://docs.diode.io/content/branding/diode-orange.png
+[Diode White Logo](https://docs.diode.io/branding/diode-white%20.png)
 
-https://docs.diode.io/branding/diode-orange.png
+[Diode Orange Coin Logo](https://docs.diode.io/branding/diode-coin-512x512%20.png)
 
-https://download.diode.io/downloads/collab/diode-white.png
-
-/content/branding/diode-orange.png
-
-https://download.diode.io/downloads/collab/diode-white.png
-
-https://download.diode.io/downloads/collab/diode-white.png
-
-&nbsp;
-
-[Diode White Logo](https://download.diode.io/downloads/collab/diode-white.png)
-
-[Diode Orange Coin Logo](https://download.diode.io/downloads/collab/diode-coin-512x512%20.png)
-
-[Diode Orange Square Logo](https://download.diode.io/downloads/collab/diode-icon-square.png)
+[Diode Orange Square Logo](https://download.diode.io/downloads/collab/diode-icon-square%20.png)
 
 [Diode White Coin Logo](https://download.diode.io/downloads/collab/diode-coin-whitebg.png)
 

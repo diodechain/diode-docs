@@ -43,7 +43,7 @@ The <a href="https://diode.io/" target="_blank" rel="noopener">Diode website</a>
 
 [Diode Orange Coin Logo](https://docs.diode.io/branding/diode-coin-512x512%20.png)
 
-[Diode Orange Square Logo](https://download.diode.io/downloads/collab/diode-icon-square%20.png)
+[Diode Orange Square Logo](https://download.diode.io/downloads/collab/diode-icon-square.png)
 
 [Diode White Coin Logo](https://download.diode.io/downloads/collab/diode-coin-whitebg.png)
 

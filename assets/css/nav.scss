@@ -60,15 +60,18 @@
         }
 
         a {
-            color: var(--text);
+            color: var(--links);
             font-weight: 500;
             display: flex;
             align-items: center;
             gap: 10px;
             font-size: 0.9em;
-            
         }
 
+        .focus {
+          font-weight: bold;
+        }
+            
         .logo-link {
             text-decoration: none;
         }

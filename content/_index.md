@@ -1,35 +1,24 @@
 ---
 _schema: default
 title: Welcome 👋
-nav_title: Home
+nav_title: Welcome 👋
 SEO_options:
-  title:
+  title: About Diode
   image:
   description:
 draft: false
 ---
-Alto is a minimal and modern Hugo theme for static documentation sites, created by and optimized for <a target="_blank" rel="noopener" href="https://cloudcannon.com">CloudCannon</a>.
+Hi there - if you’re looking for the future of secure communications, you’ve come to the right place!
 
-Designed initially for open-source software, Alto has many built-in features to aid both site users and documentation writers:
+Diode's next generation solutions eliminate third-parties at all levels of the communications stack... without requiring self-hosted servers.
 
-* Built-in static search with <a target="_blank" rel="noopener" href="https://pagefind.app">Pagefind</a>;
-* Twelve pre-configured Hugo shortcodes, including diff syntax highlighting, GitHub Gist embeds, and tree diagram formatter;
-* Light/dark modes, with configurable color palettes;
-* Easily configurable navigation and footer content;
-* Flexible grouping options for docs pages;
-* Automatic anchor links to subheadings;
-* Optional announcement banner;
-* Styled with Sass;
-* Optimized for editing and publishing on CloudCannon.
+We make this available to the world in four primary components - each of which have an additional documentation area you can dive into:
 
-To get started with Alto, create a CloudCannon account and check out the [Getting Started documentation](/docs/).
+1. <a href="https://network.docs.diode.io" title="Diode Network" target="_blank" rel="noopener"><strong>Network</strong></a> - an open, permissionless secure communication network that uses blockchain technology for security and scalability.
+2. <a href="https://app.docs.diode.io" title="Diode Collab" target="_blank" rel="noopener"><strong>Collab</strong></a> - cross platform messaging app that is a secure replacement for Discord and Slack.
+3. <a href="https://cli.docs.diode.io" title="Diode CLI" target="_blank" rel="noopener"><strong>CLI</strong></a> - a command-line interface tool that allows you to quickly build on top of the Diode Network and create capabilities that can interact with Collab users.
+4. <a href="https://vaults.docs.diode.io" title="Diode Vault" target="_blank" rel="noopener"><strong>Vault</strong></a> - a hardware device that runs both the Collab and the CLI and can perform duties like being a backup-device for your Zones or hosting a decentralized website
 
-<!--more-->
+### **Diode’s vision is to transform the Internet into everyone’s private network, and we’re adding daily to those capabilities!**
 
-## Showcase
-
-CloudCannon uses Alto as the documentation site template for our own open-source tools. Take a look at these sample sites to see what's possible with static documentation on Alto:&nbsp;
-
-* <a target="_blank" rel="noopener" href="https://pagefind.app/">Pagefind</a>
-* <a target="_blank" rel="noopener" href="https://rosey.app/">Rosey</a>
-* <a target="_blank" rel="noopener" href="https://reseed.app/">Reseed</a>
+{{< youtube id="6_-r1ARlivs" autoplay="true" title="Welcome to Diode" >}}

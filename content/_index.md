@@ -1,35 +1,17 @@
 ---
 _schema: default
-title: Welcome 👋
-nav_title: Home
+title: Diode Vaults Overview
+nav_title: Overview
 SEO_options:
-  title:
+  title: About Diode
   image:
   description:
 draft: false
 ---
-Alto is a minimal and modern Hugo theme for static documentation sites, created by and optimized for <a target="_blank" rel="noopener" href="https://cloudcannon.com">CloudCannon</a>.
+![](/uploads/image-1.png)
 
-Designed initially for open-source software, Alto has many built-in features to aid both site users and documentation writers:
+The Diode Vault is a tool that extends the presence and reach of your team. It relays encrypted messages on behalf of offline team members, backs up files, and provides a private exit node to give your team ex-region Internet access.
 
-* Built-in static search with <a target="_blank" rel="noopener" href="https://pagefind.app">Pagefind</a>;
-* Twelve pre-configured Hugo shortcodes, including diff syntax highlighting, GitHub Gist embeds, and tree diagram formatter;
-* Light/dark modes, with configurable color palettes;
-* Easily configurable navigation and footer content;
-* Flexible grouping options for docs pages;
-* Automatic anchor links to subheadings;
-* Optional announcement banner;
-* Styled with Sass;
-* Optimized for editing and publishing on CloudCannon.
+It can be deployed in the cloud or as a small box that plugs into power and Ethernet. Either way, it will extend the reach of your E2EE collaboration zones.
 
-To get started with Alto, create a CloudCannon account and check out the [Getting Started documentation](/docs/).
-
-<!--more-->
-
-## Showcase
-
-CloudCannon uses Alto as the documentation site template for our own open-source tools. Take a look at these sample sites to see what's possible with static documentation on Alto:&nbsp;
-
-* <a target="_blank" rel="noopener" href="https://pagefind.app/">Pagefind</a>
-* <a target="_blank" rel="noopener" href="https://rosey.app/">Rosey</a>
-* <a target="_blank" rel="noopener" href="https://reseed.app/">Reseed</a>
+&nbsp;

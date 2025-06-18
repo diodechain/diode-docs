@@ -1,7 +1,8 @@
-project_name: Alto — Hugo Documentation theme
-default_og_image: /uploads/alto.png
+project_name: Diode Docs
+product_name: Vault
+default_og_image: https://app.docs.diode.io/uploads/diode-coin-x-canvas.png
 favicon:
-  small_icon: /meta/favicon-16x16.png
-  large_icon: /meta/favicon-32x32.png
-  apple_touch_icon: /meta/apple-touch-icon.png
+  small_icon: /uploads/diode-icon-square-copy.png
+  large_icon: /uploads/diode-icon-square-copy-1.png
+  apple_touch_icon: /uploads/diode-icon-square-copy-2.png
   shortcut_icon: /meta/favicon.ico

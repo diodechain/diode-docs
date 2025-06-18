@@ -1,21 +1,21 @@
 ---
 _schema: default
-title: Getting Started
-nav_title: Getting Started
-nav_section: Root
+title: 2312-NT
+nav_title: 2312-NT
+nav_section: Models
 weight: 2
 draft: false
 ---
-To create a new Alto site and deploy it immediately to CloudCannon, click <a target="_blank" rel="noopener" href="https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/alto-hugo-template">here</a>.
+![](/uploads/image.png)
 
-## Creating new site pages
+The 2312-NT model is the first Vault model produced starting in December of 2023.
 
-For this guide we'll work through a single example: creating a new documentation on Alto within CloudCannon, and ensuring it's shown in the correct place in your navigation bar.&nbsp;
+By configuring the Vault to auto-accept Zone invitations from authorized people, the Vault operates as a "Bot" in Diode Collab Zones.
 
-Navigation in Alto is handled by front matter in Hugo, which can be easily edited in CloudCannon's <a target="_blank" rel="noopener" href="https://cloudcannon.com/documentation/articles/introducing-the-data-editor/">Data Editor</a>.
+It contains a solid state drive and a system controller running at 1.8GHz with 8GB of RAM and Gigabit Ethernet.
 
-Each page on Alto has a 'Parent Section' property, which allows you to group related items in the sidebar. This sample site has a single Parent Sections, 'Customizing Alto'.
+The "N" in the "2312-NT" can be any number and corresponds to the number of terabytes of storage that the vault has.
 
-You can also change the order of the page within the sidebar group using 'Weight'.
+For example, a "2312-1T" system has 1 terabyte of storage.
 
-{{< figure src="/uploads/screenshot-2023-07-27-at-1-17-49-pm.png" >}}
+MSRP ranges from $400 USD to $600 USD depending on the SSD.

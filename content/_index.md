@@ -1,35 +1,51 @@
 ---
 _schema: default
-title: Welcome 👋
-nav_title: Home
+title: Diode Network Overview
+nav_title: Overview
 SEO_options:
-  title:
+  title: Diode Network
   image:
   description:
 draft: false
 ---
-Alto is a minimal and modern Hugo theme for static documentation sites, created by and optimized for <a target="_blank" rel="noopener" href="https://cloudcannon.com">CloudCannon</a>.
+Diode's blockchain-anchored Zero Trust DePIN network is the only open, permissionless "ZTNA" in the world.
 
-Designed initially for open-source software, Alto has many built-in features to aid both site users and documentation writers:
+<a href="https://diodenetwork.io" target="_blank" rel="noopener"><strong>See here for the Diode Network's website.</strong></a>
 
-* Built-in static search with <a target="_blank" rel="noopener" href="https://pagefind.app">Pagefind</a>;
-* Twelve pre-configured Hugo shortcodes, including diff syntax highlighting, GitHub Gist embeds, and tree diagram formatter;
-* Light/dark modes, with configurable color palettes;
-* Easily configurable navigation and footer content;
-* Flexible grouping options for docs pages;
-* Automatic anchor links to subheadings;
-* Optional announcement banner;
-* Styled with Sass;
-* Optimized for editing and publishing on CloudCannon.
+Anyone can <a href="/docs/" target="_blank" rel="noopener">run a node</a> and anyone can create their own application on top of the Diode Network.
 
-To get started with Alto, create a CloudCannon account and check out the [Getting Started documentation](/docs/).
+As opposed to other ZTNA solutions, the Diode Network:
 
-<!--more-->
+1. Has global routing and identities - anyone can create and use a new device without registration
+2. Is permissionless - anyone can contribute a routing / relay node
+3. Has no fees for using the network\*
 
-## Showcase
+\* Using the network via third party relays requires a bandwidth sponsor.  The Diode Network uses the $DIODE token to underwrite bandwidth supply on behalf of application providers.
 
-CloudCannon uses Alto as the documentation site template for our own open-source tools. Take a look at these sample sites to see what's possible with static documentation on Alto:&nbsp;
+{{< youtube id="6_-r1ARlivs" autoplay="true" title="Diode Network Introduction" >}}
 
-* <a target="_blank" rel="noopener" href="https://pagefind.app/">Pagefind</a>
-* <a target="_blank" rel="noopener" href="https://rosey.app/">Rosey</a>
-* <a target="_blank" rel="noopener" href="https://reseed.app/">Reseed</a>
+Network Map:
+
+<iframe src="https://diode.io/network" style="width:100%;min-height:400px;"></iframe>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;

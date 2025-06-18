@@ -1,35 +1,23 @@
 ---
 _schema: default
-title: Welcome 👋
-nav_title: Home
+title: Diode Collab Overview
+nav_title: Overview
 SEO_options:
-  title:
+  title: Diode App Secure Messenger
   image:
   description:
 draft: false
 ---
-Alto is a minimal and modern Hugo theme for static documentation sites, created by and optimized for <a target="_blank" rel="noopener" href="https://cloudcannon.com">CloudCannon</a>.
+To get started, see the [Orientation documents](https://app.docs.diode.io/docs/orientation/the-content-area/).
 
-Designed initially for open-source software, Alto has many built-in features to aid both site users and documentation writers:
+Diode's leading secure collaboration product is a cross-platform messaging application that feels like Slack but has a higher level of security posture than Signal.  It is made for team collaboration and communication in sensitive regions and in regulated data environments.
 
-* Built-in static search with <a target="_blank" rel="noopener" href="https://pagefind.app">Pagefind</a>;
-* Twelve pre-configured Hugo shortcodes, including diff syntax highlighting, GitHub Gist embeds, and tree diagram formatter;
-* Light/dark modes, with configurable color palettes;
-* Easily configurable navigation and footer content;
-* Flexible grouping options for docs pages;
-* Automatic anchor links to subheadings;
-* Optional announcement banner;
-* Styled with Sass;
-* Optimized for editing and publishing on CloudCannon.
+![](/uploads/image-2.png)
 
-To get started with Alto, create a CloudCannon account and check out the [Getting Started documentation](/docs/).
+The app doesn't store any data on a server and its three main capabilities are:
 
-<!--more-->
+1. **Secure messaging**: All DMs and group chats are 256-bit end-to-end encrypted.
+2. **Secure file sharing**: The end-to-end encrypted file sharing is like Google Drive meets a secure self-custody bit torrent.
+3. **Tunneled bookmarks**: Web bookmarks use regional-access tunnels or direct-access tunnels.
 
-## Showcase
-
-CloudCannon uses Alto as the documentation site template for our own open-source tools. Take a look at these sample sites to see what's possible with static documentation on Alto:&nbsp;
-
-* <a target="_blank" rel="noopener" href="https://pagefind.app/">Pagefind</a>
-* <a target="_blank" rel="noopener" href="https://rosey.app/">Rosey</a>
-* <a target="_blank" rel="noopener" href="https://reseed.app/">Reseed</a>
+{{< youtube id="slPeBLKTTEU" autoplay="true" title="Introduction to Diode Collab" >}}

@@ -27,6 +27,11 @@ body{
     width: 100%;
     max-width: 1000px;
     margin: 0 auto;
+    p.note {
+      font-size: small;
+      margin-block-start: 0.2em;
+      margin-block-end: 0.2em;
+    }
 }
 
 .editor-link {
